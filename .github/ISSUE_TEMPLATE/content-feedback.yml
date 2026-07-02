@@ -1,0 +1,38 @@
+name: 內容修改建議
+description: 對某篇筆記提出更正、補充或疑問
+labels: ["content"]
+body:
+  - type: input
+    id: article
+    attributes:
+      label: 哪一篇筆記？
+      description: 貼上該篇文章的網址或標題
+      placeholder: "例：https://christseng1112.github.io/sidemount-knowledge/50_safety/氣閥演練-(valve-drills)-標準步驟"
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 問題類型
+      options:
+        - 錯誤／不精確（數值、程序、事實有誤）
+        - 過時（機構標準已更新）
+        - 來源連結失效或有問題
+        - 內容補充建議
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 具體說明
+      description: 哪裡有問題？你的依據是什麼（可附連結或截圖）？
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建議修法（optional）
+      description: 如果你已經想好該怎麼改，可以直接寫在這裡
+    validations:
+      required: false

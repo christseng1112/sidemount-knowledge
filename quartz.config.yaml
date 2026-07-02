@@ -198,6 +198,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/christseng1112/sidemount-knowledge
+        提出修改建議: https://github.com/christseng1112/sidemount-knowledge/issues/new/choose
         授權 CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
   - source: github:quartz-community/recent-notes
     enabled: false

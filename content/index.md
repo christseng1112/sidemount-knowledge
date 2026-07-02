@@ -31,3 +31,7 @@ title: 🌊 側掛知識流｜Sidemount Diving Knowledge Base
 ## 📜 授權
 
 本站內容以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權——可自由分享與改作，需署名、非商業使用、以相同方式分享。
+
+## 🛠️ 發現錯誤或想提修改？
+
+看到內容有誤、過時、來源連結失效，或想補充內容，歡迎[**開一個 Issue**](https://github.com/christseng1112/sidemount-knowledge/issues/new/choose)——選「內容修改建議」範本，填上是哪一篇、問題是什麼即可，不需要會寫程式或申請帳號以外的任何準備。審核後會合併進站內。
