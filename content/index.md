@@ -32,6 +32,11 @@ title: 🌊 側掛知識流｜Sidemount Diving Knowledge Base
 
 本站內容以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權——可自由分享與改作，需署名、非商業使用、以相同方式分享。
 
-## 🛠️ 發現錯誤或想提修改？
+## 🛠️ 回饋與討論
 
-看到內容有誤、過時、來源連結失效，或想補充內容，歡迎[**開一個 Issue**](https://github.com/christseng1112/sidemount-knowledge/issues/new/choose)——選「內容修改建議」範本，填上是哪一篇、問題是什麼即可，不需要會寫程式或申請帳號以外的任何準備。審核後會合併進站內。
+依你想做的事，走不同管道：
+
+- **看到具體問題**（內容有誤、過時、來源連結失效、想補充某一篇）→ [**開一個 Issue**](https://github.com/christseng1112/sidemount-knowledge/issues/new/choose)，選「內容修改建議」範本，填上是哪一篇、問題是什麼即可。審核後會合併進站內。
+- **想聊、想問、想分享經驗**（裝備選擇、潛點心得、對某個主題的不同看法）→ 到 [**Discussions 討論板**](https://github.com/christseng1112/sidemount-knowledge/discussions) 開串，不用是「問題」也能討論。
+
+兩者都只需要一個免費 GitHub 帳號，不需要會寫程式。
