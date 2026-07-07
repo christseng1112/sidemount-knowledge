@@ -40,7 +40,7 @@ tags:
 當氣囊被沉船鐵皮割破、或排氣閥O環脫落導致氣囊完全無法保持氣體時，潛水員會瞬間失去中性浮力並開始下沉。此時必須啟用「備用浮力方案」 [2][4]：
 
 ### 🟢 方案一：啟用雙囊 BCD 的備用氣囊 (Dual Bladder)
-> ⚠️ **務必先確認你的氣囊「真的」是雙氣囊**。許多側掛氣囊（含 **XDEEP Stealth 2.0 / 2.0 Tec 標準版**）官方規格為「外殼＋內膽」**兩層單一氣室**，並非雙氣囊冗餘——切勿因「兩層/Tec」字樣誤以為有備用氣囊 [9]。**Razor 4 BAT Wing 則官方標配雙氣囊冗餘**（主/備各 20 kg）[10]。請於購買時與下水前確認。
+> ⚠️ **務必先確認你的氣囊「真的」是雙氣囊**。許多側掛氣囊（含 **XDEEP Stealth 2.0 / 2.0 Tec 標準版**）官方規格為「外殼＋內膽」**兩層單一氣室**，並非雙氣囊冗餘——切勿因「兩層/Tec」字樣誤以為有備用氣囊 [9]。**Razor 4 BAT Wing 則官方標配雙氣囊冗餘**（主/備各 45 lbs / 約 20 kg）[10]。請於購買時與下水前確認。
 *   **若你的氣囊確為雙氣囊版**：
     1.  立刻停止操作主氣囊充氣閥，找到（通常掛在左側肩帶上的）**備用氣囊充氣閥**。
     2.  開始充氣（備用氣囊的充氣軟管接在左側一級頭，確保氣源獨立）。
@@ -81,4 +81,4 @@ tags:
 7. **Sidemount Pros** - *Swimming without Buoyancy: Maintaining Trim in Emergency*: 示範在 BCD 完全無氣狀態下，如何利用水平蛙踢與斜向迎風角進行上升游動。 [連結](https://www.sidemountpros.com)
 8. **YouTube (Garry Dallas Technical)** - *Sidemount Stuck Inflator & LP Disconnect Drill*: 知名教練 Garry Dallas 示範水下充氣閥卡死自救動作演練影片。 [連結](https://www.youtube.com)
 9. **XDEEP（官方一手資料）** - *STEALTH 2.0 / STEALTH 2.0 TEC User Manual, Revision 3 (2015)*：規格頁載明 Classic 16 kg、Tec 19 kg，皆為「外殼 Cordura 1100＋內膽 Nylon 440」**兩層單一氣室**（非雙氣囊冗餘）。 [連結](https://www.xdeep.eu)
-10. **Razor Go Side Mount（官方一手資料）** - *Razor 4 Side Mount System Manual, Edition 1.2 (2022)*：BAT Wing 為三層雙氣囊冗餘，主/備氣囊各 35 lbs / 20 kg 升力。 [連結](https://razorgosidemount.eu)
+10. **Razor Go Side Mount（官方一手資料）** - *Razor 4 Side Mount System Manual, Edition 1.2 (2022)* 與官方產品頁：BAT Wing 為三層雙氣囊冗餘，主/備氣囊各 **45 lbs / 約 20 kg** 升力（更正：先前誤植 35 lbs）。 [連結](https://razorgosidemount.com/razor-4-bat-wing/)

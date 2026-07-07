@@ -51,7 +51,7 @@ tags:
 在技術潛水或封閉環境中，浮力失效（BCD 破損無法充氣）是致命的。
 
 *   **雙氣囊的運作**：雙囊 BCD 內部有兩個完全獨立的氣囊、兩套排氣閥與兩根充氣軟管（主 BCD 充氣管接右側一級頭，備用充氣管接左側一級頭） [8]。
-*   ⚠️ **注意：部分極簡系統預設即為雙氣囊**。例如 **Razor 4 BAT Wing 官方規格本身就是「三層雙氣囊冗餘（Double Redundant）」氣囊，主氣囊與備用氣囊各提供 35 lbs / 20 kg 升力** [11]——因此「極簡側掛＝單囊」的直覺對 Razor 4 並不成立，其本身已內建備用浮力。選購時務必確認該系統氣囊為單囊或雙囊版本。
+*   ⚠️ **注意：部分極簡系統預設即為雙氣囊**。例如 **Razor 4 BAT Wing 官方規格本身就是「三層雙氣囊冗餘（Double Redundant）」氣囊，主氣囊與備用氣囊各提供 45 lbs / 約 20 kg 升力（更正：先前誤植 35 lbs）** [11]——因此「極簡側掛＝單囊」的直覺對 Razor 4 並不成立，其本身已內建備用浮力。選購時務必確認該系統氣囊為單囊或雙囊版本。
 *   **適用對象**：穿著**濕式防寒衣（Wetsuit）**進行技術潛水的潛水員。因為濕衣無法提供備用浮力，一旦單氣囊破裂，潛水員將會直接沉底。
 *   **乾衣潛水員的條件性例外**：穿著**乾式防寒衣（Drysuit）**且氣瓶整體負浮力不大時（如鋁瓶或可拋配重配置），乾衣可作為備用氣腔，BCD 失效時向乾衣充氣協助上升，故常**不額外配置**雙氣囊。但**掛載重型鋼瓶/多瓶時，乾衣深處被擠壓後的可用升力可能不足**，此時仍應評估雙囊或足量冗餘升力，不可一概視乾衣為充分備援 [8][9]。
 
@@ -87,4 +87,4 @@ tags:
 8. **Reddit r/scuba** - *When do I need a Dual Bladder Sidemount BCD?*: 潛水社群對於濕衣與乾衣配置下，是否需要備用雙氣囊的安全性讨论。 [連結](https://www.reddit.com)
 9. **Tecline Diving** - *Drysuit as a Secondary Buoyancy Device*: 技術裝備商 Tecline 說明在技術潛水中，利用乾衣作為備用浮力的安全程序。 [連結](https://www.teclinediving.eu)
 10. **Cenote Girl** - *Minimalist vs Modular BCDs in Cave Diving*: 墨西哥洞穴潛水教練對 Razor 一體式背帶與 XDEEP 模組背帶在穿越岩壁時的磨損與靈活性評測。 [連結](https://www.cenotegirl.com)
-11. **Razor Go Side Mount（官方一手資料）** - *Razor 4 Side Mount System Manual, Edition 1.2 (2022-06-22)*：官方手冊。BAT Wing 為三層雙氣囊冗餘，主/備氣囊各 35 lbs / 20 kg 升力。 [連結](https://razorgosidemount.eu)
+11. **Razor Go Side Mount（官方一手資料）** - *Razor 4 Side Mount System Manual, Edition 1.2 (2022-06-22)* 與官方產品頁 *Razor 4 BAT Wing*：三層雙氣囊冗餘，主/備氣囊各 **45 lbs / 約 20 kg** 升力（更正：先前誤植 35 lbs）。 [連結](https://razorgosidemount.com/razor-4-bat-wing/)
