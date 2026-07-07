@@ -58,6 +58,8 @@ $$\text{MOD (m)} = \left(\frac{PO_2\text{ 上限}}{FO_2} - 1\right) \times 10$$
 
 *範例*：以 EAN50 在 21 m（PO₂ ≈ 1.55）減壓 12 分鐘，約佔 1.5 限值（120 min）的 10% CNS。多氣體潛水須將各段 CNS% 相加。
 
+> 🆕 **2025 最新修訂（NOAA 共識工作坊）**：上表為 1991 年 NOAA 經典值，仍是多數電腦錶與教材預設。2025 年 3 月 NOAA 主辦專家共識工作坊後，Hoyt、Murphy、Pollock 等於《Diving and Hyperbaric Medicine》（2025-09）發表修訂——**僅針對 PO₂ 1.3 atm**：工作段單次上限自 180 min **放寬至 240 min**（另加 240 min 靜止減壓）。作者明言資料僅足以支持 1.3 atm，**PO₂ < 1.3 或 > 1.3 之限值不變**。實務仍以你的電腦錶/機構設定為準 [5]。
+
 ---
 
 ## 🧪 4. OTU / UPTD（肺氧毒/慢性累積）
@@ -96,3 +98,4 @@ $$\text{END (m)} = \big[(D + 10) \times (1 - F_{He})\big] - 10$$
 2. **DAN（Divers Alert Network）** - *Oxygen Toxicity: CNS and Pulmonary*：氧中毒兩型之生理機制與 PO₂ 界線。 [連結](https://www.dan.org)
 3. **TDI Decompression Procedures / Helitrox Manual** - *Managing CNS%, OTU and END*：技術減壓課程對 CNS% 累加、OTU 上限與 END 控制的標準教材。 [連結](https://www.tdisdi.com)
 4. **Shearwater Research** - *Understanding CNS%, OTU and Gas Settings*：潛水電腦如何即時計算 CNS%/OTU 及氣體 MOD 提示。 [連結](https://www.shearwater.com)
+5. **Hoyt, Murphy, Pollock et al.（2025，一手權威）** - *Revised guideline for central nervous system oxygen toxicity exposure limits when using an inspired PO₂ of 1.3 atmospheres*，《Diving and Hyperbaric Medicine》2025-09（NOAA 2025-03 共識工作坊）：1.3 atm 工作段單次上限自 180→240 min 之修訂依據。 [連結](https://pmc.ncbi.nlm.nih.gov/articles/PMC12500339/)

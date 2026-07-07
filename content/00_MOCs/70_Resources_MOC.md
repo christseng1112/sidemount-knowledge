@@ -12,6 +12,9 @@
   - 技術側掛課程：TDI Sidemount/Technical Sidemount, IANTD Technical Sidemount。
   - 嚴格系統化課程：GUE/UTD 側掛訓練體系對比。
 
+### 保險與後送
+- [[潛水保險與緊急後送規劃]]：DAN 會員 vs 意外保險之別、高壓氧/後送涵蓋範圍、緊急聯絡鏈與技潛加保注意。
+
 ### 檢查清單
 - [[潛水前檢查清單 (Pre-dive Checklists)]]：
   - 「S-Drill」與「GUE EDGE」檢查要點。
