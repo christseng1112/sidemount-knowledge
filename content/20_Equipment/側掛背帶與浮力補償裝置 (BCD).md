@@ -28,7 +28,7 @@ tags:
 1.  **肩帶 (Shoulder Straps)**：承受瓶首彈性繩（Bungee）的拉力。肩帶上的 D 環位置是固定瓶閥與二級頭長管扣夾的黃金點。肩帶不可過緊，否則會限制轉頭與雙臂前伸的幅度 [1]。
 2.  **腰帶 (Waist Strap)**：系統橫向穩定的基石。腰帶必須採用硬織帶，以防掛上重氣瓶時發生移位。腰帶兩側髖骨中線上的 D 環（或滑動 D 環）是瓶底的掛扣點 [1][2]。
 3.  **胯帶 (Crotch Strap)**：**側掛系統中最不可或缺的防滑機制**。當背部的氣囊充氣產生浮力時，整個背帶會有向上（頭部方向）漂移的力道。胯帶能將系統牢牢錨定在臀部，確保瓶閥始終鎖定在腋下，不會向上推撞後腦杓 [1][3]。
-4.  **臀部板與導軌 (Butt Plate / Butt Rails)**：許多美式重型側掛（如 Hollis, Dive Rite）配有金屬或塑料臀部板，板上有金屬導軌。這提供了多個掛點，適合在技術潛水時掛載 3 支以上的減壓/ Stage 氣瓶 [1][4]。
+4.  **臀部板與導軌 (Butt Plate / Butt Rails)**：許多美式重型側掛（如 Hollis, Dive Rite）配有金屬或塑膠臀部板，板上有金屬導軌。這提供了多個掛點，適合在技術潛水時掛載 3 支以上的減壓/ Stage 氣瓶 [1][4]。
 
 ---
 
@@ -77,7 +77,7 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **Sidemount Book** - *Harness Physics and Crotch Strap Function*: 探討側掛背帶各部位織帶在水中的力學反饋。 [連結](https://www.sidemountbook.com)
+1. **Sidemount Book** - *Harness Physics and Crotch Strap Function*: 探討側掛背帶各部位織帶在水中的力學回饋。 [連結](https://www.sidemountbook.com)
 2. **GoSidemount (Razor)** - *BAT Wing 4 and Minimalist Philosophy*: Razor 創辦人 Steve Bogaerts 闡述極簡背帶與三角氣囊的設計目的。 [連結](https://www.razorgosidemount.com)
 3. **TDI/SDI Articles** - *The Crotch Strap: The Unsung Hero of Buoyancy*: 詳述胯帶在維持側掛瓶閥高度定位中的關鍵作用。 [連結](https://www.tdisdi.com)
 4. **Dive Rite Official** - *Nomad Sidemount Butt Plate and Rails Guide*: 介紹美式側掛如何利用臀部導軌掛載多支 Stage 氣瓶。 [連結](https://www.diverite.com)

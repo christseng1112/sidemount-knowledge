@@ -28,7 +28,7 @@ tags:
 演練應在水平 Trim 與中性浮力穩定的狀態下進行，整個過程中**雙眼應直視前方，與潛伴維持視覺接觸** [1][2][7]：
 
 ```
-步驟 1: 團隊溝通與信號 ──> 步驟 2: 穩定 Trim ──> 步驟 3: 右側關閥演練 (主氣源)
+步驟 1: 團隊溝通與訊號 ──> 步驟 2: 穩定 Trim ──> 步驟 3: 右側關閥演練 (主氣源)
 向隊友做出 Valve Drill      在水中靜態懸停，          切換至左側二級頭；關閉右瓶閥；
 手勢，獲得確認 [3]。        準備雙手盲摸 [2]。        Breathe down 驗證；逆時針完全重開。
                                                             │
@@ -38,7 +38,7 @@ tags:
 向隊友做出 OK 手勢 [8][9]。       按壓排水鈕驗證；逆時針完全重開。
 ```
 
-### 步驟 1：團隊溝通與信號 (Signaling)
+### 步驟 1：團隊溝通與訊號 (Signaling)
 向潛伴做出 "Valve Drill" 手勢（單手成握拳狀，模擬轉動閥門的動作），得到潛伴的「OK」確認手勢。潛伴會移動到您的斜前方，全程監控您的浮力並準備在有需要時提供氣體 [3][5]。
 
 ### 步驟 2：穩定 Trim 與浮力 (Stabilize)
@@ -85,6 +85,6 @@ tags:
 2. **Flow State Divers** - *Sidemount Valve Drill SOP*: 詳細步驟拆解、Breathe down 驗證邏輯與左右側對稱訓練。 [連結](https://www.flowstatedivers.com)
 3. **Reddit r/scuba** - *Clockwise or Counter-Clockwise? Sidemount valve direction clarified*: 潛水社群針對側掛鏡像瓶閥旋轉方向與防呆心算口訣的討論。 [連結](https://www.reddit.com)
 4. **SWT Irish Technical Diving** - *The Standard GUE/TDI Valve Drill*: 國際技潛組織對於氣閥演練的流程圖、安全停留深度演練規範。 [連結](https://www.swt.ie)
-5. **GUE (Global Underwater Explorers)** - *GUE Standard Operating Procedures for Valve Drills*: 闡述 GUE 系統下「氣閥完全開啟、不回轉」之現行標準與團隊信號配合的嚴格要求。 [連結](https://www.gue.com)
+5. **GUE (Global Underwater Explorers)** - *GUE Standard Operating Procedures for Valve Drills*: 闡述 GUE 系統下「氣閥完全開啟、不回轉」之現行標準與團隊訊號配合的嚴格要求。 [連結](https://www.gue.com)
 6. **Sidemount Pros** - *Solving Reach Issues in Valve Drills*: 診斷因背帶調整不當（如 Bungee 太鬆）導致在水下摸不到氣閥的手部延伸解決方案。 [連結](https://www.sidemountpros.com)
 7. **Scribd** - *Cave Diving Training Manual - Valve Shutdowns*: 洞穴潛水訓練中，關閥演練防揚沙與保持水平 Trim 的評分標準。 [連結](https://www.scribd.com)
