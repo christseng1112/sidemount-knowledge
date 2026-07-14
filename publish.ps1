@@ -1,4 +1,5 @@
-﻿﻿# publish.ps1 - Sync latest notes from OneDrive vault to site repo and publish
+﻿
+﻿# publish.ps1 - Sync latest notes from OneDrive vault to site repo and publish
 # Usage: .\publish.ps1 ["commit message"]
 
 param([string]$Message = "Update notes $(Get-Date -Format 'yyyy-MM-dd HH:mm')")
