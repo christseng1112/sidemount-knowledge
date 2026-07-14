@@ -79,7 +79,9 @@ tags:
 ---
 
 ### 🛡️ 互動式側掛配重與配平規劃工具 (Ballast & Trim Assistant)
-本工具根據您的防寒衣種類、氣瓶型號及水質，估算潛水結束時所需的基本配重，並給予精準的配重塊分佈位置（Trim）建議：
+本工具根據您的防寒衣種類、氣瓶型號及水質，估算潛水結束時所需的基本配重，並給予精準的配重塊分佈位置（Trim）建議。
+
+> ⚠️ **聲明：本工具計算結果為「保守基準值」**（以確保新手潛水員在潛水結束、氣瓶剩 50 bar、BCD 氣體完全排空且身處 3 米安全停留時，不會因氣瓶變正浮力而失控上浮）。對於**身體肌肉量高（負浮力大）、肺活量控制極佳、或使用已壓縮老舊防寒衣的資深潛水員，實際所需鉛重可能遠低於此數值（例如 72kg 潛水員可能僅需 1.5 - 2 kg 即可輕鬆維持配平）**，請以實地水面浮力檢查為最終依據。
 
 <div style="background: #1e1e24; border: 1px solid #3a3a4a; border-radius: 12px; padding: 20px; margin: 25px 0; color: #f0f0f5; font-family: system-ui, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
   <h3 style="color: #ff9f43; margin-top: 0; border-bottom: 1px solid #3a3a4a; padding-bottom: 8px; font-weight: 600;">⚖️ 側掛配重與水平配平規劃器</h3>
