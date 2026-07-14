@@ -1,4 +1,4 @@
-# publish.ps1 — 把 OneDrive vault 的最新筆記同步到網站 repo 並發布
+﻿# publish.ps1 — 把 OneDrive vault 的最新筆記同步到網站 repo 並發布
 # 用法：在 sidemount-site 目錄執行  .\publish.ps1 ["commit message"]
 
 param([string]$Message = "Update notes $(Get-Date -Format 'yyyy-MM-dd HH:mm')")
