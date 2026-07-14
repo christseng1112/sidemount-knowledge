@@ -13,13 +13,13 @@
 1.  **建立觀念**：[[10_Concepts_MOC|基礎與核心觀念]]（了解歷史與背掛對比，體會自給自足精神）
 2.  **認識配置**：[[側掛背帶與浮力補償裝置 (BCD)]] $\rightarrow$ [[側掛調節器與低壓高壓管線配置]] $\rightarrow$ [[氣瓶懸掛系統與硬體配置]]
 3.  **水中技巧**：[[側掛下潛程序與懸停控制]] $\rightarrow$ [[水中浮力與水平配平 (Trim)]] $\rightarrow$ [[側掛動力推進技巧 (Propulsion)]]
-4.  **基礎安全**：[[氣閥演練 (Valve Drills) 標準步驟]] $\rightarrow$ [[氣源耗盡 (OOG) 與長管分享程序]] $\rightarrow$ [[側掛常見錯誤與新手FAQ]]
+4.  **基礎安全**：[[氣閥演練 (Valve Drills) 標準步驟]] $\rightarrow$ [[氣源耗盡 (OOG) 與長管分享程序]] $\rightarrow$ [[潛水事故安全案例分析與人為因素]] $\rightarrow$ [[側掛常見錯誤與新手FAQ]]
 
 ### 🧗 路線二：技術與進階探索者 (Technical & Advanced)
 > 適合「準備跨入減壓/混氣側掛」、「進行頂部封閉環境（洞穴/沉船）探索」或「整合特殊裝備（CCR/DPV）」的潛水員。
-1.  **氣體管理**：[[氣體計劃與安全保留原則]] $\rightarrow$ [[呼吸率 (SAC & RMV) 計算指引]] $\rightarrow$ [[高氧 Nitrox 基礎與 MOD 計算]] $\rightarrow$ [[減壓規劃軟體與梯度因子]]
-2.  **進階操作**：[[多氣瓶與減壓瓶掛載配置 (Technical Sidemount)]] $\rightarrow$ [[氣瓶水中動態管理技巧]] $\rightarrow$ [[無掛載與單側掛 (No-mount & Stage Dropping) 技巧]]
-3.  **複雜環境**：[[頂部封閉環境下的側掛線路與操作]] $\rightarrow$ [[沉船穿越佈線與捲線器程序]] $\rightarrow$ [[減壓停留實務執行與氧氣減壓]]
+1.  **氣體管理**：[[氣體計劃與安全保留原則]] $\rightarrow$ [[氣體調配與高壓充填計算指引]] $\rightarrow$ [[呼吸率 (SAC & RMV) 計算指引]] $\rightarrow$ [[高氧 Nitrox 基礎與 MOD 計算]] $\rightarrow$ [[減壓規劃軟體與梯度因子]]
+2.  **進階操作**：[[多氣瓶與減壓瓶掛載配置 (Technical Sidemount)]] $\rightarrow$ [[氣瓶水中動態管理技巧]] $\rightarrow$ [[無掛載與單側掛 (No-mount & Stage Dropping) 技巧]] $\rightarrow$ [[獨行潛水與極限無掛載裝備配置]]
+3.  **複雜環境與理論**：[[頂部封閉環境下的側掛線路與操作]] $\rightarrow$ [[沉船穿越佈線與捲線器程序]] $\rightarrow$ [[水下減壓理論模型與生理學比較]] $\rightarrow$ [[減壓停留實務執行與氧氣減壓]]
 4.  **前沿整合**：[[側掛閉迴路循環呼吸器 (CCR) 整合概念]] $\rightarrow$ [[DPV 水下推進器與側掛整合]] $\rightarrow$ [[Trimix 混合氣與氣體密度規劃]]
 
 ---
