@@ -40,6 +40,120 @@ $$EAD(m) = \left(\frac{FN_2}{0.79} \times \left(\frac{深度}{10}+1\right) - 1\r
 > EAN32、PO₂ 1.4：MOD = (1.4/0.32 − 1) × 10 = **33.7 米**；Contingency 1.6 → 40 米。
 > 計劃深度 25 米的最佳混氣：FO₂ = 1.4/3.5 = **40%** → 取 EAN36–40 之間的可得混氣，MOD 再回算驗證。
 
+<div style="background: #1e1e24; border: 1px solid #3a3a4a; border-radius: 12px; padding: 20px; margin: 25px 0; color: #f0f0f5; font-family: system-ui, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <h3 style="color: #00d2ff; margin-top: 0; border-bottom: 1px solid #3a3a4a; padding-bottom: 8px; font-weight: 600;">🧮 互動式 Nitrox 核心計算機</h3>
+  
+  <div style="display: flex; gap: 10px; margin-bottom: 20px; border-bottom: 1px solid #2d2d38; padding-bottom: 10px;">
+    <button onclick="switchTab('mod')" id="tab-mod" style="background: #0072ff; border: none; border-radius: 4px; color: white; padding: 6px 12px; font-weight: bold; cursor: pointer; transition: background 0.2s;">MOD 計算</button>
+    <button onclick="switchTab('best')" id="tab-best" style="background: #2d2d38; border: none; border-radius: 4px; color: #a0a0b0; padding: 6px 12px; font-weight: bold; cursor: pointer; transition: background 0.2s;">Best Mix 計算</button>
+    <button onclick="switchTab('ead')" id="tab-ead" style="background: #2d2d38; border: none; border-radius: 4px; color: #a0a0b0; padding: 6px 12px; font-weight: bold; cursor: pointer; transition: background 0.2s;">EAD 計算</button>
+  </div>
+
+  <div id="sect-mod">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
+      <div>
+        <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">氧氣比例 FO₂ (%)</label>
+        <input type="number" id="modFo2" value="32" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">氧分壓上限 ppO₂ (ata)</label>
+        <input type="number" id="modPpo2" value="1.4" step="0.1" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+      </div>
+    </div>
+    <button onclick="calcMod()" style="background: linear-gradient(135deg, #00d2ff, #0072ff); border: none; border-radius: 6px; color: white; padding: 10px 20px; font-weight: bold; cursor: pointer; width: 100%;">計算 MOD</button>
+    <div style="margin-top: 15px; padding: 12px; background: #141419; border-radius: 6px; border: 1px solid #2d2d38; text-align: center;">
+      <span style="color: #a0a0b0;">最大作業深度 (MOD): </span>
+      <span id="resMod" style="color: #00ff88; font-weight: bold; font-size: 1.2em;">33.8 m</span>
+    </div>
+  </div>
+
+  <div id="sect-best" style="display:none;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
+      <div>
+        <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">計畫最大深度 (m)</label>
+        <input type="number" id="bestDepth" value="25" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">氧分壓目標 ppO₂ (ata)</label>
+        <input type="number" id="bestPpo2" value="1.4" step="0.1" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+      </div>
+    </div>
+    <button onclick="calcBest()" style="background: linear-gradient(135deg, #00d2ff, #0072ff); border: none; border-radius: 6px; color: white; padding: 10px 20px; font-weight: bold; cursor: pointer; width: 100%;">計算 Best Mix</button>
+    <div style="margin-top: 15px; padding: 12px; background: #141419; border-radius: 6px; border: 1px solid #2d2d38; text-align: center;">
+      <span style="color: #a0a0b0;">最佳氧氣比例 (FO₂): </span>
+      <span id="resBest" style="color: #00ff88; font-weight: bold; font-size: 1.2em;">40.0%</span>
+    </div>
+  </div>
+
+  <div id="sect-ead" style="display:none;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
+      <div>
+        <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">計畫深度 (m)</label>
+        <input type="number" id="eadDepth" value="30" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+      </div>
+      <div>
+        <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">氧氣比例 FO₂ (%)</label>
+        <input type="number" id="eadFo2" value="32" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+      </div>
+    </div>
+    <button onclick="calcEad()" style="background: linear-gradient(135deg, #00d2ff, #0072ff); border: none; border-radius: 6px; color: white; padding: 10px 20px; font-weight: bold; cursor: pointer; width: 100%;">計算 EAD</button>
+    <div style="margin-top: 15px; padding: 12px; background: #141419; border-radius: 6px; border: 1px solid #2d2d38; text-align: center;">
+      <span style="color: #a0a0b0;">等效空氣深度 (EAD): </span>
+      <span id="resEad" style="color: #00ff88; font-weight: bold; font-size: 1.2em;">24.4 m</span>
+    </div>
+  </div>
+</div>
+
+<script>
+function switchTab(tab) {
+  document.getElementById('sect-mod').style.display = tab === 'mod' ? 'block' : 'none';
+  document.getElementById('sect-best').style.display = tab === 'best' ? 'block' : 'none';
+  document.getElementById('sect-ead').style.display = tab === 'ead' ? 'block' : 'none';
+  
+  document.getElementById('tab-mod').style.background = tab === 'mod' ? '#0072ff' : '#2d2d38';
+  document.getElementById('tab-mod').style.color = tab === 'mod' ? 'white' : '#a0a0b0';
+  document.getElementById('tab-best').style.background = tab === 'best' ? '#0072ff' : '#2d2d38';
+  document.getElementById('tab-best').style.color = tab === 'best' ? 'white' : '#a0a0b0';
+  document.getElementById('tab-ead').style.background = tab === 'ead' ? '#0072ff' : '#2d2d38';
+  document.getElementById('tab-ead').style.color = tab === 'ead' ? 'white' : '#a0a0b0';
+}
+
+function calcMod() {
+  var fo2 = parseFloat(document.getElementById('modFo2').value) / 100;
+  var ppo2 = parseFloat(document.getElementById('modPpo2').value);
+  if (isNaN(fo2) || isNaN(ppo2) || fo2 <= 0 || ppo2 <= 0) {
+    alert('請輸入有效數值！');
+    return;
+  }
+  var mod = ((ppo2 / fo2) - 1) * 10;
+  document.getElementById('resMod').innerText = mod.toFixed(1) + ' m';
+}
+
+function calcBest() {
+  var depth = parseFloat(document.getElementById('bestDepth').value);
+  var ppo2 = parseFloat(document.getElementById('bestPpo2').value);
+  if (isNaN(depth) || isNaN(ppo2) || depth < 0 || ppo2 <= 0) {
+    alert('請輸入有效數值！');
+    return;
+  }
+  var ata = (depth / 10) + 1;
+  var bestFo2 = (ppo2 / ata) * 100;
+  document.getElementById('resBest').innerText = bestFo2.toFixed(1) + '%';
+}
+
+function calcEad() {
+  var depth = parseFloat(document.getElementById('eadDepth').value);
+  var fo2 = parseFloat(document.getElementById('eadFo2').value) / 100;
+  if (isNaN(depth) || isNaN(fo2) || depth < 0 || fo2 <= 0 || fo2 > 1) {
+    alert('請輸入有效數值！');
+    return;
+  }
+  var fn2 = 1 - fo2;
+  var ead = ((fn2 / 0.79) * ((depth / 10) + 1) - 1) * 10;
+  document.getElementById('resEad').innerText = Math.max(0, ead).toFixed(1) + ' m';
+}
+</script>
+
 > 📋 **假設與限制**：公式以海水、每 10 米 1 bar 之理想近似計算；淡水與高海拔潛點（如高山湖泊）環境壓力不同，MOD 應保守化。混氣百分比以**自己實測的分析值**代入，不是氣站宣稱值。
 
 ---

@@ -61,6 +61,30 @@ tags:
 ### 步驟 5：流程檢查與確認 (Flow Check)
 確認兩側氣瓶皆已重新開啟。看一眼左右兩側的壓力錶（SPG）確認數值，向潛伴做出「OK」手勢，結束演練 [8][9]。
 
+### 🛡️ 實戰氣閥故障排除決策樹 (Mermaid Troubleshooting Tree)
+以下為水下實際遭遇氣體洩漏（爆管/持續 freeflow）時的閥門隔離決策程序：
+
+```mermaid
+flowchart TD
+    Start["🚨 水下聽到漏氣聲 / 發現泡泡"] --> Identify{"🔍 漏氣位置識別"}
+    
+    Identify -->|"左側漏氣"| LeftPost["左氣瓶 (備用瓶) 洩漏"]
+    Identify -->|"右側漏氣"| RightPost["右氣瓶 (主氣源) 洩漏"]
+    Identify -->|"無法立即辨識"| BuddyCheck["👀 尋求隊友協助辨識"]
+    
+    RightPost --> SwitchToLeft["1. 換咬左側二級頭 (Necklace)"]
+    SwitchToLeft --> CloseRight["2. 順時針關閉右瓶閥"]
+    CloseRight --> VerifyRight["3. 按壓右二級頭排水鈕驗證<br>(殘氣排空，氣閥徹底關閉)"]
+    VerifyRight --> TerminateRight["4. 終止潛水，由隊友監控上升"]
+    
+    LeftPost --> CloseLeft["1. 順時針關閉左瓶閥"]
+    CloseLeft --> VerifyLeft["2. 按壓左二級頭排水鈕驗證<br>(確保左閥徹底關閉)"]
+    VerifyLeft --> SwitchToRight["3. 確保自己咬著右側長管二級頭"]
+    SwitchToRight --> TerminateLeft["4. 終止潛水，由隊友監控上升"]
+    
+    BuddyCheck --> Identify
+```
+
 ---
 
 ## ⚙️ 「完全開啟、不回轉」— 現代標準與過時做法的釐清

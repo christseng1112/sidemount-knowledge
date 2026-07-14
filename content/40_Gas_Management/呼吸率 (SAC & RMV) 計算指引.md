@@ -73,6 +73,66 @@ $$\text{SAC} = \frac{110\text{ bar}}{45\text{ min} \times 2.8\text{ ATA}} = \fra
 $$\text{RMV} = 0.873\text{ bar/min} \times 11.1\text{ L} \approx 9.69 \text{ L/min}$$
 該潛水員的體積呼吸率約為 **\(9.7 \text{ L/min}\)**。這是一個非常放鬆、流線型良好且推進無多餘動作的優秀呼吸率 [2][4]。
 
+<div style="background: #1e1e24; border: 1px solid #3a3a4a; border-radius: 12px; padding: 20px; margin: 25px 0; color: #f0f0f5; font-family: system-ui, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <h3 style="color: #00d2ff; margin-top: 0; border-bottom: 1px solid #3a3a4a; padding-bottom: 8px; font-weight: 600;">🧮 互動式 SAC & RMV 計算機</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin-bottom: 20px;">
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">氣瓶水容積 (L)</label>
+      <input type="number" id="cylVol" value="11.1" step="0.1" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">平均深度 (m)</label>
+      <input type="number" id="avgDepth" value="18" step="0.1" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">潛水時間 (min)</label>
+      <input type="number" id="diveTime" value="45" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">消耗氣壓 (bar)</label>
+      <input type="number" id="gasConsumed" value="110" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+    </div>
+  </div>
+  <button onclick="calculateSacRmv()" style="background: linear-gradient(135deg, #00d2ff, #0072ff); border: none; border-radius: 6px; color: white; padding: 10px 20px; font-weight: bold; cursor: pointer; transition: opacity 0.2s; width: 100%;">開始計算</button>
+  
+  <div style="margin-top: 20px; padding: 15px; background: #141419; border-radius: 8px; border: 1px solid #2d2d38;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+      <span style="color: #a0a0b0;">平均絕對壓力 (ATA):</span>
+      <span id="resAta" style="color: #fff; font-weight: bold;">2.80 ATA</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+      <span style="color: #a0a0b0;">壓力呼吸率 (SAC):</span>
+      <span id="resSac" style="color: #00d2ff; font-weight: bold;">0.87 bar/min</span>
+    </div>
+    <div style="display: flex; justify-content: space-between;">
+      <span style="color: #a0a0b0;">體積呼吸率 (RMV):</span>
+      <span id="resRmv" style="color: #00ff88; font-weight: bold;">9.69 L/min</span>
+    </div>
+  </div>
+</div>
+
+<script>
+function calculateSacRmv() {
+  var vol = parseFloat(document.getElementById('cylVol').value);
+  var depth = parseFloat(document.getElementById('avgDepth').value);
+  var time = parseFloat(document.getElementById('diveTime').value);
+  var cons = parseFloat(document.getElementById('gasConsumed').value);
+  
+  if (isNaN(vol) || isNaN(depth) || isNaN(time) || isNaN(cons) || time <= 0 || vol <= 0) {
+    alert('請填入有效的正數！');
+    return;
+  }
+  
+  var ata = (depth / 10) + 1;
+  var sac = cons / (time * ata);
+  var rmv = sac * vol;
+  
+  document.getElementById('resAta').innerText = ata.toFixed(2) + ' ATA';
+  document.getElementById('resSac').innerText = sac.toFixed(2) + ' bar/min';
+  document.getElementById('resRmv').innerText = rmv.toFixed(2) + ' L/min';
+}
+</script>
+
 > 📋 **假設與限制**
 > *   採用**整段潛水的平均深度**反推平均 ATA，假設深度大致穩定；若為多段深度（鋸齒型）剖面，應分段計算再加權。
 > *   AL80 內容積取 **11.1 L**（Luxfer S80 規格近似值），不同廠牌略有差異。

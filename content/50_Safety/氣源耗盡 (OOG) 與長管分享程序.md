@@ -61,6 +61,25 @@ tags:
     *   **受氣者在後**：單手（或雙手）牢牢抓住前方捐贈者的**氣瓶底閥、腰帶或大腿**，緊跟前行。
 *   **長管走線**：長管從後方受氣者的口中，穿過雙人之間的間距，連接到前方捐贈者的右側一級頭。多餘的軟管在水中會自然呈微弧形懸浮，不阻礙行進 [3][6][7]。
 
+### 🛡️ OOG 長管部署與共氣上升程序 (Mermaid Sharing Sequence)
+水下緊急共氣部署的標準化處置邏輯：
+
+```mermaid
+flowchart TD
+    OOG["🚨 隊友缺氣 (OOG) / 發出訊號 / 直接搶氣"] --> Donate["1. 主動捐贈口中二級頭<br>(大拇指護住咬嘴，遞給受氣者)"]
+    Donate --> Switch["2. 自身氣源切換<br>(低頭，咬入頸圈 Necklace 備用二級頭)"]
+    Switch --> Stabilize["3. 穩定受氣者情緒<br>(確認其正常吸氣，建立眼球接觸)"]
+    Stabilize --> Deploy["4. 釋放長管與理順<br>(低頭，將繞頸長管拉出，排解纏繞)"]
+    Deploy --> CheckSPG["5. 團隊控制與殘壓檢查<br>(建立身體接觸，讀取雙方壓力錶)"]
+    CheckSPG --> ChooseFormation{"🌐 選擇撤退隊形"}
+    
+    ChooseFormation -->|"通道寬敞"| SideBySide["並排前進 (Side-by-Side)<br>- 牢牢抓住受氣者肩帶<br>- 共同監控上升率"]
+    ChooseFormation -->|"通道狹窄"| SingleFile["單人縱隊 (Single-File)<br>- 捐贈者在前看線導引<br>- 受氣者在後抓前方氣瓶/腰帶"]
+    
+    SideBySide --> Exit["6. 保持 Trim，控制速度上升出水"]
+    SingleFile --> Exit
+```
+
 ---
 
 ## 📚 參考文獻與引用來源
