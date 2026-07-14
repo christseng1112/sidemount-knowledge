@@ -1,25 +1,26 @@
-# 🧗 Advanced & Overhead Applications (Advanced MOC)
+# 🏔️ Advanced & Overhead Environments (Advanced MOC)
 
-Handling multiple stages, entering caves or wrecks, and utilizing CCR/DPVs represent the frontier of technical sidemount diving.
+Advanced techniques for overhead environments, multi-cylinder configurations, decompression diving, and exploration-grade equipment integration.
 
 ---
 
 ## 📝 Topics
 
-### Overhead Environments
-- [[en/60_Advanced/Overhead Environments Sidemount Rigging|Overhead Environments Sidemount Rigging]]: Streamline routing for cave/wreck dives, line management, and safety protocols.
-- [[en/60_Advanced/Wreck Penetration & Reel Procedures|Wreck Penetration & Reel Procedures]]: Reel deployment, primary tie-off, secondary tie-off, and lost-line emergencies.
+### Overhead Environments & Line Work
+- [[en/60_Advanced/Sidemount Guidelines & Operations in Overhead Environments|Sidemount Guidelines & Operations in Overhead Environments]]: Guideline laying, tie-off standards, anti-snag streamlining, and light/hand/touch communication protocols.
+- [[en/60_Advanced/Wreck Penetration Guideline & Reel Procedures|Wreck Penetration Guideline & Reel Procedures]]: Primary reels, jump/gap spools, tie-off SOPs, and penetration decision frameworks.
+- [[en/60_Advanced/No-Mount & Stage Dropping Techniques|No-Mount & Stage Dropping Techniques]]: Cylinder removal for major restrictions, tandem push, wrist lanyards, stage dropping protocols, and personal markers.
+- [[en/60_Advanced/Solo Diving & Extreme No-Mount Configuration|Solo Diving & Extreme No-Mount Configuration]]: Triple redundancy (Rule of Three), extreme no-mount procedures, armored bladders, and butt-slider techniques.
 
-### Decompression & Gas Theory
-- [[en/60_Advanced/Decompression Theory Models & Physiology|Decompression Theory Models & Physiology]]: Bühlmann ZHL-16 + GF models vs bubble models (VPM-B/RGBM), the deep stop controversy, PFO (Patent Foramen Ovale) risks, microbubbles, and thermal management (warm dive, cool deco).
-- [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Execution & Oxygen Deco]]: Station keeping, gas switching protocols, Pyle stops, and high-concentration oxygen decompression.
-- [[en/60_Advanced/Trimix Blends & Gas Density Planning|Trimix Blends & Gas Density Planning]]: Helium calculations, narcosis management (Equivalent Narcotic Depth - END), and gas density limits (ideal density < 5.2 g/L).
+### Multi-Cylinder & Decompression
+- [[en/60_Advanced/Multi-Cylinder & Decompression Stage Configuration|Multi-Cylinder & Decompression Stage Configuration]]: Stage/deco rigging (no metal-to-metal), left-side priority principle, layering geometry, and multi-cylinder trim.
+- [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Execution & Oxygen Deco]]: Depth precision, gas switching discipline, O₂ deco at 6m, air breaks, VENTID warnings, and contingency management.
+- [[en/60_Advanced/Decompression Theory Models & Physiology|Decompression Theory Models & Physiology]]: Bühlmann GF vs. VPM-B, the deep stops controversy, PFO risk, microbubbles, and thermal management during deco.
 
-### Specialized Configuration
-- [[en/60_Advanced/Multi-Cylinders & Stage Bottle Rigging|Multi-Cylinders & Stage Bottle Rigging]]: Stage bottle leash lengths, hose routing, and stage deployment/retrieval.
-- [[en/60_Advanced/Sidemount CCR Integration Concepts|Sidemount CCR Integration Concepts]]: Rebreather integration (Chestmount/Sidemount CCR), diluent/oxygen routing, ADV/MAV routing, and bailout standard procedures (Bailout SOP).
-- [[en/60_Advanced/DPV & Sidemount Integration|DPV & Sidemount Integration]]: Diver Propulsion Vehicle (DPV) leash adjustments, trigger control, and multi-cylinder towing.
-- [[en/60_Advanced/Solo Diving & Extreme No-Mount Rigging|Solo & No-Mount Rigging]]: No-mount cylinder unclip and push-forward SOPs, Solo diving triple-redundancy matrix (redundant gas, light, cutter, mask, gauge), armored BCD, and butt-slider setups.
+### Gas & Equipment Integration
+- [[en/60_Advanced/Trimix Gas & Gas Density Planning|Trimix Gas & Gas Density Planning]]: Helium rationale, the 5.2 g/L density ceiling, density vs. END planning, and sidemount Trimix practices.
+- [[en/60_Advanced/DPV Scooter & Sidemount Integration|DPV Scooter & Sidemount Integration]]: Tow systems, DPV trim, gas/distance planning, and DPV-specific emergencies.
+- [[en/60_Advanced/Sidemount CCR Integration Concepts|Sidemount CCR Integration Concepts]]: Sidemount CCR (Path A) vs. backmount CCR + sidemount bailout (Path B), bailout SOPs, and caustic cocktail risks.
 
 ---
 
