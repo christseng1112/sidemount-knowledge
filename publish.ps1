@@ -1,4 +1,3 @@
-﻿
 ﻿# publish.ps1 - Sync latest notes from OneDrive vault to site repo and publish
 # Usage: .\publish.ps1 ["commit message"]
 
