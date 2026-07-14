@@ -81,10 +81,12 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **TDI/SDI Articles** - *Sidemount Valve Drill Fundamentals*: 探討關閥演練在技術側掛中的定位、肌肉記憶要求與安全步驟。 [連結](https://www.tdisdi.com)
-2. **Flow State Divers** - *Sidemount Valve Drill SOP*: 詳細步驟拆解、Breathe down 驗證邏輯與左右側對稱訓練。 [連結](https://www.flowstatedivers.com)
-3. **Reddit r/scuba** - *Clockwise or Counter-Clockwise? Sidemount valve direction clarified*: 潛水社群針對側掛鏡像瓶閥旋轉方向與防呆心算口訣的討論。 [連結](https://www.reddit.com)
-4. **SWT Irish Technical Diving** - *The Standard GUE/TDI Valve Drill*: 國際技潛組織對於氣閥演練的流程圖、安全停留深度演練規範。 [連結](https://www.swt.ie)
-5. **GUE (Global Underwater Explorers)** - *GUE Standard Operating Procedures for Valve Drills*: 闡述 GUE 系統下「氣閥完全開啟、不回轉」之現行標準與團隊訊號配合的嚴格要求。 [連結](https://www.gue.com)
-6. **Sidemount Pros** - *Solving Reach Issues in Valve Drills*: 診斷因背帶調整不當（如 Bungee 太鬆）導致在水下摸不到氣閥的手部延伸解決方案。 [連結](https://www.sidemountpros.com)
-7. **Scribd** - *Cave Diving Training Manual - Valve Shutdowns*: 洞穴潛水訓練中，關閥演練防揚沙與保持水平 Trim 的評分標準。 [連結](https://www.scribd.com)
+1. **TDI（官方標準）** - *TDI Diver Standards: Sidemount Diver*（現行版 PDF）: 關閥/氣閥操作為課程必修技能之定位、演練要求與安全步驟。 [連結](https://www.tdisdi.com/wp-content/uploads/files/sandp/currentYear/TDI/part%202/pdf/individual/TDI%20Diver%20Standards_05_Sidemount.pdf)
+2. **FlowState Divers (Master Series)** - *The Sidemount Valve Drill*: 詳細步驟拆解、Breathe down 驗證邏輯與左右側對稱訓練。 [連結](https://www.flowstatedivers.com/master-series/the-sidemount-valve-drill)
+3. **ScubaBoard** - *left/right valves?*: 潛水社群針對左右閥鏡像旋轉方向與「Righty tighty」防呆口訣在雙瓶情境的討論（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/left-right-valves.320315/)
+4. **SWT (South West Technical, Ireland)** - *Twinset Valve Drill*: 技潛氣閥演練的流程拆解、水平 Trim 前提與常見錯誤。 [連結](https://swt.ie/2020/07/26/valvedrill/)
+5. **GUE (Global Underwater Explorers)** - *General Training Standards, Policies, and Procedures v10.1*（官方 PDF）: GUE 系統下 valve drill 要求、「氣閥完全開啟、不回轉」之現行標準與團隊訊號配合。 [連結](https://www.gue.com/files/Standards_and_Procedures/GUE-Standards-v10.1.pdf)
+6. **Doppler's Tech Diving Blog (Steve Lewis)** - *Getting Sidemount Tanks to Behave Themselves and Sit Where They Should*: 診斷因 Bungee 張力/瓶帶位置不當導致水下摸不到氣閥的調整方案。 [連結](https://decodoppler.wordpress.com/2015/02/03/625/)
+7. **NSS-CDS（官方標準）** - *NSS-CDS Standards and Procedures*（現行版 PDF）: 洞穴訓練中關閥演練、防揚沙與姿態控制之評核標準。 [連結](https://nsscds.org/wp-content/uploads/2022/11/Standards221127.pdf)
+
+> ⚠️ 引用注意：tdisdi.com 有反爬蟲機制（403），標準 PDF 以搜尋引擎索引確認。

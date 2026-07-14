@@ -65,10 +65,12 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **DAN Europe** - *The Psychology of Panic and Air Sharing*: 深入分析水下極度缺氣恐慌時，人類本能奪取安全氣源（口中調節器）的行為心理學。 [連結](https://www.dan.org)
-2. **Sidemount Book** - *Long Hose & Gas Donation Philosophy*: 介紹 2.1 米長管在技術潛水、獨行潛水與側掛配置中的歷史演進與物理學安全基礎。 [連結](https://www.sidemountbook.com)
-3. **TDI/SDI Articles** - *Out of Gas (OOG) Drills in Sidemount*: 針對側掛系統下長管部署、項圈切換與長管解纏繞的標準訓練手冊。 [連結](https://www.tdisdi.com)
-4. **GUE (Global Underwater Explorers)** - *GUE Gas Sharing Protocol (DIR)*: 系統化潛水組織對於口中長管捐贈手勢、滑動開關保護與共氣上升的嚴格 SOP。 [連結](https://www.gue.com)
-5. **Reddit r/scuba** - *Handling Long Hose on a Sidemount Rig*: 潛水社群對於長管繞頸收納、防撞擊脫落與水中理線手勢的實務經驗討論。 [連結](https://www.reddit.com)
-6. **ProTec Dive Centers Blog** - *Single-File Share Air in Mexico Caves*: 墨西哥 Cenotes 實地洞穴探險中，單人縱隊共氣撤退的物理間距與通訊手勢分享。 [連結](https://www.protecdivecenters.com)
-7. **YouTube (Garry Dallas Technical)** - *Sidemount OOG & Long Hose Donation Drill*: Garry Dallas 慢動作示範水中 OOG 發生時，主動捐贈、項圈咬入與長管展開的教學影片。 [連結](https://www.youtube.com)
+1. **DAN (Divers Alert Network), Alert Diver** - *Avoiding Panic After Regulator Failure*: 分析水下缺氣恐慌的行為模式（本能扯調節器/面鏡、直衝水面）與打斷恐慌迴圈的處置訓練。 [連結](https://dan.org/alert-diver/article/avoiding-panic-after-regulator-failure/)
+2. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*（書籍官網）: 介紹 2.1 米長管在技術潛水、獨行潛水與側掛配置中的歷史演進與安全基礎。 [連結](https://www.sidemountbook.com)
+3. **TDI/SDI** - *Keeping Your Hose in Line*: 長管（7 ft/2.1 m）部署與捐贈流程、共氣單人縱隊撤退之管長優勢與理線收納。 [連結](https://www.tdisdi.com/sdi-diver-news-id/keeping-your-hose-in-line/)
+4. **GUE (Global Underwater Explorers)** - *General Training Standards, Policies, and Procedures v10.1*（官方 PDF）: 長管捐贈（S-drill）、共氣上升之標準化程序要求。 [連結](https://www.gue.com/files/Standards_and_Procedures/GUE-Standards-v10.1.pdf)
+5. **ScubaBoard** - *Sidemount - why only one long hose?*: 潛水社群對側掛長管數量、繞頸收納與捐贈實務的經驗討論（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/sidemount-why-only-one-long-hose.654843/)
+6. **ProTec Dive Centers** - *Equipment & Configuration*: 長管走線（過胸繞頸）、捐贈時立即釋出 1.2–1.5 m 管長與洞穴單人縱隊共氣撤退實務。 [連結](https://protecdivecenters.com/blog/equipment-configuration/)
+7. **YouTube (Garry Dallas / Simply Sidemount)** - *Dive Tips: Deploying Your Long Hose*: RAID 教練訓練官示範側掛長管部署與捐贈動作（影音來源，僅供補充）。 [連結](https://www.youtube.com/watch?v=mykuDy_eWJg)
+
+> ⚠️ 引用注意：tdisdi.com 有反爬蟲機制（403）、sidemountbook.com 審訂時暫時無法連線（503），內容以搜尋引擎索引確認。

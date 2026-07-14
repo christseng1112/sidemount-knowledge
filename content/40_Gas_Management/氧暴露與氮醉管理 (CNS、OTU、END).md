@@ -94,8 +94,8 @@ $$\text{END (m)} = \big[(D + 10) \times (1 - F_{He})\big] - 10$$
 ---
 
 ## 📚 參考文獻與引用來源
-1. **NOAA Diving Manual（一手權威）** - *Oxygen Exposure Limits (CNS) & MOD*：美國國家海洋暨大氣總署潛水手冊，CNS 單次/24h 限值表與 MOD 計算之標準來源。 [連結](https://www.noaa.gov)
-2. **DAN（Divers Alert Network）** - *Oxygen Toxicity: CNS and Pulmonary*：氧中毒兩型之生理機制與 PO₂ 界線。 [連結](https://www.dan.org)
-3. **TDI Decompression Procedures / Helitrox Manual** - *Managing CNS%, OTU and END*：技術減壓課程對 CNS% 累加、OTU 上限與 END 控制的標準教材。 [連結](https://www.tdisdi.com)
-4. **Shearwater Research** - *Understanding CNS%, OTU and Gas Settings*：潛水電腦如何即時計算 CNS%/OTU 及氣體 MOD 提示。 [連結](https://www.shearwater.com)
+1. **NOAA OMAO（一手權威）** - *Inert Gas Narcosis and O₂ Toxicity*（官方教學簡報 PDF）：NOAA 潛水手冊之 CNS 限值表（1.6 bar/45 min…1.2 bar/210 min）與氮醉/氧毒管理原則。 [連結](https://www.omao.noaa.gov/sites/default/files/documents/Inert%20Gas%20Narcosis%20and%20O2%20Toxicity_slides121316.pdf)
+2. **DAN（Divers Alert Network）** - *Oxygen Toxicity*（Health Resources）：CNS 型（抽搐、VENTID 徵兆）與肺型氧中毒之生理機制、暴露強度×時間×運動量等風險因子。 [連結](https://dan.org/health-medicine/health-resources/diseases-conditions/oxygen-toxicity/)
+3. **TDI（官方）** - *Decompression Procedures Diver*（課程標準頁）：技術減壓課程對 CNS% 累加、OTU 與 END 控制之訓練範疇。 [連結](https://www.tdisdi.com/tdi/get-certified/decompression-procedures-diver/)
+4. **Shearwater Research（官方）** - *Shearwater and the CNS Oxygen Clock*：潛水電腦以 NOAA 表線性內插即時累計 CNS% 之計算方法與半衰恢復模型。 [連結](https://shearwater.com/blogs/community/shearwater-and-the-cns-oxygen-clock)
 5. **Hoyt, Murphy, Pollock et al.（2025，一手權威）** - *Revised guideline for central nervous system oxygen toxicity exposure limits when using an inspired PO₂ of 1.3 atmospheres*，《Diving and Hyperbaric Medicine》2025-09（NOAA 2025-03 共識工作坊）：1.3 atm 工作段單次上限自 180→240 min 之修訂依據。 [連結](https://pmc.ncbi.nlm.nih.gov/articles/PMC12500339/)

@@ -78,12 +78,14 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **Xico Dive Center** - *Propulsion Techniques for Cave and Wreck Diving*: 探討不同踢法對封閉環境泥沙攪動的物理評估。 [連結](https://www.xicodivecenter.com)
-2. **Alboom Diving** - *Standardizing Technical Diving Kicks*: 蛙踢、改良式蛙踢與後退踢法在水中流體力學的效率對比。 [連結](https://www.alboomdiving.com)
-3. **TDI/SDI Articles** - *The Frog Kick: Mechanics and Practice*: 詳細拆解蛙踢四個階段（準備、張開、推水、滑行）的腿部肌肉出力點。 [連結](https://www.tdisdi.com)
-4. **Scuba Diver Life** - *Why Technical Divers Use the Frog Kick*: 蛙踢的「滑行期」對節省呼吸氣體消耗率（SAC）的實務分析。 [連結](https://www.scubadiverlife.com)
-5. **Viking Dives** - *Modified Kicks in Restricted Spaces*: 改良式蛙踢在狹小空間中的推進半徑與安全性評估。 [連結](https://www.vikingdives.com)
-6. **Dive Addiction** - *Learning the Back Kick*: 後退踢法的腳踝旋轉角度、撈水機制與常見錯誤診斷。 [連結](https://www.diveaddiction.me)
-7. **GoSidemount (Razor)** - *Razor Propulsion & Maneuverability Guide*: 官方針對極簡側掛背帶在進行原地直升機轉彎時的重心分配指南。 [連結](https://www.razorgosidemount.com)
-8. **YouTube (Garry Dallas Sidemount)** - *Finning Techniques Masterclass*: Garry Dallas 示範慢動作後退踢法與直升機轉彎的腳踝微調影片。 [連結](https://www.youtube.com)
-9. **Alert Diver Europe** - *Avoiding Silting: Environmental Protection in Overhead Zones*: 討論推進技術在維護脆弱洞穴/沉船生態與能見度中的關鍵地位。 [連結](https://www.alertdiver.eu)
+1. **Divernet** - *Dive Like A Pro: Finning Techniques*: 各踢法對封閉環境泥沙攪動的評估與情境選擇。 [連結](https://divernet.com/scuba-diving/dive-like-a-pro-finning-techniques/)
+2. **SSI Blog** - *From Novice to Pro: The 6 Best Finning Techniques for Divers*: 蛙踢、改良式蛙踢與後退踢法的效率與適用情境對比。 [連結](https://www.divessi.com/en/blog/finning-techniques-for-divers-9089.html)
+3. **TDI/SDI** - *The Top 3 Finning Techniques and When to Use Each One*: 蛙踢分解（90 度屈膝、展腿、弧形推水、併攏滑行）與推力朝後防揚沙之原理。 [連結](https://www.tdisdi.com/tdi-diver-news/the-top-three-finning-techniques-and-when-to-use-each-one/)
+4. **Scuba Diver Life** - *Propulsion Techniques for Tech Divers*: 蛙踢「滑行期」與減速原理對氣體消耗（SAC）的實務分析。 [連結](https://scubadiverlife.com/propulsion-techniques-tech-divers/)
+5. **Dressel Divers** - *Scuba Frog Kick and Other Diving Kicks*: 改良式蛙踢（縮小推進弧、以膝發力）在狹小空間的應用。 [連結](https://www.dresseldivers.com/blog/scuba-frog-kick/)
+6. **Scuba.com** - *8 Finning & Kicking Techniques for Scuba Diving*: 後退踢法的腳踝翻轉、撈水機制與常見錯誤診斷。 [連結](https://www.scuba.com/blog/underwater-finning-kicking-techniques-scuba-diving/)
+7. **GoSidemount (Razor 官方 eLearning)** - *Back Kick — Propulsion Techniques*（課程頁）: Razor 官方側掛課程之後退踢與原地轉向教學單元。 [連結](https://razorgosidemount.com/elearning/side-mount-open-water-diver/lessons/propulsion-techniques/topic/back-kick/)
+8. **YouTube (Garry Dallas / Simply Sidemount)** - *Tune up your Fundamental skills*: 側掛基礎技巧（含踢法與轉向）示範（影音來源，僅供補充）。 [連結](https://www.youtube.com/watch?v=hplPRmKzwwI)
+9. **DiveVolk** - *Scuba Finning Techniques: Kick Smarter and Protect the Reef*: 推進技術在保護脆弱環境與維持能見度中的角色。 [連結](https://www.divevolkdiving.com/blogs/diving-knowledge/scuba-finning-techniques-frog-kick-flutter-kick)
+
+> ⚠️ 引用注意：divernet.com 與 tdisdi.com 有反爬蟲機制（403），內容以搜尋引擎索引確認。

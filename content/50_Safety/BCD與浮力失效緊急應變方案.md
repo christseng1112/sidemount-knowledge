@@ -72,13 +72,13 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **TDI/SDI Articles** - *How to Handle a Runaway BCD Inflator*: 充氣閥卡死失控上升的病理學風險、隨充隨排與 LPI 斷開步驟。 [連結](https://www.tdisdi.com)
-2. **Sidemount Book** - *Buoyancy Emergency Procedures*: 爆囊下沉應變、配重拋棄原則與水中姿態控制力學。 [連結](https://www.sidemountbook.com)
-3. **Reddit r/scuba** - *Disconnecting LPI hose under pressure*: 潛水社群對於在高壓下無法拔除快拆接頭的物理原因與關閥排除經驗分享。 [連結](https://www.reddit.com)
-4. **XDEEP Support** - *Stealth 2.0 Dual Bladder System Manual*: 官方針對雙囊版氣囊安裝、充氣軟管路由與備用氣囊排氣閥操作的指南。 [連結](https://www.xdeep.eu)
-5. **Tecline Diving** - *Redundant Buoyancy: Dual Bladders vs Drysuits*: 技術潛水裝備商針對不同防寒衣配置下，浮力冗餘方案的安全性評估。 [連結](https://www.teclinediving.eu)
-6. **DAN Europe** - *Buoyancy Emergency & Weight Dropping Protocols*: 歐洲潛水安全協會針對爆囊事故下拋棄鉛塊的自救標準指南。 [連結](https://www.dan.org)
-7. **Sidemount Pros** - *Swimming without Buoyancy: Maintaining Trim in Emergency*: 示範在 BCD 完全無氣狀態下，如何利用水平蛙踢與斜向迎風角進行上升游動。 [連結](https://www.sidemountpros.com)
-8. **YouTube (Garry Dallas Technical)** - *Sidemount Stuck Inflator & LP Disconnect Drill*: 知名教練 Garry Dallas 示範水下充氣閥卡死自救動作演練影片。 [連結](https://www.youtube.com)
-9. **XDEEP（官方一手資料）** - *STEALTH 2.0 / STEALTH 2.0 TEC User Manual, Revision 3 (2015)*：規格頁載明 Classic 16 kg、Tec 19 kg，皆為「外殼 Cordura 1100＋內膽 Nylon 440」**兩層單一氣室**（非雙氣囊冗餘）。 [連結](https://www.xdeep.eu)
+1. **DAN (Divers Alert Network)** - *Inflator Valve Stuck, Causing Rapid Ascent*（案例分析）: 充氣閥卡死導致失控上升的真實案例、隨充隨排與 LPI 斷開處置。 [連結](https://dan.org/safety-prevention/diver-safety/case-summaries/inflator-valve-stuck-causing-rapid-ascent/)
+2. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*（書籍官網）: 爆囊下沉應變、配重拋棄原則與水中姿態控制力學。 [連結](https://www.sidemountbook.com)
+3. **ScubaBoard** - *Stuck BCD Inflator*: 潛水社群對充氣閥卡死當下拔快拆/關閥排除順序的經驗討論（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/stuck-bcd-inflator.545459/)
+4. **XDEEP（官方）** - *STEALTH 2.0 TEC User Manual*（官方 PDF）: 雙囊版（RB 選配）氣囊安裝、充氣軟管路由與排氣閥操作指南。 [連結](https://www.xdeep.eu/files/manuals/xdeep_stealth_tec_manual_en.pdf)
+5. **X-Ray Mag** - *Redundancy: Double Bagging for Divers*: 雙氣囊 vs 乾衣 vs 舉升袋之浮力冗餘方案比較與各機構立場（PADI Tec 要求 vs GUE/UTD 不採納）。 [連結](https://xray-mag.com/content/redundancy-double-bagging-divers)
+6. **DAN (Divers Alert Network), Alert Diver** - *Weight Up!*: 正確配重與可拋棄配重之安全原則——溺水事故統計中多數配重帶仍在身上之教訓。 [連結](https://dan.org/alert-diver/article/weight-up/)
+7. **ScubaBoard** - *Redundant Buoyancy: Dual Bladder v. Lift Bag v. Dry Suit*: 無浮力狀態下游泳上升可行性與備援浮力選項之技術社群辯論（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/redundant-bouyancy-dual-bladder-v-lift-bag-v-dry-suit.402361/)
+8. **YouTube (Dark Horizon Diving)** - *Sidemount / Tech Diving Skills 9: How To Deal With Inflator Failures*: 水下充氣閥故障應變動作演練示範（影音來源，僅供補充）。 [連結](https://www.youtube.com/watch?v=1fGN673KeyA)
+9. **XDEEP（官方一手資料）** - *STEALTH 2.0 User Manual*（官方 PDF）：規格載明 Classic 16 kg、Tec 19 kg，皆為「外殼 Cordura 1100＋內膽 Nylon 440」**兩層單一氣室**（非雙氣囊冗餘）。 [連結](https://www.xdeep.eu/files/manuals/xdeep_stealth_manual_en.pdf)
 10. **Razor Go Side Mount（官方一手資料）** - *Razor 4 Side Mount System Manual, Edition 1.2 (2022)* 與官方產品頁：BAT Wing 為三層雙氣囊冗餘，主/備氣囊各 **45 lbs / 約 20 kg** 升力（更正：先前誤植 35 lbs）。 [連結](https://razorgosidemount.com/razor-4-bat-wing/)

@@ -61,7 +61,7 @@ tags:
 ## 📚 參考文獻與引用來源
 
 1. **Andy Davis (Scuba Tech Philippines)** - *Sidemount Diving: A Detailed Guide*: 側掛驗收標準（瓶貼軀幹、一級頭收腋下）與常見配置/技巧錯誤的對照基準。 [連結](https://scubatechphilippines.com/scuba_blog/sidemount-diving-techniques/)
-2. **Sidemount Pros** - *Solving Reach Issues in Valve Drills*: 背帶/Bungee 調整不當造成的摸閥問題診斷。 [連結](https://www.sidemountpros.com)
+2. **Doppler's Tech Diving Blog (Steve Lewis)** - *Getting Sidemount Tanks to Behave Themselves and Sit Where They Should*: 背帶/Bungee 調整不當造成的摸閥問題診斷。 [連結](https://decodoppler.wordpress.com/2015/02/03/625/)
 3. **Andy Davis (Scuba Tech Philippines)** - *Top-5 Best Sidemount Fins 2024*: 蛙鞋浮力與 Trim 的關係。 [連結](https://scubatechphilippines.com/scuba_blog/top-sidemount-fins/)
 4. **Steve Martin (sidemounting.com)** - *Sidemount FAQ*: 課程先決條件、建議時長（3–4 天）與裝備客製的必要性。 [連結](https://www.sidemounting.com/faq/)
 

@@ -76,10 +76,12 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **The Dive Warehouse** - *Rigging Stages and Deco Cylinders*: 說明鋁瓶 Rigging 的組件規格、不鏽鋼管夾位置與織帶拉線的綁法。 [連結](https://www.thedivewarehouse.com)
-2. **TDI/SDI Articles** - *The Golden Rule of No Metal-to-Metal Technical Rigging*: 詳述為何快拆扣與瓶身連接必須可被潛水刀切斷的安全性力學原理。 [連結](https://www.tdisdi.com)
-3. **Tecline Technical Diving** - *Multi-cylinder Sidemount Configuration Guide*: Tecline 官方提供的三瓶/四瓶配置圖，說明左側堆疊走線與右側長管淨空原則。 [連結](https://www.teclinediving.eu)
-4. **SWT Irish Technical Diving** - *Stage Bottle Handling SOPs*: 技術減壓氣瓶掛載順序（先頂後底）與水中解扣程序。 [連結](https://www.swt.ie)
-5. **Sidemount Book** - *Buoyancy & Trim with Multiple Stage Bottles*: 探討多支鋁瓶從滿瓶到空瓶在水中浮力重心移動的物理平衡模型。 [連結](https://www.sidemountbook.com)
-6. **YouTube (Garry Dallas Technical)** - *How to Clip and Layer Multiple Stage Bottles*: Garry Dallas 示範左側雙瓶層疊（Layering）快拆扣互鎖與防外飄操作。 [連結](https://www.youtube.com)
-7. **DIR Direct** - *Sidemount Stage Leashes and D-ring Positioning*: 介紹減壓瓶瓶身延長掛帶（Leash）的使用時機與安裝方法。 [連結](https://www.dirdirect.com)
+1. **TDI/SDI** - *Rigging Stage Bottles… How to carry extra scuba tanks… and why*: 鋁瓶 Rigging 組件規格、管夾位置與織帶綁法之標準作法。 [連結](https://www.tdisdi.com/sdi-diver-news/rigging-stage-bottles-how-to-carry-extra-scuba-tanks-and-why/)
+2. **SSI Blog** - *Deco Diving 101 – Stage Bottle Rigging*: 快拆扣與瓶身連接須可被切斷（no metal-to-metal）之安全原理與 Rigging 實作。 [連結](https://www.divessi.com/en/blog/stage-bottle-rigging-7377.html)
+3. **Audrey Cudel Technical** - *Technical Sidemount*（課程頁）: 3–4 瓶多瓶配置之掛載、Trim 交互與氣體管理訓練內容。 [連結](https://audreycudel.com/technical-sidemount)
+4. **ScubaBoard** - *Staging Regs For Sidemount*: 減壓瓶掛載順序與水中解扣程序的技術社群討論（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/staging-regs-for-sidemount.525851/)
+5. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*（書籍官網）: 多支鋁瓶滿瓶到空瓶的浮力重心移動與平衡模型。 [連結](https://www.sidemountbook.com)
+6. **YouTube (Garry Dallas / Simply Sidemount)** - *Garry Dallas (Simply Sidemount) 頻道*: 左側雙瓶層疊（Layering）快拆扣互鎖與防外飄示範（影音來源，僅供補充）。 [連結](https://www.youtube.com/@Garry_Dallas)
+7. **Dive Rite（官方產品頁）** - *Sidemount Rigging Kit*: 減壓瓶掛帶與快拆硬體之組件規格與安裝。 [連結](https://diverite.com/products/nomad-sidemount/sidemount-rigging-kit/)
+
+> ⚠️ 引用注意：tdisdi.com 有反爬蟲機制（403）、sidemountbook.com 審訂時暫時 503，內容以搜尋引擎索引確認。

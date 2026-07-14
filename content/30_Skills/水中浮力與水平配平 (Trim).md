@@ -80,13 +80,15 @@ tags:
 
 ## 📚 參考文獻與引用來源
 
-1. **TDI/SDI Articles** - *Achieving the Perfect Trim: Core Tension & Mechanics*: 探討骨盆前推、臀肌收縮及腳踝勾緊對水平配平的力學作用。 [連結](https://www.tdisdi.com)
-2. **DAN Europe** - *The Hydrodynamics of Trim*: 分析水平姿態對降低水阻力與節省氣體消耗的流體力學模型。 [連結](https://www.alertdiver.eu)
-3. **Scuba Diving Magazine** - *How to Hover Like a Pro*: 靜態懸停練習、核心肌群等長收縮控制技巧。 [連結](https://www.scubadiving.com)
-4. **Dressel Divers** - *Trim and Finning Techniques*: 詳述膝蓋彎曲角度、頭部位置對維持 Trim 的影響。 [連結](https://www.dresseldivers.com)
-5. **TDI Blog** - *The Seahorse Position and How to Fix It*: 診斷海馬姿勢的物理成因與陸上/水中修正步驟。 [連結](https://www.tdisdi.com)
-6. **SSI Blog** - *The Physics of Hovering*: 重心與浮心水平夾角對旋轉力矩影響的理論分析。 [連結](https://www.divessi.com)
-7. **Hollis Technical Report** - *Weight Distribution in Sidemount*: Hollis 研發團隊關於配重位置對水中平衡影響的實測報告。 [連結](https://www.hollis.com)
-8. **Sidemount Book** - *Buoyancy and Trim Diagnostics*: 針對頭沉、腳沉、側滾等姿態的裝備微調對照手冊。 [連結](https://www.sidemountbook.com)
-9. **Scuba Tech Philippines** - *The Sliding D-ring and Dynamic Trim*: 探討如何利用滑動 D 環補償鋁瓶浮力變化以維持後期 Trim。 [連結](https://www.scubatechphilippines.com)
-10. **Reddit r/scuba** - *Tips for curing a head-up/foot-down trim in sidemount*: 潛水社群針對腳下沉問題的配重與裝備高度微調經驗交流。 [連結](https://www.reddit.com)
+1. **TDI/SDI** - *The "Perfect" Trim*: 骨盆、核心張力與膝踝角度（45–90°）對水平配平的力學作用與常見錯誤。 [連結](https://www.tdisdi.com/sdi-diver-news/the-perfect-trim/)
+2. **DAN (Divers Alert Network), Alert Diver** - *Mastering Neutral Buoyancy and Trim*: 水平姿態對水阻與氣體消耗的影響、配重分佈與懸停驗收。 [連結](https://dan.org/alert-diver/article/mastering-neutral-buoyancy-and-trim/)
+3. **Scuba Diving Magazine** - *How To Achieve Perfect Buoyancy On Every Dive*: 靜態懸停練習組（Buddha Hover、Prone/Side Hover）與配平自我檢測。 [連結](https://www.scubadiving.com/training/basic-skills/perfect-buoyancy-every-dive)
+4. **Dressel Divers** - *Scuba Diving Trim: Tips for Efficient Control*: 頭部位置、V 形手臂與膝蓋角度對維持 Trim 的影響。 [連結](https://www.dresseldivers.com/blog/scuba-diving-trim-tips/)
+5. **TDI/SDI** - *TRIM*: 海馬姿勢（Seahorse）的物理成因（配重位置、氣囊氣體遷移）與修正步驟。 [連結](https://www.tdisdi.com/sdi-diver-news/trim/)
+6. **SSI Blog** - *12 Top Tips for Perfect Buoyancy*: 阿基米德原理下重心/浮心關係與懸停練習之理論與操作。 [連結](https://blog.divessi.com/buoyancy-control-and-trim-3028.html)
+7. **Hollis（官方手冊 PDF）** - *Katana Sidemount Harness User Guide*: 脊椎配重袋位置與非拋棄式 Trim 配重對水中平衡的配置說明。 [連結](https://www.hollis.com/media/wysiwyg/HO/manuals/Katana_Manual_12-4201_r1_71116.pdf)
+8. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*（書籍官網）: 頭沉、腳沉、側滾等姿態的裝備微調對照。 [連結](https://www.sidemountbook.com)
+9. **Scuba Tech Philippines (Andy Davis)** - *Ultimate Guide to Sidemount Cylinder Trim*: 滑動 D 環補償鋁瓶浮力變化以維持後期 Trim 的方法。 [連結](https://scubatechphilippines.com/scuba_blog/ultimate-guide-sidemount-cylinder-trim/)
+10. **ScubaBoard** - *Critique my Sidemount Trim and configuration*: 腳下沉/頭上仰問題的配重與裝備高度微調社群經驗（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/critique-my-sidemount-trim-and-configuration.530489/)
+
+> ⚠️ 引用注意：tdisdi.com 與 scubadiving.com 有反爬蟲機制（403），內容以搜尋引擎索引確認。

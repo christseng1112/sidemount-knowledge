@@ -97,11 +97,13 @@ $$\text{RMV} = 0.873\text{ bar/min} \times 11.1\text{ L} \approx 9.69 \text{ L/m
 
 ## 📚 參考文獻與引用來源
 
-1. **Crystal Dive Articles** - *Understanding SAC and RMV Rates*: 呼吸率定義、壓力與體積換算原理以及在氣體計劃中的作用。 [連結](https://www.crystaldive.com)
-2. **No Gravity Divers** - *The Scuba Gas Consumption Guide*: 說明為何 SAC 與氣瓶容積綁定，而 RMV 為通用人體生理數據。 [連結](https://www.nogravity-divers.com)
-3. **Aquarius Diving** - *How to calculate your Surface Air Consumption*: 提供詳細的手動公式演算與 psi 系統下的換算方法。 [連結](https://www.aquarius-divingtenerife.com)
-4. **DAN Europe** - *The Physiology of Breathing under Pressure*: 探討氣體密度隨深度（ATA）增加對肺泡氣體交換與 RMV 變化的物理生理機制。 [連結](https://www.dan.org)
-5. **Scuba Tech Philippines** - *Estimating Emergency RMV for Rock Bottom Planning*: 介紹技術潛水在進行安全停留與緊急上升規劃時，如何使用 30-40 L/min 的驚慌 RMV。 [連結](https://www.scubatechphilippines.com)
-6. **SSI Blog** - *Physics of Diving: Calculating ATA & Pressure*: 平均深度絕對壓力的物理公式演算。 [連結](https://www.divessi.com)
-7. **PADI Tec Rec Manual** - *Respiratory Minute Volume calculations for Gas Matching*: 針對技術混合氣體潛水，進行不同尺寸氣瓶體積折算的 RMV 標準指引。 [連結](https://www.padi.com)
-8. **Punkfish Academy** - *Task Loading and RMV Spikes*: 技術潛水事故分析中，任務載荷與驚慌導致 RMV 暴增的實務案例。 [連結](https://www.punkfish-academy.com)
+1. **Crystal Dive** - *Master Surface Air Consumption: How to Lower Your SAC Rate*: SAC 定義、實例計算與降低呼吸率的實務策略（放鬆、浮力、流線化）。 [連結](https://www.crystaldive.com/master-your-surface-air-consumption/)
+2. **No Gravity Divers** - *How to calculate air consumption? SAC and RMV in Scuba Diving*: SAC（bar/min，與瓶容積綁定）與 RMV（L/min，通用生理值）之區別與計算所需資料。 [連結](https://nogravity-divers.com/how-to-calculate-air-consumption-sac-and-rmv-in-scuba-diving/)
+3. **DAN (Divers Alert Network), Alert Diver** - *Estimating Your Air Consumption*: 手動公式演算與 psi 系統下的換算方法。 [連結](https://dan.org/alert-diver/article/estimating-your-air-consumption/)
+4. **R. Pyle (IANTD) / University of Maine Scientific Diving** - *Diving Physics and "Fizzyology"*（教學 PDF）: 深度（ATA）對氣體密度與呼吸生理之物理機制。 [連結](https://umaine.edu/scientificdiving/wp-content/uploads/sites/335/2014/10/Diving-Fizzyology-R.-Pyle-IANTD.pdf)
+5. **Scuba Tech Philippines (Andy Davis)** - *Scuba Gas Planning: Gas Management For Divers*: Rock Bottom 保留計算、緊急情境下呼吸倍增（雙倍/三倍係數）之保守化建議。 [連結](https://scubatechphilippines.com/scuba_blog/scuba-gas-planning-management-divers/)
+6. **PADI Blog** - *Diving Physics: The Science Behind Your Underwater Adventures*: 絕對壓力（ATA）隨深度之公式與氣體密度換算基礎。 [連結](https://blog.padi.com/diving-physics/)
+7. **TDI/SDI** - *Do we have enough? Handling breathing gas properly*: 氣體需求評估、不同瓶容積下的氣量折算與保留思維。 [連結](https://www.tdisdi.com/tdi-diver-news/do-we-have-enough/)
+8. **Divernet** - *Gas Planning 101: How to Calculate Your RMV*: RMV 計算流程與緊急規劃之壓力係數應用。 [連結](https://divernet.com/medical/gas-planning-101-how-to-calculate-your-rmv/)
+
+> ⚠️ 引用注意：tdisdi.com 與 divernet.com 有反爬蟲機制（403），內容以搜尋引擎索引確認。
