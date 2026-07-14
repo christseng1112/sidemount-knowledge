@@ -117,9 +117,13 @@ tags:
   <button onclick="calculateTrimPlanner()" style="background: linear-gradient(135deg, #ff9f43, #d35400); border: none; border-radius: 6px; color: white; padding: 10px 20px; font-weight: bold; cursor: pointer; transition: opacity 0.2s; width: 100%;">計算配重與配平建議</button>
   
   <div id="trimResultBlock" style="margin-top: 20px; padding: 15px; background: #141419; border-radius: 8px; border: 1px solid #2d2d38; display: none;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+      <span style="color: #a0a0b0;">預估所需「總淨配重」:</span>
+      <span id="resTrimBallast" style="color: #fff; font-weight: bold;">- kg</span>
+    </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 12px; border-bottom: 1px solid #2d2d38; padding-bottom: 8px;">
-      <span style="color: #a0a0b0; font-weight: bold;">預估所需總配重:</span>
-      <span id="resTrimBallast" style="color: #ff9f43; font-weight: bold; font-size: 1.25em;">- kg</span>
+      <span style="color: #a0a0b0; font-weight: bold;">預估需攜帶的「鉛塊重量」:</span>
+      <span id="resTrimLead" style="color: #ff9f43; font-weight: bold; font-size: 1.25em;">- kg</span>
     </div>
     <div style="margin-bottom: 10px;">
       <strong style="color: #00ff88; font-size: 0.9em; display: block; margin-bottom: 4px;">🎯 配重分佈策略 (Weight Distribution):</strong>
@@ -192,7 +196,11 @@ function calculateTrimPlanner() {
     distAdvice += " 濕衣會隨深度增加而壓縮、浮力減小。最大深度時切忌在 BCD 過度充氣（氣體打架），應以小量、分次微調為主。";
   }
   
+  var rigWeight = suit.startsWith('dry') ? 4.0 : 3.5; // Regulators (2x), metal D-rings, buckles acting as negative weight in water
+  var leadWeight = Math.max(0, finalBallast - rigWeight);
+  
   document.getElementById('resTrimBallast').innerText = finalBallast.toFixed(1) + ' kg';
+  document.getElementById('resTrimLead').innerText = leadWeight.toFixed(1) + ' kg (扣除調節器與背帶等裝備自重約 ' + rigWeight + ' kg)';
   document.getElementById('resTrimDist').innerText = distAdvice;
   document.getElementById('resTrimTankAdvice').innerText = tankAdvice;
   
