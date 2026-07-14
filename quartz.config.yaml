@@ -201,6 +201,7 @@ plugins:
         提出修改建議: https://github.com/christseng1112/sidemount-knowledge/issues/new/choose
         討論板: https://github.com/christseng1112/sidemount-knowledge/discussions
         授權 CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
+        🌐 English Version: https://christseng1112.github.io/sidemount-knowledge/en/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
