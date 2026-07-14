@@ -78,6 +78,130 @@ tags:
 
 ---
 
+### 🛡️ 互動式側掛配重與配平規劃工具 (Ballast & Trim Assistant)
+本工具根據您的防寒衣種類、氣瓶型號及水質，估算潛水結束時所需的基本配重，並給予精準的配重塊分佈位置（Trim）建議：
+
+<div style="background: #1e1e24; border: 1px solid #3a3a4a; border-radius: 12px; padding: 20px; margin: 25px 0; color: #f0f0f5; font-family: system-ui, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <h3 style="color: #ff9f43; margin-top: 0; border-bottom: 1px solid #3a3a4a; padding-bottom: 8px; font-weight: 600;">⚖️ 側掛配重與水平配平規劃器</h3>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin-bottom: 20px;">
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">體重 (kg)</label>
+      <input type="number" id="trimWeight" value="70" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">防寒衣種類</label>
+      <select id="trimSuit" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+        <option value="wet3">3mm 濕式防寒衣</option>
+        <option value="wet5">5mm 濕式防寒衣</option>
+        <option value="dryTri">貼合式乾衣 (Trilaminate)</option>
+        <option value="dryNeo">氯丁橡膠乾衣 (Neoprene)</option>
+      </select>
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">氣瓶種類 (雙瓶)</label>
+      <select id="trimTank" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+        <option value="al80">AL80 鋁瓶 (11.1L)</option>
+        <option value="steel12">Faber 12L 鋼瓶</option>
+      </select>
+    </div>
+    <div>
+      <label style="display: block; font-size: 0.85em; color: #a0a0b0; margin-bottom: 5px;">潛水水質</label>
+      <select id="trimWater" style="width: 100%; background: #2d2d38; border: 1px solid #4a4a5a; border-radius: 6px; padding: 8px; color: #fff; outline: none; box-sizing: border-box;">
+        <option value="salt">海水 (Saltwater)</option>
+        <option value="fresh">淡水 (Freshwater)</option>
+      </select>
+    </div>
+  </div>
+  
+  <button onclick="calculateTrimPlanner()" style="background: linear-gradient(135deg, #ff9f43, #d35400); border: none; border-radius: 6px; color: white; padding: 10px 20px; font-weight: bold; cursor: pointer; transition: opacity 0.2s; width: 100%;">計算配重與配平建議</button>
+  
+  <div id="trimResultBlock" style="margin-top: 20px; padding: 15px; background: #141419; border-radius: 8px; border: 1px solid #2d2d38; display: none;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 12px; border-bottom: 1px solid #2d2d38; padding-bottom: 8px;">
+      <span style="color: #a0a0b0; font-weight: bold;">預估所需總配重:</span>
+      <span id="resTrimBallast" style="color: #ff9f43; font-weight: bold; font-size: 1.25em;">- kg</span>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <strong style="color: #00ff88; font-size: 0.9em; display: block; margin-bottom: 4px;">🎯 配重分佈策略 (Weight Distribution):</strong>
+      <p id="resTrimDist" style="margin: 0; font-size: 0.85em; color: #e0e0e0; line-height: 1.4;"></p>
+    </div>
+    <div>
+      <strong style="color: #00ff88; font-size: 0.9em; display: block; margin-bottom: 4px;">🛢️ 氣瓶水中動態與換掛點建議:</strong>
+      <p id="resTrimTankAdvice" style="margin: 0; font-size: 0.85em; color: #e0e0e0; line-height: 1.4;"></p>
+    </div>
+  </div>
+</div>
+
+<script>
+function calculateTrimPlanner() {
+  var weight = parseFloat(document.getElementById('trimWeight').value);
+  var suit = document.getElementById('trimSuit').value;
+  var tank = document.getElementById('trimTank').value;
+  var water = document.getElementById('trimWater').value;
+  
+  var resultBlock = document.getElementById('trimResultBlock');
+  
+  if (isNaN(weight) || weight <= 0) {
+    alert('請輸入有效的體重！');
+    return;
+  }
+  
+  // Base percentage calculation
+  var pct = 0;
+  var drysuitAdd = 0;
+  
+  if (suit === 'wet3') {
+    pct = (water === 'salt') ? 0.05 : 0.03;
+  } else if (suit === 'wet5') {
+    pct = (water === 'salt') ? 0.08 : 0.05;
+  } else if (suit === 'dryTri') {
+    pct = (water === 'salt') ? 0.09 : 0.07;
+    drysuitAdd = (water === 'salt') ? 4 : 2; // undergarment factor
+  } else if (suit === 'dryNeo') {
+    pct = (water === 'salt') ? 0.12 : 0.10;
+    drysuitAdd = (water === 'salt') ? 4 : 2;
+  }
+  
+  var baseBallast = (weight * pct) + drysuitAdd;
+  
+  // Cylinder adjustments
+  var tankAdjustment = 0;
+  var distAdvice = "";
+  var tankAdvice = "";
+  
+  if (tank === 'al80') {
+    // Aluminum cylinders float at the end of dive (+1.8kg each, total +3.6kg).
+    // Divers must add ~3.5kg to compensate for breathing gas weight.
+    tankAdjustment = 3.5;
+    distAdvice = "配重應主要分佈在背部中軸線（身體中段腰際）。因為鋁瓶尾部在後半潛會變正浮力，配重塊不可放得太高，否則後半潛氣瓶上浮時會造成嚴重頭重腳輕。";
+    tankAdvice = "前半潛：氣瓶扣於髖骨後方的固定/滑動 D 環。後半潛（氣壓降至 120-100 bar 以下）：氣瓶尾部會開始上浮，此時請主動將兩側的 Sliding D-ring 前推 3-5 cm，使氣瓶閥與氣瓶身維持與您的軀幹平行，防氣瓶外翻與腳端浮起。";
+  } else if (tank === 'steel12') {
+    // Steel cylinders are heavy (-3.1kg empty, -0.6kg full? No, empty they are -0.6kg, full they are -3.1kg.
+    // They are always negative, so we can reduce ballast weight by ~1.5kg).
+    tankAdjustment = -1.5;
+    distAdvice = "鋼瓶本身為極大的負浮力，且重力矩偏向腳端（容易造成腳沉/頭上昂）。**強烈建議將 60% - 70% 的配重塊上移至肩胛骨之間**（例如 Delta 肩板下方、上排的 Wing weight pockets 或中央配重袋上方），以平衡鋼瓶腳部的下墜力矩，維持水平 Trim。";
+    tankAdvice = "鋼瓶在整潛過程中皆保持負浮力。瓶尾 Bolt snap 請固定於髖骨後方的固定 D 環或 Butt plate 上，全程不需要前推或調整扣點位置。請注意鋼瓶一級頭的重量，下潛時注意避免配重過低造成的海馬姿態。";
+  }
+  
+  var finalBallast = Math.max(0, baseBallast + tankAdjustment);
+  
+  // Suit-specific additions
+  if (suit.startsWith('dry')) {
+    distAdvice += " 此外，由於您穿著乾衣，建議加裝 **0.5 - 1 kg 的腳踝配重 (Ankle weights)**，以防氣體聚集在乾衣腳部引發「倒立失控上升」，並提供雙腿向下控制的力道。";
+  } else {
+    distAdvice += " 濕衣會隨深度增加而壓縮、浮力減小。最大深度時切忌在 BCD 過度充氣（氣體打架），應以小量、分次微調為主。";
+  }
+  
+  document.getElementById('resTrimBallast').innerText = finalBallast.toFixed(1) + ' kg';
+  document.getElementById('resTrimDist').innerText = distAdvice;
+  document.getElementById('resTrimTankAdvice').innerText = tankAdvice;
+  
+  resultBlock.style.display = 'block';
+}
+</script>
+
+---
+
 ## 📚 參考文獻與引用來源
 
 1. **TDI/SDI** - *The "Perfect" Trim*: 骨盆、核心張力與膝踝角度（45–90°）對水平配平的力學作用與常見錯誤。 [連結](https://www.tdisdi.com/sdi-diver-news/the-perfect-trim/)
