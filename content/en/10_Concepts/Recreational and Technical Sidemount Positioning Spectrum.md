@@ -45,14 +45,14 @@ This article clarifies where sidemount falls on the recreational-to-technical sp
 *   PADI allows **Tec Sidemount to be co-taught with Tec 40/45/50**, eliminating redundant elements, saving time and fees [2].
 *   Suitable for divers who are already committed to pursuing technical diving.
 
-> 📌 Regardless of the path, **core sidemount skills (Trim, cylinder management, gas rotation) remain identical**—technical training simply tests these skills under higher task loading and decompression frameworks. For agency details, see [[en/70_Resources/Training Agency Comparison|Training Agency Comparison]].
+> 📌 Regardless of the path, **core sidemount skills (Trim, cylinder management, gas rotation) remain identical**—technical training simply tests these skills under higher task loading and decompression frameworks. For agency details, see [[en/70_Resources/Sidemount Certification Systems & Course Comparison|Training Agency Comparison]].
 
 ---
 
 ## ⚠️ Common Misconceptions
 
-1.  **"Now that I've finished my sidemount course, I can enter caves"**: Incorrect. Cave diving requires a dedicated Cavern $\rightarrow$ Cave training progression (see [[en/60_Advanced/Overhead Environments Sidemount Rigging|Overhead Environments Sidemount Rigging]]) [1].
-2.  **"Sidemount double cylinders = I have double the gas, so I can stay down longer"**: Your gas plan remains constrained by no-decompression limits; carrying more gas does not allow you to exceed time limits (see [[en/40_Gas_Management/Gas Planning & Safety Reserves|Gas Planning & Safety Reserves]]).
+1.  **"Now that I've finished my sidemount course, I can enter caves"**: Incorrect. Cave diving requires a dedicated Cavern $\rightarrow$ Cave training progression (see [[en/60_Advanced/Sidemount Guidelines & Operations in Overhead Environments|Overhead Environments Sidemount Rigging]]) [1].
+2.  **"Sidemount double cylinders = I have double the gas, so I can stay down longer"**: Your gas plan remains constrained by no-decompression limits; carrying more gas does not allow you to exceed time limits (see [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserves]]).
 3.  **"Technical sidemount is cooler, so I will skip recreational sidemount"**: Adjusting equipment and building basic muscle memory requires in-water hours. Skipping steps often results in spending technical course time adjusting gear rather than learning advanced techniques [3].
 
 ---

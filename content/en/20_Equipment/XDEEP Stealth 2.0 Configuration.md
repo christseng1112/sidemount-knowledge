@@ -60,7 +60,7 @@ XDEEP offers three distinct wing configurations tailored to environment and cyli
 | Water Temperature | −2°C to 40°C | −2°C to 40°C |
 | Servicing Interval | **Every 200 dives or at least annually** at an authorized center | **Every 200 dives or at least annually** at an authorized center |
 
-> ⚠️ **Clarification on Dual Bladder / Redundancy**: The official manuals describe the Classic as a "double-shell" and the Tec/Rec as a "two-layer" structure—referring to the **outer Cordura shell + inner Nylon bladder, not dual bladders**. **Standard XDEEP Stealth 2.0 systems (including the Tec version) are single-bladder wings**. Divers requiring redundant buoyancy should verify the availability of a dual-bladder version, use a drysuit, or configure ditchable weight pockets (see [[en/50_Safety/Sidemount BCD Failure Handling|Sidemount BCD Failure Handling]]).
+> ⚠️ **Clarification on Dual Bladder / Redundancy**: The official manuals describe the Classic as a "double-shell" and the Tec/Rec as a "two-layer" structure—referring to the **outer Cordura shell + inner Nylon bladder, not dual bladders**. **Standard XDEEP Stealth 2.0 systems (including the Tec version) are single-bladder wings**. Divers requiring redundant buoyancy should verify the availability of a dual-bladder version, use a drysuit, or configure ditchable weight pockets (see [[en/50_Safety/BCD & Buoyancy Failure Emergency Procedures|Sidemount BCD Failure Handling]]).
 
 > 🛟 **Official Safety Warnings**: The BCD is not a lifejacket and does not guarantee face-up floating on the surface. Never use the BCD as a salvage lift bag for objects heavier than 2 kg (use a dedicated lift bag). Nitrox mixes with oxygen concentrations above 23% fall outside the CE certification scope [13].
 

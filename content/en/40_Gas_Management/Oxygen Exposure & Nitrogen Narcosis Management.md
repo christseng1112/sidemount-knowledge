@@ -36,7 +36,7 @@ $$\text{MOD (m)} = \left(\frac{PO_2\text{ Limit}}{FO_2} - 1\right) \times 10$$
 | EAN50 (Deco Gas) | 0.50 | 18.0 m | 22.0 m |
 | 100% O₂ (Deco Gas) | 1.00 | 4.0 m | **6.0 m** |
 
-> *Standard Practice*: Plan the working bottom phase at **PO₂ ≤ 1.4 ata**. Decompression stops can be conducted at **PO₂ up to 1.6 ata** due to minimal physical exertion (see [[en/60_Advanced/Decompression Stop Practice & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]]). The standard switch depth for EAN50 is 21–22 meters (see [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]]).
+> *Standard Practice*: Plan the working bottom phase at **PO₂ ≤ 1.4 ata**. Decompression stops can be conducted at **PO₂ up to 1.6 ata** due to minimal physical exertion (see [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]]). The standard switch depth for EAN50 is 21–22 meters (see [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]]).
 
 ---
 

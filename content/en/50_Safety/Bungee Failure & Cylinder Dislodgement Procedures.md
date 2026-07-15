@@ -29,7 +29,7 @@ In sidemount configurations, the **cylinder neck/valve is drawn into the armpit 
 5.  **Signal Buddy & Terminate Dive**: In overhead environments, follow the guideline to exit; in open water, conduct a controlled ascent to the surface.
 
 ### 🛡 Prevention
-*   Bungee cord is a **consumable item**. Inspect it regularly and replace it immediately if cracks or dry rot appear (see [[en/20_Equipment/Sidemount Gear Maintenance & Care Guide|Sidemount Gear Maintenance & Care Guide]]).
+*   Bungee cord is a **consumable item**. Inspect it regularly and replace it immediately if cracks or dry rot appear (see [[en/70_Resources/Sidemount Gear Maintenance & Care Guide|Sidemount Gear Maintenance & Care Guide]]).
 *   Verify that the bungee is looped securely around the valve handwheel during your pre-dive checks (the "B" in the BAR check; see [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]]).
 
 ---
@@ -49,7 +49,7 @@ If a lower bolt snap fails or you drop a cylinder during dynamic manipulation (s
 
 ### 🛡 Prevention
 *   Always loop a **wrist lanyard** over the cylinder valve before unclipping a tank to push it ahead of you (see [[en/60_Advanced/No-Mount & Stage Dropping Techniques|No-Mount & Stage Dropping Techniques]]).
-*   Use **large-eye double-ended or single bolt snaps** and check spring tension regularly. Replace sticky or weak snaps (see [[en/20_Equipment/Cylinder Rigging and Hardware Setup|Cylinder Rigging and Hardware Setup]]).
+*   Use **large-eye double-ended or single bolt snaps** and check spring tension regularly. Replace sticky or weak snaps (see [[en/20_Equipment/Cylinder Rigging & Hardware Setup|Cylinder Rigging and Hardware Setup]]).
 *   Verify that the lower bolt snaps are securely clipped to their D-rings during your pre-dive checks (the "C" in the BAR check).
 
 ---

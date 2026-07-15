@@ -7,7 +7,7 @@ tags:
 
 # Primary Light and Goodman Handle Configuration (Dive Light Systems)
 
-The execution of light signals outlined in [[en/70_Resources/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]] depends on every diver carrying a primary light that produces a **collimated beam, is securely positioned, and leaves hands free**. In overhead environments, dive lights are not accessories; they are **life support systems**. The primary light is your communication and navigation tool, while backup torches are your insurance to exit in the dark [1][2].
+The execution of light signals outlined in [[en/30_Skills/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]] depends on every diver carrying a primary light that produces a **collimated beam, is securely positioned, and leaves hands free**. In overhead environments, dive lights are not accessories; they are **life support systems**. The primary light is your communication and navigation tool, while backup torches are your insurance to exit in the dark [1][2].
 
 ---
 

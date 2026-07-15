@@ -28,7 +28,7 @@ The most common sidemount setup is the **Long Hose / Short Hose** configuration 
 
 ## 🔄 Standard Regulator Switching Procedure
 
-Sidemount divers switch regulators every 20–30 bar to keep cylinder weights balanced (for reasons and timing, see [[en/30_Skills/Sidemount Regulator Switching Procedure|Sidemount Regulator Switching Procedure]]). This switch is performed dozens of times per dive and must become muscle memory [1]:
+Sidemount divers switch regulators every 20–30 bar to keep cylinder weights balanced (for reasons and timing, see [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Regulator Switching Procedure]]). This switch is performed dozens of times per dive and must become muscle memory [1]:
 
 1.  **Retrieve**: Retrieve the target regulator with one hand (unclipping the long hose or pulling the necklace regulator forward).
 2.  **Switch**: Spit out the current regulator $\rightarrow$ insert the new regulator $\rightarrow$ **purge or exhale sharply to clear water** $\rightarrow$ resume breathing.

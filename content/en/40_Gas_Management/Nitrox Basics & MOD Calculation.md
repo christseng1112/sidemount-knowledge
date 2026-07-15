@@ -34,7 +34,7 @@ $$FO_2 = \frac{PO_2\,limit}{\text{Depth (m)} / 10 + 1}$$
 ### 3. Equivalent Air Depth (EAD)
 $$EAD(m) = \left(\frac{FN_2}{0.79} \times \left(\frac{\text{Depth}}{10}+1\right) - 1\right) \times 10$$
 
-**PO₂ Limits**: Use **1.4 ata** for the active/working portion of the dive, and **1.6 ata** as the absolute contingency limit. 1.6 ata is also the standard limit for resting decompression stops (low physical exertion), as detailed in [[en/60_Advanced/Decompression Stop Practice & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]] [1][2][3].
+**PO₂ Limits**: Use **1.4 ata** for the active/working portion of the dive, and **1.6 ata** as the absolute contingency limit. 1.6 ata is also the standard limit for resting decompression stops (low physical exertion), as detailed in [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]] [1][2][3].
 
 ### Sample Calculations
 *   For EAN32 at a PO₂ of 1.4: $MOD = (\frac{1.4}{0.32} - 1) \times 10 = \mathbf{33.8 \text{ meters}}$ (Contingency at 1.6 yields 40m).
@@ -163,8 +163,8 @@ function calcEad() {
 ## 🏷️ Sidemount Implementation Discipline
 
 1.  **Analyze and Mark Both Cylinders Independently**: Labeling and analyzing protocols are covered in [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling|Gas Analysis & Cylinder Labeling]]—clearly write the MOD on each cylinder.
-2.  **MOD is a Hard Ceiling**: Program your dive computers with appropriate FO₂ and PO₂ alarms (see [[en/20_Equipment/Dive Computers & Transmitter Configuration|Dive Computers & Transmitter Configuration]]). If your planned depth is close to the MOD, switch to a lower FO₂ mixture to build a safety buffer.
-3.  **Identical Mixtures are the Baseline**: Recreational sidemount assumes both cylinders hold identical mixtures, eliminating the risk of a deep-water gas switch error. Advanced configurations using travel or decompression cylinders belong to the technical realm, as detailed in [[en/60_Advanced/Technical Sidemount Setup & Stage Rigging|Technical Sidemount Setup & Stage Rigging]].
+2.  **MOD is a Hard Ceiling**: Program your dive computers with appropriate FO₂ and PO₂ alarms (see [[en/20_Equipment/Dive Computer & Transmitter Configuration|Dive Computers & Transmitter Configuration]]). If your planned depth is close to the MOD, switch to a lower FO₂ mixture to build a safety buffer.
+3.  **Identical Mixtures are the Baseline**: Recreational sidemount assumes both cylinders hold identical mixtures, eliminating the risk of a deep-water gas switch error. Advanced configurations using travel or decompression cylinders belong to the technical realm, as detailed in [[en/60_Advanced/Multi-Cylinder & Decompression Stage Configuration|Technical Sidemount Setup & Stage Rigging]].
 4.  **CNS Clock Management**: Diving within your MOD does not mean infinite exposure—track oxygen accumulation limits as detailed in [[en/40_Gas_Management/Oxygen Exposure & Nitrogen Narcosis Management|Oxygen Exposure & Nitrogen Narcosis Management]].
 
 ---

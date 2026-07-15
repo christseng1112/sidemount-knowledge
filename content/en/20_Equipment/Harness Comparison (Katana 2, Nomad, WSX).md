@@ -61,7 +61,7 @@ This knowledge base already contains in-depth articles on the [[en/20_Equipment/
 1.  **Diving Cold Water / Steel Cylinders (e.g., local quarries/oceans)** $\rightarrow$ Dive Rite Nomad XT or Hollis Katana 2 (for drysuit considerations, see [[en/20_Equipment/Exposure Suit Selection & Trim Influence|Exposure Suit Selection & Trim Influence]]).
 2.  **Tropical Travel / Aluminum Cylinders** $\rightarrow$ Apeks WSX-25, Nomad Ray, or the Razor/Stealth systems.
 3.  **Instruction / Multi-User Sharing / Undecided** $\rightarrow$ The Hollis Katana 2 offers the most forgiving adjustment range.
-4.  No matter which system you purchase, **cylinder rigging and bungee tensioning** dictate your horizontal Trim and efficiency in the water. Follow the adjustment process in [[en/20_Equipment/XDEEP Stealth 2.0 Configuration|XDEEP Stealth 2.0 Configuration]]. For buying pre-owned, consult the [[en/70_Resources/Used Sidemount Gear Purchasing Guide|Used Sidemount Gear Purchasing Guide]].
+4.  No matter which system you purchase, **cylinder rigging and bungee tensioning** dictate your horizontal Trim and efficiency in the water. Follow the adjustment process in [[en/20_Equipment/XDEEP Stealth 2.0 Configuration|XDEEP Stealth 2.0 Configuration]]. For buying pre-owned, consult the [[en/70_Resources/Used Sidemount Gear Buying Guide|Used Sidemount Gear Purchasing Guide]].
 
 ---
 

@@ -7,7 +7,7 @@ tags:
 
 # Line Entanglement & Cutting Tool Configuration (Entanglement & Cutting Tools)
 
-Monofilament fishing line, abandoned drift nets, guidelines, and marker buoy lines—entanglement represents a high-frequency risk in wreck and cave diving, as well as a realistic threat during shore dives. Entanglement is rarely fatal on its own; **what becomes fatal is panic, skyrocketing gas consumption, and erratic thrashing** (see [[en/50_Safety/Stress Psychology & Task Loading Management|Stress Psychology & Task Loading Management]]) [1][2].
+Monofilament fishing line, abandoned drift nets, guidelines, and marker buoy lines—entanglement represents a high-frequency risk in wreck and cave diving, as well as a realistic threat during shore dives. Entanglement is rarely fatal on its own; **what becomes fatal is panic, skyrocketing gas consumption, and erratic thrashing** (see [[en/10_Concepts/Stress Psychology & Task Loading Management|Stress Psychology & Task Loading Management]]) [1][2].
 
 ---
 
@@ -44,7 +44,7 @@ STOP ──> THINK ──> LOCATE ──> REQUEST ASSISTANCE / SELF-RECOVER ─�
 1.  **STOP**: Cease all movement immediately. Thrashing or turning will spin monofilament line tighter around you and stir up silt, destroying visibility [1][2]. Maintain deep, steady breathing to prevent CO₂ buildup (see [[en/40_Gas_Management/CO2 Retention & Work of Breathing|CO₂ Retention & Work of Breathing]]).
 2.  **THINK**: Verify your buoyancy is stable and read your SPG. You have far more gas and time than your panic suggests (see [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]).
 3.  **LOCATE**: Slowly trace the snag. Where is the connection point? Is it a single point or multiple points? If you cannot see it, **sweep your hands along both sides of your body from front to back**, and then perform an over-the-head sweep starting behind your cylinder valves [1].
-4.  **Buddy First**: Your buddy has a better field of view and two free hands. Signal "Entanglement" (see [[en/30_Skills/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]]) and remain still for them to clear the line. **Entanglement during solo dives is an underrated fatal hazard** (see [[en/10_Concepts/Self-Sufficiency & Independence Spirit|Self-Sufficiency & Independence Spirit]]).
+4.  **Buddy First**: Your buddy has a better field of view and two free hands. Signal "Entanglement" (see [[en/30_Skills/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]]) and remain still for them to clear the line. **Entanglement during solo dives is an underrated fatal hazard** (see [[en/10_Concepts/Self-Sufficiency Philosophy|Self-Sufficiency & Independence Spirit]]).
 5.  **Cutting is a Calculated Step, Not an Instinct**: Confirm exactly what you are cutting and where your blade is pointing. Accidental cuts to your own regulator hoses or the active guideline will escalate the emergency [1]. Carry out cut monofilament or net segments rather than leaving them in the water.
 6.  **Post-Check**: Verify your gear integrity (hoses, neck bungees, and bolt snaps), check gas reserves, and decide whether to continue the dive or abort.
 

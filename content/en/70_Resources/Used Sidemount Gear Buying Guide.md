@@ -34,17 +34,17 @@ The used market for sidemount gear is highly active (many transition to it, and 
 *   Exterior: Look for dents, deep gouges, bulges, and rust under boot covers [3].
 *   Interior: Remove the valve and smell the gas (oily/exhaust smell = compressor filtration failure); ask the shop to perform a visual inspection of the inside [3].
 *   Valve: Check thread condition, burst disk age, and O-ring sealing surfaces.
-*   **Sidemount-Specifics**: Confirm shoulder curvature is suitable for rigging kit alignment, and verify valves are DIN (see [[en/20_Equipment/Cylinder Selection & Sizing Guide|Cylinder Selection & Sizing Guide]]).
+*   **Sidemount-Specifics**: Confirm shoulder curvature is suitable for rigging kit alignment, and verify valves are DIN (see [[en/20_Equipment/Cylinder Size Selection Guide|Cylinder Selection & Sizing Guide]]).
 
 ### Sidemount Harness & Wings
 *   **Bladder Leak Test**: Inflate the wing fully and leave it overnight. A micro-leak in the bladder will lead to buoyancy loss underwater (emergency SOP: see [[en/50_Safety/BCD & Buoyancy Failure Emergency Procedures|BCD & Buoyancy Failure Emergency Procedures]]).
 *   Webbing: Inspect high-abrasion points (shoulders and hips), stitching integrity, and sun fading/dryness.
 *   Test the inflator and dump valves.
-*   **Fitting**: Sidemount rigs are highly fitted; a harness adjusted for someone else's height and shoulder width will require complete re-tuning (see [[en/20_Equipment/Sidemount Harness & BCD Selection|Sidemount Harness & BCD Selection]]).
+*   **Fitting**: Sidemount rigs are highly fitted; a harness adjusted for someone else's height and shoulder width will require complete re-tuning (see [[en/20_Equipment/Sidemount Harness & BCD|Sidemount Harness & BCD Selection]]).
 
 ### Dive Computers
 *   Check battery compartment O-rings and cover threads, screen water spots (flood indicators), and button response.
-*   **AI Transmitters**: Older Shearwater transmitters can suffer from frequency cross-talk. If you need dual transmitters, verify compatibility or look for the Swift transmitter (see [[en/20_Equipment/Dive Computer & Wireless Gas Integration|Dive Computer & Wireless Gas Integration]]).
+*   **AI Transmitters**: Older Shearwater transmitters can suffer from frequency cross-talk. If you need dual transmitters, verify compatibility or look for the Swift transmitter (see [[en/20_Equipment/Dive Computer & Transmitter Configuration|Dive Computer & Wireless Gas Integration]]).
 *   Download logs to verify overall usage (depth and dive count).
 
 ### Drysuits

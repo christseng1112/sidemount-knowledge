@@ -7,7 +7,7 @@ tags:
 
 # Gas Blending & High Pressure Filling Guide (Gas Blending & Oxygen Safety)
 
-In technical sidemount and deep diving, utilizing Nitrox and Trimix is standard practice. The accuracy of gas blending and the safety of high-pressure filling procedures are directly linked to water safety.
+In technical sidemount and deep diving, utilizing Nitrox (depth limits: [[en/40_Gas_Management/Nitrox Basics & MOD Calculation|Nitrox Basics & MOD Calculation]]) and Trimix (density planning: [[en/60_Advanced/Trimix Gas & Gas Density Planning|Trimix Gas & Gas Density Planning]]) is standard practice. The accuracy of gas blending and the safety of high-pressure filling procedures are directly linked to water safety.
 
 This article details the physical principles of partial pressure gas blending, real-gas compressibility offsets, and embeds an **"Interactive Partial Pressure Gas Blender"**. Finally, it outlines the critical safety standards for handling high-pressure oxygen and executing oxygen cleaning (O₂ Clean) [1][2].
 
@@ -26,7 +26,7 @@ In an ideal gas state, the pressure added is directly proportional to the molar 
 Under pressures exceeding 200 bar, intermolecular forces and the physical volume of the gas molecules cause the gas to deviate from ideal behavior ($PV = nZRT$) [2][3]:
 *   **Helium**: Helium molecules are extremely small and difficult to compress at high pressures ($Z > 1$). If you fill 70 bar of helium based on ideal gas equations, the measured helium percentage will be **lower than expected** (typically 1–3% lower) once the final pressure reaches 200 bar [2][3].
 *   **Oxygen & Nitrogen**: High pressure makes these gases slightly easier to compress than helium ($Z < 1$).
-*   **Blending Practice**: High-pressure gas compression generates heat, causing expansion. Blenders must wait for the cylinder to cool to ambient temperature (20°C) before taking final measurements with a gas analyzer (He/O₂ analyzer) and performing corrections [2][4].
+*   **Blending Practice**: High-pressure gas compression generates heat, causing expansion. Blenders must wait for the cylinder to cool to ambient temperature (20°C) before taking final measurements with a gas analyzer (He/O₂ analyzer) and performing corrections [2][4]. **Analysing and labelling the cylinder is the diver's own responsibility** — analyser SOP and MOD marking standards: [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling|Gas Analysis & Cylinder Labeling]].
 
 ---
 
@@ -170,6 +170,8 @@ function calculateBlending() {
 ## 🧯 3. High-Pressure Oxygen Safety & Oxygen Cleaning (O₂ Cleaning)
 
 Blending Nitrox or Trimix requires injecting **high-pressure oxygen (up to 99% purity)** directly into scuba cylinders. High-pressure oxygen is a powerful oxidizer, and contact with hydrocarbons (such as industrial grease, compressor oils, or skin oils) can trigger violent combustion and explosions [1][4].
+
+> 📌 **This article covers oxygen safety on the surface.** In-water oxygen dosage management (CNS%, OTU, MOD) is covered in [[en/40_Gas_Management/Oxygen Exposure & Nitrogen Narcosis Management|Oxygen Exposure & Nitrogen Narcosis Management]]; switching to and running high-oxygen deco gas underwater is covered in [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Execution & Oxygen Deco]]. **Gas blending is a trained speciality** (TDI/IANTD Gas Blender and equivalents) — this article explains the principles only and is not a licence to operate filling equipment yourself.
 
 ### Oxygen Clean Standards (O₂ Clean)
 Any equipment exposed to elevated oxygen levels (fraction $>40\%$ or partial pressure $>0.4$ bar) must undergo oxygen cleaning [4]:

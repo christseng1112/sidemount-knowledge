@@ -15,24 +15,24 @@ This glossary compiles the core terminology used throughout this knowledge base.
 
 | English Term | Traditional Chinese | Description / Reference |
 | :--- | :--- | :--- |
-| Harness | 背帶 | The main load-bearing webbing. See [[en/20_Equipment/Sidemount Harness & BCD Selection|Sidemount Harness & BCD Selection]]. |
+| Harness | 背帶 | The main load-bearing webbing. See [[en/20_Equipment/Sidemount Harness & BCD|Sidemount Harness & BCD Selection]]. |
 | Wing / Bladder | 氣囊 | The buoyancy source, positioned on the lower back in sidemount. |
 | Crotch strap | 跨帶 | Webbing running between the legs. Location of DPV tow attachment. |
 | Bungee | 彈性繩 | Elastic cord holding cylinder necks flush. See [[en/50_Safety/Bungee Failure & Cylinder Dislodgement Procedures|Bungee Failure & Cylinder Dislodgement Procedures]]. |
 | Bolt snap | 快扣 | Brass or stainless steel single-ended snap used for cylinder tails. |
 | D-ring | D 環 | D-shaped metal rings attached to the harness webbing for clipping gear. |
 | Cam band | 氣瓶束帶 | Nylon band wrapped around the cylinder body; hosts the lower bolt snap. |
-| Rigging kit | 氣瓶掛具 | The neck loop and lower band assembly. See [[en/20_Equipment/Cylinder Rigging and Hardware Setup|Cylinder Rigging and Hardware Setup]]. |
+| Rigging kit | 氣瓶掛具 | The neck loop and lower band assembly. See [[en/20_Equipment/Cylinder Rigging & Hardware Setup|Cylinder Rigging and Hardware Setup]]. |
 | First / Second stage | 一級頭 / 二級頭 | The two stages of pressure reduction in a diving regulator. |
 | Long hose | 長管 | The 2.1-meter regulator hose used on the right tank for gas donation. |
 | Necklace | 項圈 | Elastic cord used to suspend the backup second stage under the chin. |
 | SPG (Submersible Pressure Gauge) | 壓力錶 | Submersible gauge used to monitor cylinder gas pressure. |
-| AI Transmitter | 氣體整合發射器 | Wireless transmitter that sends tank pressure to the dive computer. See [[en/20_Equipment/Dive Computer & Wireless Gas Integration|Dive Computer & Wireless Gas Integration]]. |
+| AI Transmitter | 氣體整合發射器 | Wireless transmitter that sends tank pressure to the dive computer. See [[en/20_Equipment/Dive Computer & Transmitter Configuration|Dive Computer & Wireless Gas Integration]]. |
 | Stage / Deco cylinder | 階段瓶 / 減壓瓶 | Additional side-slung cylinders. See [[en/60_Advanced/Multi-Cylinder & Decompression Stage Configuration|Multi-Cylinder & Decompression Stage Configuration]]. |
 | SMB (Surface Marker Buoy) | 象拔 / 水面訊號浮標 | Inflatable buoy used to mark diver position. See [[en/30_Skills/DSMB Deployment Techniques|DSMB Deployment Techniques]]. |
 | DSMB (Delayed SMB) | 延遲水面訊號浮標 | Surface marker buoy deployed from depth using a reel or spool. |
 | Spool / Reel | 線軸 / 捲線器 | Guideline deployment spools. See [[en/60_Advanced/Wreck Penetration Guideline & Reel Procedures|Wreck Penetration Guideline & Reel Procedures]]. |
-| Primary / Backup light | 主燈 / 備燈 | Lights required under the rule of three. See [[en/20_Equipment/Dive Light Systems & Goodman Handle Configuration|Dive Light Systems & Goodman Handle Configuration]]. |
+| Primary / Backup light | 主燈 / 備燈 | Lights required under the rule of three. See [[en/20_Equipment/Primary Light and Goodman Handle Configuration|Dive Light Systems & Goodman Handle Configuration]]. |
 | Goodman handle | Goodman 握把 | Rigid metal or plastic hand mount that keeps fingers free while holding a light. |
 | Canister light | 罐燈 | High-output dive light with a separate battery canister mounted on the harness. |
 | Line cutter | 線刀 | Blade designed to cut monofilament line. See [[en/50_Safety/Line Entanglement & Cutting Tool Configuration|Line Entanglement & Cutting Tool Configuration]]. |
@@ -49,7 +49,7 @@ This glossary compiles the core terminology used throughout this knowledge base.
 | Frog kick | 蛙踢 | The primary propulsion kick. See [[en/30_Skills/Sidemount Propulsion Techniques|Sidemount Propulsion Techniques]]. |
 | Back kick / Reverse kick | 後退踢 | Swimming backward using reverse ankle sweeps. |
 | Helicopter turn | 直升機轉 | Rotating horizontally in place. |
-| Hover | 懸停 | Hovering mid-water without movement. See [[en/30_Skills/Sidemount Descent Procedures & Hover Control|Sidemount Descent Procedures & Hover Control]]. |
+| Hover | 懸停 | Hovering mid-water without movement. See [[en/30_Skills/Descent Procedure & Hover Control|Sidemount Descent Procedures & Hover Control]]. |
 | Valve drill | 氣閥演練 | Standard valve drill. See [[en/50_Safety/Valve Drills Standard Operating Procedures|Valve Drills Standard Operating Procedures]]. |
 | S-drill | 共氣演練 | Pre-dive gas sharing dry run and safety drill. |
 | Bubble check | 泡泡檢查 | In-water visual inspection for leaks. |
@@ -66,7 +66,7 @@ This glossary compiles the core terminology used throughout this knowledge base.
 | RMV (Respiratory Minute Volume) | 體積呼吸率 | Gas volume consumed per minute at 1 ATA. |
 | Rock Bottom | 最低保留氣量 | Emergency gas reserve calculation. |
 | Rule of Thirds | 三分之一原則 | Classic technical gas reserve protocol. See [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]. |
-| MOD (Maximum Operating Depth) | 最大作業深度 | Maximum depth for a gas mix. See [[en/40_Gas_Management/Nitrox Fundamentals & MOD Calculation|Nitrox Fundamentals & MOD Calculation]] and [[en/40_Gas_Management/Oxygen Exposure & Nitrogen Narcosis Management|Oxygen Exposure & Nitrogen Narcosis Management]]. |
+| MOD (Maximum Operating Depth) | 最大作業深度 | Maximum depth for a gas mix. See [[en/40_Gas_Management/Nitrox Basics & MOD Calculation|Nitrox Fundamentals & MOD Calculation]] and [[en/40_Gas_Management/Oxygen Exposure & Nitrogen Narcosis Management|Oxygen Exposure & Nitrogen Narcosis Management]]. |
 | Best Mix | 最佳混氣 | Best oxygen percentage for a target depth. |
 | EAD (Equivalent Air Depth) | 等效空氣深度 | Equivalent nitrogen exposure depth using Nitrox. |
 | Air break / Gas break | 氣體中斷 | Breathing back gas during pure oxygen decompression. See [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Execution & Oxygen Deco]]. |
@@ -104,7 +104,7 @@ This glossary compiles the core terminology used throughout this knowledge base.
 | Eustachian tube | 耳咽管 | Physiological tube connecting throat and middle ear. |
 | Barotrauma | 擠壓傷 / 氣壓傷 | Physical pressure damage to body cavities. |
 | Reverse block | 反向阻塞 | Pressure block in middle ear during ascent. |
-| Task loading | 任務負荷 | Cognitive overload under water. See [[en/50_Safety/Stress Psychology & Task Loading Management|Stress Psychology & Task Loading Management]]. |
+| Task loading | 任務負荷 | Cognitive overload under water. See [[en/10_Concepts/Stress Psychology & Task Loading Management|Stress Psychology & Task Loading Management]]. |
 | Human factors | 人為因素 | Accident chains and cognitive limitations. |
 | Stop-Breathe-Think-Act | 停—呼吸—想—做 | Stress response baseline sequence. |
 | DPV | 水下推進器 | Diver Propulsion Vehicle. See [[en/60_Advanced/DPV Scooter & Sidemount Integration|DPV Scooter & Sidemount Integration]]. |

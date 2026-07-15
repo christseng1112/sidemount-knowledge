@@ -34,7 +34,7 @@ An exposure suit is not just thermal protection—it is **one of the largest var
 ### Impact on Sidemount Configurations
 1.  **High Ballast Load**: When spine weight pockets are full, divers must utilize side pockets and front trim pockets [2]. Some minimalist harnesses (like the original Razor) have limited ballast capacity under heavy drysuit configurations [2].
 2.  **Cylinder Choice (Steel)**: Heavy steel cylinders act as ballast, shifting weight from the waist belt to the center of buoyancy, making horizontal Trim easier to establish (see [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs Aluminum Buoyancy Management]]) [3][4].
-3.  **Inflation Hose Routing**: A drysuit requires a dedicated low-pressure inflator hose. The industry standard is to **run the drysuit inflator from the left cylinder** (separating it from the BCD inflator on the right). This ensures that a single-cylinder failure does not eliminate all buoyancy control systems [4]. For drysuits as backup buoyancy, see [[en/50_Safety/Sidemount BCD Failure Handling|Sidemount BCD Failure Handling]].
+3.  **Inflation Hose Routing**: A drysuit requires a dedicated low-pressure inflator hose. The industry standard is to **run the drysuit inflator from the left cylinder** (separating it from the BCD inflator on the right). This ensures that a single-cylinder failure does not eliminate all buoyancy control systems [4]. For drysuits as backup buoyancy, see [[en/50_Safety/BCD & Buoyancy Failure Emergency Procedures|Sidemount BCD Failure Handling]].
 4.  **Hardware Sizing**: Since dry gloves limit dexterity, all bolt snaps should be upgraded to large-eye versions [4].
 
 ### 💨 Coordinating Drysuit & BCD Inflation

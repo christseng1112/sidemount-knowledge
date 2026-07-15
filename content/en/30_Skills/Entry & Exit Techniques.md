@@ -53,7 +53,7 @@ One of the greatest logistical advantages of sidemount diving is that **cylinder
 1.  **Breathe from your regulator before entry**: Whichever entry method you use, ensure your regulator is in your mouth and functioning before hitting the water.
 2.  **Protect your mask and hoses**: When stepping off or rolling, use one hand to secure your mask and hoses, and the other to support the hand-held cylinder.
 3.  **Standardize your surface clip-on sequence**: Always clip the same side first (standard: left first, then right, since the left cylinder typically provides inflation gas for the BCD/drysuit) to establish muscle memory.
-4.  **Perform a surface check after rigging**: Verify that bungees are seated, clips are attached to the correct D-rings, and the long hose can be fully deployed—**any alignment issues on the surface will worsen underwater** (see [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]] and [[en/50_Safety/Neck Bungee Failure & Lost Cylinder Handling|Neck Bungee Failure & Lost Cylinder Handling]]).
+4.  **Perform a surface check after rigging**: Verify that bungees are seated, clips are attached to the correct D-rings, and the long hose can be fully deployed—**any alignment issues on the surface will worsen underwater** (see [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]] and [[en/50_Safety/Bungee Failure & Cylinder Dislodgement Procedures|Neck Bungee Failure & Lost Cylinder Handling]]).
 
 ---
 

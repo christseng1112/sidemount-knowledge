@@ -22,7 +22,7 @@ tags:
 
 > 📌 **MOD Formula (Metric)**: $MOD(m) = \left(\frac{PO_2\,limit}{FO_2} - 1\right) \times 10$. The physiological basis for PO₂ limits (1.4 bar working / 1.6 bar deco) is detailed in [[en/40_Gas_Management/Oxygen Exposure & Nitrogen Narcosis Management|Oxygen Exposure & Nitrogen Narcosis Management]].
 
-> 📋 **Sensor Lifespan**: Electrochemical O₂ sensors are consumables with a typical lifespan of 1–3 years. If the sensor drifts during calibration or responds sluggishly, replace it. Maintain the analyzer unit itself (see [[en/20_Equipment/Sidemount Gear Maintenance & Care Guide|Sidemount Gear Maintenance & Care Guide]]).
+> 📋 **Sensor Lifespan**: Electrochemical O₂ sensors are consumables with a typical lifespan of 1–3 years. If the sensor drifts during calibration or responds sluggishly, replace it. Maintain the analyzer unit itself (see [[en/70_Resources/Sidemount Gear Maintenance & Care Guide|Sidemount Gear Maintenance & Care Guide]]).
 
 ---
 
@@ -43,7 +43,7 @@ tags:
 
 ## 🔁 Closing the Loop: Verification and Switching
 
-Cylinder labeling is validated during gas switches. The standard technical gas switch protocol (NO TOX validation: Read MOD label $\rightarrow$ Trace regulator hose to the first stage $\rightarrow$ Buddy cross-check) is detailed in [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]] and [[en/60_Advanced/Technical Sidemount Setup & Stage Rigging|Technical Sidemount Setup & Stage Rigging]]. The standard WKPP protocol requires: identifying the correct MOD cylinder $\rightarrow$ deploying the second stage $\rightarrow$ opening the valve to verify pressure drop on the SPG $\rightarrow$ obtaining partner confirmation before inserting the regulator mouthpiece [3].
+Cylinder labeling is validated during gas switches. The standard technical gas switch protocol (NO TOX validation: Read MOD label $\rightarrow$ Trace regulator hose to the first stage $\rightarrow$ Buddy cross-check) is detailed in [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]] and [[en/60_Advanced/Multi-Cylinder & Decompression Stage Configuration|Technical Sidemount Setup & Stage Rigging]]. The standard WKPP protocol requires: identifying the correct MOD cylinder $\rightarrow$ deploying the second stage $\rightarrow$ opening the valve to verify pressure drop on the SPG $\rightarrow$ obtaining partner confirmation before inserting the regulator mouthpiece [3].
 
 ---
 

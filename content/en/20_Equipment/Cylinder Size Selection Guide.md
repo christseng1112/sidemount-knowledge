@@ -36,7 +36,7 @@ This guide focuses on the decision-making process of **selecting the correct cyl
 ## 🔩 Key Selection Principles
 
 ### 1. Left and Right Cylinders Must Be Symmetrical
-*   Sidemount gas management is built on **symmetrical gas rotation** between two cylinders (see [[en/30_Skills/Sidemount Regulator Switching Procedure|Sidemount Regulator Switching Procedure]]). Using different cylinder capacities complicates pressure tracking and increases trim imbalance, and should only be done by advanced divers for specialized tasks.
+*   Sidemount gas management is built on **symmetrical gas rotation** between two cylinders (see [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Regulator Switching Procedure]]). Using different cylinder capacities complicates pressure tracking and increases trim imbalance, and should only be done by advanced divers for specialized tasks.
 *   Ensure cylinder neck length and valve types (DIN recommended) match, keeping bungee attachment heights symmetrical.
 
 ### 2. Aluminum vs. Steel Cylinders

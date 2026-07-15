@@ -37,7 +37,7 @@ Sidemount divers must monitor pressure in **two independent cylinders**. The tra
 
 ### ⚠️ Gas Time Remaining (GTR) Limitations in Sidemount
 *   Most dive computer GTR algorithms **only calculate based on a single designated transmitter**, and cannot combine the pressures of two independent sidemount cylinders [2].
-*   The process of rotating breathing between two cylinders (see [[en/30_Skills/Sidemount Regulator Switching Procedure|Sidemount Regulator Switching Procedure]]) distorts the computer's SAC rate tracking. **GTR calculations should only be used as a reference; gas management must rely on manual calculations** (see [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]).
+*   The process of rotating breathing between two cylinders (see [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Regulator Switching Procedure]]) distorts the computer's SAC rate tracking. **GTR calculations should only be used as a reference; gas management must rely on manual calculations** (see [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]).
 
 ### 📶 Transmitter Cross-Talk & Interference
 *   Early transmitters operating on the same frequency could block each other's signals if they transmitted at the same moment. Shearwater recalled yellow transmitters in 2019 because they shared the same frequency as gray versions. Modern **Swift transmitters utilize random transmission intervals** to prevent signals from colliding [3][4].

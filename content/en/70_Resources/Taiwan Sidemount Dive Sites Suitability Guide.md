@@ -31,7 +31,7 @@ Taiwan offers year-round diving opportunities—the key is to **follow the seaso
 ### Northeast Coast (Longdong)
 *   The primary training arena for northern Taiwan, located one hour's drive from Taipei [2]. The bay features terraced rocky ledges with 2–18m platforms ideal for skills training.
 *   **The Sidemount Challenge**: Entering over wet, slippery tetrapods and rock paths with heavy gear. **The standard practice is to enter the water unencumbered, with cylinders handed down from the shore or clipped at the surface** (see [[en/30_Skills/Entry & Exit Techniques|Entry & Exit Techniques]]). Avoid carrying dual cylinders down rocky slopes.
-*   Diving stops during the winter northeast monsoon. Requires 5mm wetsuits in summer and drysuits in winter (see [[en/20_Equipment/Exposure Suits Selection & Buoyancy Trim Impact|Exposure Suits Selection & Buoyancy Trim Impact]]). Abandoned fishing nets are common; carry redundant cutting tools (see [[en/50_Safety/Line Entanglement & Cutting Tool Configuration|Line Entanglement & Cutting Tool Configuration]]).
+*   Diving stops during the winter northeast monsoon. Requires 5mm wetsuits in summer and drysuits in winter (see [[en/20_Equipment/Exposure Suit Selection & Trim Influence|Exposure Suits Selection & Buoyancy Trim Impact]]). Abandoned fishing nets are common; carry redundant cutting tools (see [[en/50_Safety/Line Entanglement & Cutting Tool Configuration|Line Entanglement & Cutting Tool Configuration]]).
 
 ### Kenting (Hengchun)
 *   Offers diverse dive sites, sloping sand flats, and straightforward shore entry routes [1]. Houbihu boat diving provides access to offshore pinnacle reefs. Sites on the west coast or Nanwan remain diveable during winter.
@@ -58,8 +58,8 @@ Taiwan offers year-round diving opportunities—the key is to **follow the seaso
 
 1.  **Rental Cylinders**: Aluminum AL80 tanks (10.5–11.1L) are the absolute standard. Convertible DIN/Yoke valves are common. Sidemount divers should **carry left-valve adapters or verify the shop has modular left-valve tanks**. Left-valve cylinders are often limited; **specify "sidemount setup with left/right valves" when booking**.
 2.  Dual cylinders are billed as two rentals. During peak season on offshore islands, cylinder availability can be tight; communicate your stage/deco needs early.
-3.  **Nitrox Availability**: Major shops in Green Island, Xiaoliuqiu, and Kenting offer Nitrox, but check in advance during off-peak times (analysis discipline: see [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling Practices|Gas Analysis & Cylinder Labeling Practices]]).
-4.  For aluminum cylinder buoyancy characteristics (emptying tanks swinging positive) and ballast strategies, see [[en/20_Equipment/Steel vs. Aluminum Cylinder Buoyancy & Ballast Management|Steel vs. Aluminum Cylinder Buoyancy & Ballast Management]].
+3.  **Nitrox Availability**: Major shops in Green Island, Xiaoliuqiu, and Kenting offer Nitrox, but check in advance during off-peak times (analysis discipline: see [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling|Gas Analysis & Cylinder Labeling Practices]]).
+4.  For aluminum cylinder buoyancy characteristics (emptying tanks swinging positive) and ballast strategies, see [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs. Aluminum Cylinder Buoyancy & Ballast Management]].
 5.  For offshore island emergency evacuation routes, hyperbaric chamber locations, and DAN insurance coverage, see [[en/70_Resources/Diving Insurance & Emergency Evacuation Planning|Diving Insurance & Emergency Evacuation Planning]].
 
 ---

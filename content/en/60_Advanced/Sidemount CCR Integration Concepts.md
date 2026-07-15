@@ -28,7 +28,7 @@ All other articles in this knowledge base focus on **Open Circuit (OC)** sidemou
 
 Using the Divesoft **Liberty Sidemount** as the representative unit [1]:
 
-1.  **Self-Contained but Not a BC**: The titanium frame features buoyancy cutouts and is designed to achieve **neutral buoyancy with a full gas load (2×2L steel/aluminum cylinders)**, eliminating the need for external cylinders. However, **the rebreather itself is not a buoyancy compensator**—a separate sidemount harness and wing are still required (see [[en/20_Equipment/Sidemount Harness & BCD Selection|Sidemount Harness & BCD Selection]]) [1].
+1.  **Self-Contained but Not a BC**: The titanium frame features buoyancy cutouts and is designed to achieve **neutral buoyancy with a full gas load (2×2L steel/aluminum cylinders)**, eliminating the need for external cylinders. However, **the rebreather itself is not a buoyancy compensator**—a separate sidemount harness and wing are still required (see [[en/20_Equipment/Sidemount Harness & BCD|Sidemount Harness & BCD Selection]]) [1].
 2.  **Counterlung Positioning Determines WOB**: The counterlung must be positioned flush against the chest and angled approximately along the body's longitudinal axis. **Correct positioning is essential for acceptable Work of Breathing (WOB)**; incorrect placement makes inhalation and exhalation laborious in certain body positions (WOB and CO₂ relationship: see [[en/40_Gas_Management/CO2 Retention & Work of Breathing|CO₂ Retention & Work of Breathing]]) [1].
 3.  **Mouthpiece Discipline (Life or Death)**: Any mouthpiece (MPV/DSV) **not actively being breathed must be closed**. An open, unattended mouthpiece floods the breathing loop and saturates the scrubber, causing CO₂ breakthrough. This is fundamentally different muscle memory from OC sidemount regulator switching [1].
 4.  **Active Venting During Ascent**: During ascent, gas expands simultaneously in the breathing loop, counterlungs, wing, and drysuit. **Active venting from all gas spaces** is required to control ascent rate (see [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]) [1][3].
@@ -73,7 +73,7 @@ sidemount bailout reg.      trim and buoyancy control.      establish physical c
 
 ## ⚖️ Trim & Common Risks
 
-1.  **Trim**: CCR loop gas volume remains relatively constant during a dive (unlike OC, which loses gas mass over time), but scrubber weight, cylinder material, and bailout cylinder buoyancy changes still affect trim. A full weight check is required (see [[en/20_Equipment/Steel vs. Aluminum Cylinder Buoyancy & Ballast Management|Steel vs. Aluminum Cylinder Buoyancy & Ballast Management]]).
+1.  **Trim**: CCR loop gas volume remains relatively constant during a dive (unlike OC, which loses gas mass over time), but scrubber weight, cylinder material, and bailout cylinder buoyancy changes still affect trim. A full weight check is required (see [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs. Aluminum Cylinder Buoyancy & Ballast Management]]).
 2.  **The Three CCR Killers Remain Unchanged**: **Hypoxia/Hyperoxia (PO₂ failure), CO₂ breakthrough (scrubber exhaustion/loop flooding), and panic-driven mouthpiece errors**—sidemount configuration changes geometry, not these fundamental risks.
 3.  **The True Motivation for Sidemount CCR**: It is not "safer"—it is about **passing through restrictions that backmount CCR cannot** or reducing drag on long traversals. Without this specific need, backmount CCR is typically simpler [1].
 

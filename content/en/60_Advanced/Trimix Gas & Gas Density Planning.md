@@ -27,14 +27,14 @@ Beyond the practical limits of Air and Nitrox, technical sidemount enters the re
 
 > 📌 **Quick Density Calculation**: $\rho_{depth} = \rho_{1ATA} \times P_{ATA}$, where $\rho_{1ATA} = F_{O_2}\times1.43 + F_{He}\times0.18 + F_{N_2}\times1.25$ (g/L). Example: Trimix 21/35 at 45 m (5.5 ATA): $(0.21\times1.43+0.35\times0.18+0.44\times1.25)\times5.5 \approx 5.0$ g/L ✅.
 
-> 📋 **Assumptions & Limitations**: Ideal gas approximation; actual fill percentages have ±1–2% tolerance. **Always calculate using analyzer-verified values** (see [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling Practices|Gas Analysis & Cylinder Labeling Practices]]) and cross-check with planning software (see [[en/40_Gas_Management/Decompression Planning Software & Gradient Factors|Decompression Planning Software & Gradient Factors]]).
+> 📋 **Assumptions & Limitations**: Ideal gas approximation; actual fill percentages have ±1–2% tolerance. **Always calculate using analyzer-verified values** (see [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling|Gas Analysis & Cylinder Labeling Practices]]) and cross-check with planning software (see [[en/40_Gas_Management/Decompression Planning Software & Gradient Factors|Decompression Planning Software & Gradient Factors]]).
 
 ---
 
 ## 🛠 Sidemount Trimix Practices
 
 1.  **Both Primary Cylinders Use the Same Mix**: Left and right must be filled with **identical bottom gas** and each independently analyzed—sidemount gas switching assumes both cylinders are interchangeable.
-2.  **Labeling**: Mark O₂/He (e.g., "18/45") on the cylinder neck analysis tag + MOD in large numerals on the cylinder body (standards in [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling Practices|Gas Analysis & Cylinder Labeling Practices]]) [3].
+2.  **Labeling**: Mark O₂/He (e.g., "18/45") on the cylinder neck analysis tag + MOD in large numerals on the cylinder body (standards in [[en/40_Gas_Management/Gas Analysis & Cylinder Labeling|Gas Analysis & Cylinder Labeling Practices]]) [3].
 3.  **Deco Cylinder Mounting**: Trimix dives typically carry 1–2 deco cylinders (EAN50, O₂). Mounting and switching procedures are covered in [[en/60_Advanced/Multi-Cylinder & Decompression Stage Configuration|Multi-Cylinder & Decompression Stage Configuration]].
 4.  **The Cost of Helium**: Helium is expensive and accelerates tissue gas exchange (making decompression plans more time-sensitive). Runtime and contingency tables follow the workflow in [[en/40_Gas_Management/Decompression Planning Software & Gradient Factors|Decompression Planning Software & Gradient Factors]].
 5.  **Certification Path**: TDI Trimix / IANTD Normoxic Trimix and above (typically requires Advanced Nitrox + Deco Procedures first). Sidemount-specific course comparisons are in [[en/70_Resources/Sidemount Certification Systems & Course Comparison|Sidemount Certification Systems & Course Comparison]].

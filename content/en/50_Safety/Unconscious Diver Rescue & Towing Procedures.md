@@ -26,7 +26,7 @@ The physical design of sidemount equipment makes the gear removal phase of a res
 ## 🌅 Surface Management SOP [1][2]
 
 1.  **Roll Face Up & Establish Buoyancy**: Turn the casualty face up. **Inflate their BCD and drop their weights**, while verifying your own positive buoyancy [1].
-    *   **Sidemount Weight Systems**: Sidemount ballast is typically located along the spine pocket or harness trim pockets (see [[en/20_Equipment/Exposure Suits Selection & Buoyancy Trim Impact|Exposure Suits Selection & Buoyancy Trim Impact]]). Make sure you know where your buddy's weights are located and how to release them.
+    *   **Sidemount Weight Systems**: Sidemount ballast is typically located along the spine pocket or harness trim pockets (see [[en/20_Equipment/Exposure Suit Selection & Trim Influence|Exposure Suits Selection & Buoyancy Trim Impact]]). Make sure you know where your buddy's weights are located and how to release them.
 2.  **Verify Breathing**: Remove their mask, open their airway, and check for breathing for 5–10 seconds.
 3.  **No Breathing $\rightarrow$ Deliver Rescue Breaths**: Administer **2 initial breaths**, followed by **1 breath every 5 seconds** (mouth-to-mask or mouth-to-nose) [1][2]. If breathing is questionable, always deliver rescue breaths; the risk to a breathing casualty is minimal, whereas withholding breaths from a non-breathing casualty is fatal [2].
 4.  **De-rig While Towing**: Coordinate towing with rescue breathing, prioritizing breathing checks over gear removal [1].

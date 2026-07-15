@@ -46,7 +46,7 @@ Cognitive decline often precedes the sensation of cold: slow movement, delayed r
 
 ## 🛡 Sidemount Prevention Checklist
 
-1.  **Select Exposure Suits for the Coldest Point**: Base suit thickness on bottom temperatures rather than surface values (see [[en/20_Equipment/Exposure Suits Selection & Buoyancy Trim Impact|Exposure Suits Selection & Buoyancy Trim Impact]]). Drysuit undergarment layering dictates overall thermal safety.
+1.  **Select Exposure Suits for the Coldest Point**: Base suit thickness on bottom temperatures rather than surface values (see [[en/20_Equipment/Exposure Suit Selection & Trim Influence|Exposure Suits Selection & Buoyancy Trim Impact]]). Drysuit undergarment layering dictates overall thermal safety.
 2.  **Ensure Surface Rewarming**: Drink warm fluids and change into dry clothes during surface intervals. A warm skin temperature does not mean your core temperature has recovered.
 3.  **Maintain Manual Dexterity**: If water temperatures are below 15°C, use dry gloves or three-finger mitts. **Practice operating bolt snaps, cylinder valves, and spools wearing thick gloves on land**. If you cannot manage your gear, your safety margin is compromised (for signal adjustments, see [[en/30_Skills/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]]).
 4.  **Establish Abort Standards**: Agree in your pre-dive briefing that if any team member begins to shiver, the team terminates the dive.

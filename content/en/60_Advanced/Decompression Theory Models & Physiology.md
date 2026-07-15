@@ -20,7 +20,7 @@ Modern decompression software and dive computers are based on two mathematical m
 ### 🟢 Dissolved Gas Models (Neo-Haldanean Gas-Content Models)
 *   **Representative Model**: **Bühlmann ZHL-16B/C (with Gradient Factors)**.
 *   **Physical Assumption**: The human body is divided into 16 virtual tissue compartments with half-times ranging from 4 minutes to 635 minutes. The model assumes inert gas exists entirely in a dissolved state within body fluids. As long as the tissue supersaturation pressure does not exceed a defined critical threshold (M-Value), decompression sickness will not occur [2][3].
-*   **Characteristics**: Computationally simple. GF Low/High values provide flexible conservatism tuning. Currently the most widely adopted baseline model in technical diving [1][3].
+*   **Characteristics**: Computationally simple. GF Low/High values provide flexible conservatism tuning. Currently the most widely adopted baseline model in technical diving [1][3]. (Setting GF in practice and planning software: [[en/40_Gas_Management/Decompression Planning Software & Gradient Factors|Decompression Planning Software & Gradient Factors]].)
 
 ### 🔵 Bubble Dynamics Models
 *   **Representative Models**: **VPM-B (Varying Permeability Model)** and **RGBM (Reduced Gradient Bubble Model)**.
@@ -42,10 +42,12 @@ However, recent decompression medicine research (particularly the **UHMS Decompr
              (e.g., joints, spinal cord) to continue absorbing inert gas (on-gassing) [5][6].
 ```
 
-*   **Key Evidence**: NEDU testing found that under equal total decompression time, the deep-stop group had a **significantly higher incidence of neurological DCS** compared to the control group that ascended directly to shallow stops [5][6].
+*   **Key Evidence**: NEDU testing found that under equal total decompression time, the deep-stop group had a **significantly higher incidence of neurological DCS** compared to the control group that ascended directly to shallow stops [5][6] (the TR 11-06 report citation and the recreational-level ascent standards are in [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]).
 *   **Modern Practical Pivot**:
     *   **Abandon VPM/RGBM**; return to **Bühlmann ZHL-16C + GF** [1].
     *   **Raise GF Low values**: Legacy settings of `GF Low = 10` or `20` forced computers to generate deep stops. Modern technical diving recommends setting GF Low between **`30` and `50`** (e.g., **50/70, 50/80, or 30/80**), shifting the first stop shallower, accelerating medium/slow tissue off-gassing, and reducing overall decompression obligation [1][5].
+
+> 📌 **This article is the "why", not the "how".** Running the resulting schedule cleanly in the water — depth precision, gas switching, O₂ deco, and omitted-deco handling — is covered in [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Execution & Oxygen Deco]].
 
 ---
 
@@ -55,7 +57,7 @@ DCS incidence depends not only on computer algorithms but also on individual phy
 
 ### Patent Foramen Ovale (PFO)
 *   **Physiology**: PFO is a small hole in the atrial septum that persists from fetal development. Approximately **20–25% of healthy adults** have this defect [7].
-*   **DCI Risk**: Under normal conditions, venous microbubbles returning from the lower body are filtered out by the pulmonary capillary bed. In divers with PFO, straining (e.g., lifting gear or breath-holding) changes atrial pressure dynamics, allowing venous blood to shunt directly to the left atrium (Right-to-Left Shunt), **sending microbubbles directly into the arterial circulation and toward the brain or spinal cord, causing severe neurological DCI** [7][8].
+*   **DCI Risk**: Under normal conditions, venous microbubbles returning from the lower body are filtered out by the pulmonary capillary bed. In divers with PFO, straining (e.g., lifting gear or breath-holding) changes atrial pressure dynamics, allowing venous blood to shunt directly to the left atrium (Right-to-Left Shunt), **sending microbubbles directly into the arterial circulation and toward the brain or spinal cord, causing severe neurological DCI** [7][8] (symptom recognition and oxygen first aid: [[en/50_Safety/DCS Symptom Recognition & Oxygen First Aid|DCS Symptom Recognition & Oxygen First Aid]]).
 *   **Prevention**: Technical divers conducting frequent deep decompression dives should strongly consider transesophageal echocardiography (TEE) screening. If PFO is confirmed, set extremely conservative GF values (e.g., GF High ≤ 70) [7].
 
 ### Vascular Microbubbles
@@ -65,7 +67,7 @@ DCS incidence depends not only on computer algorithms but also on individual phy
 Temperature dramatically alters blood perfusion rates, directly affecting inert gas uptake and elimination [5]:
 *   **Descent & Bottom Phase (Warm)**: The body is warm, vessels are dilated, tissue perfusion is high, and inert gas **absorption (on-gassing) is accelerated**.
 *   **Decompression Phase (Cold)**: If the body cools during prolonged static stops, peripheral vasoconstriction reduces perfusion, **severely impairing inert gas elimination (off-gassing)**.
-*   **Golden Rule**: **"Stay cool during the bottom phase (to minimize gas uptake) and stay warm during deco (to maximize off-gassing)"** [5]. Active thermal management via drysuit squeeze purging and heated vests provides fine-grained temperature control.
+*   **Golden Rule**: **"Stay cool during the bottom phase (to minimize gas uptake) and stay warm during deco (to maximize off-gassing)"** [5]. Active thermal management via drysuit squeeze purging and heated vests provides fine-grained temperature control (suit selection: [[en/20_Equipment/Exposure Suit Selection & Trim Influence|Exposure Suit Selection & Trim Influence]]; shivering as a thumb signal and the hypothermia × DCS interaction: [[en/50_Safety/Hypothermia Prevention & Management|Hypothermia Prevention & Management]]).
 
 ---
 

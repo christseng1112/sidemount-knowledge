@@ -42,7 +42,7 @@ Accidents rarely stem from a single cause; they occur when holes in multiple lay
 3.  **Think**: Assess the problem. What is the safest next step?
 4.  **Act**: Execute one action at a time, then reassess.
 
-**Observe Teammates for Stress Signals**: Look for rapid or erratic movements, wide eyes, erratic light sweeps, or failure to respond to communication. When these signs appear, move closer, establish eye contact, and slow down the pace (for signals, see [[en/70_Resources/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]]).
+**Observe Teammates for Stress Signals**: Look for rapid or erratic movements, wide eyes, erratic light sweeps, or failure to respond to communication. When these signs appear, move closer, establish eye contact, and slow down the pace (for signals, see [[en/30_Skills/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]]).
 
 ---
 
@@ -50,7 +50,7 @@ Accidents rarely stem from a single cause; they occur when holes in multiple lay
 
 *   **Any diver can call any dive, at any time, for any reason**—without explanation. Voicing doubt carries an immediate social cost, but the cost of silence is paid later [3]. The greater the hierarchy in a team, the harder it is to call a dive; senior divers should explicitly state during the briefing that calling the dive is welcome [3].
 *   **Blame-Free Debriefing**: Focus reviews on "what made that decision seem reasonable at the time" rather than "whose fault it was." This is a prerequisite for learning from incidents rather than generating defensive responses [2][3].
-*   **Honest Self-Assessment**: "How am I feeling today?" Fatigue, hangovers, rushed travel schedules, or congestion (see [[en/30_Skills/Ear Equalization & Ear Barotrauma|Ear Equalization & Ear Barotrauma]]) are all pre-existing links in the accident chain before entering the water.
+*   **Honest Self-Assessment**: "How am I feeling today?" Fatigue, hangovers, rushed travel schedules, or congestion (see [[en/50_Safety/Ear Equalization & Barotrauma|Ear Equalization & Ear Barotrauma]]) are all pre-existing links in the accident chain before entering the water.
 
 ---
 

@@ -14,7 +14,7 @@ In open water, a Delayed Surface Marker Buoy (DSMB, commonly referred to as a "m
 ## 🎯 Why Sidemount Divers Need Specialized Practice
 
 *   **More Chest Webbing and Hoses**: Sidemount divers carry two second-stage hoses, inflator hoses, and SPG lines across the chest. The path of the spool line has more potential entanglement points than in a backmount configuration.
-*   **Deep Deployment for Deco**: Technical sidemount dives often involve decompression obligations. The DSMB should be deployed **before leaving the bottom (rather than during the safety stop)** so the surface boat crew can track your position early (see [[en/60_Advanced/Decompression Stop Practice & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]]).
+*   **Deep Deployment for Deco**: Technical sidemount dives often involve decompression obligations. The DSMB should be deployed **before leaving the bottom (rather than during the safety stop)** so the surface boat crew can track your position early (see [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]]).
 *   **Neutral Buoyancy is the Standard**: Launching the DSMB must not cause your depth to vary by more than **±0.5 meters**—a skill directly tied to your hovering proficiency (see [[en/30_Skills/In-Water Buoyancy & Horizontal Trim|In-Water Buoyancy & Horizontal Trim]]).
 
 ---
@@ -42,7 +42,7 @@ In open water, a Delayed Surface Marker Buoy (DSMB, commonly referred to as a "m
     *   **Exhaled Gas Inflation**: Tilt your head slightly to allow exhaled gas from your second stage to bubble into the open end of the buoy—this keeps your regulator in your mouth and is the safest, most widely taught method [1].
     *   **Backup Regulator / LPI Cinch**: Best for sealed buoys with inflator nipples; be cautious of freezing risk when pressing the purge button on a backup regulator.
 4.  **Release**: Inflate the buoy to only about 1/3 to 1/2 full (it will expand to full capacity as it rises). **Let the spool spin freely in your hands**—keep your fingers loose on the spool center, never grip it tight.
-5.  **Surface Confirmation**: The line going slack indicates the buoy has reached the surface. Pull back gently to tension the line, keep it vertical to maximize visibility, and begin your ascent (see [[en/30_Skills/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]).
+5.  **Surface Confirmation**: The line going slack indicates the buoy has reached the surface. Pull back gently to tension the line, keep it vertical to maximize visibility, and begin your ascent (see [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]).
 
 ---
 
