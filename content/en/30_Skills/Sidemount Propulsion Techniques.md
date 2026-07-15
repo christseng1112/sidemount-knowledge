@@ -88,4 +88,4 @@ A common mistake for beginners is allowing the torso to sway or snake up and dow
 8. **YouTube (Garry Dallas / Simply Sidemount)** - *Tune up your Fundamental skills*: Video demonstration of sidemount propulsion and maneuvering skills (video source for reference). [Link](https://www.youtube.com/watch?v=hplPRmKzwwI)
 9. **DiveVolk** - *Scuba Finning Techniques: Kick Smarter and Protect the Reef*: Role of propulsion techniques in protecting fragile environments and maintaining visibility. [Link](https://www.divevolkdiving.com/blogs/diving-knowledge/scuba-finning-techniques-frog-kick-flutter-kick)
 
-> ⚠️ Note on Citations: Sources [1] and [3] utilize anti-scraping mechanisms (403); contents verified via search engine index.
+> ⚠️ Note on Citations: Sources [1], [3] and [6] utilize anti-scraping mechanisms (403); contents verified via search engine index.

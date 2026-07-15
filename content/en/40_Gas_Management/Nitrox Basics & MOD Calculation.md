@@ -37,7 +37,7 @@ $$EAD(m) = \left(\frac{FN_2}{0.79} \times \left(\frac{\text{Depth}}{10}+1\right)
 **PO₂ Limits**: Use **1.4 ata** for the active/working portion of the dive, and **1.6 ata** as the absolute contingency limit. 1.6 ata is also the standard limit for resting decompression stops (low physical exertion), as detailed in [[en/60_Advanced/Decompression Stop Practice & Oxygen Deco|Decompression Stop Practice & Oxygen Deco]] [1][2][3].
 
 ### Sample Calculations
-*   For EAN32 at a PO₂ of 1.4: $MOD = (\frac{1.4}{0.32} - 1) \times 10 = \mathbf{33.7 \text{ meters}}$ (Contingency at 1.6 yields 40m).
+*   For EAN32 at a PO₂ of 1.4: $MOD = (\frac{1.4}{0.32} - 1) \times 10 = \mathbf{33.8 \text{ meters}}$ (Contingency at 1.6 yields 40m).
 *   For a planned depth of 25 meters, the Best Mix is: $FO_2 = \frac{1.4}{3.5} = \mathbf{40\%}$. Select a mix between EAN36 and EAN40, then recalculate and verify the MOD.
 
 ---
