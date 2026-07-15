@@ -160,7 +160,7 @@ function calculateSacRmv() {
 1. **Crystal Dive** - *Master Surface Air Consumption: How to Lower Your SAC Rate*: SAC 定義、實例計算與降低呼吸率的實務策略（放鬆、浮力、流線化）。 [連結](https://www.crystaldive.com/master-your-surface-air-consumption/)
 2. **No Gravity Divers** - *How to calculate air consumption? SAC and RMV in Scuba Diving*: SAC（bar/min，與瓶容積綁定）與 RMV（L/min，通用生理值）之區別與計算所需資料。 [連結](https://nogravity-divers.com/how-to-calculate-air-consumption-sac-and-rmv-in-scuba-diving/)
 3. **DAN (Divers Alert Network), Alert Diver** - *Estimating Your Air Consumption*: 手動公式演算與 psi 系統下的換算方法。 [連結](https://dan.org/alert-diver/article/estimating-your-air-consumption/)
-4. **R. Pyle (IANTD) / University of Maine Scientific Diving** - *Diving Physics and "Fizzyology"*（教學 PDF）: 深度（ATA）對氣體密度與呼吸生理之物理機制。 [連結](https://umaine.edu/scientificdiving/wp-content/uploads/sites/335/2014/10/Diving-Fizzyology-R.-Pyle-IANTD.pdf)
+4. **DAN (Divers Alert Network), Alert Diver** - *Performance Under Pressure*: 深度使氣體密度升高、進而增加呼吸功（WOB）與影響 CO₂ 排出之生理機制。 [連結](https://dan.org/alert-diver/article/performance-under-pressure/)
 5. **Scuba Tech Philippines (Andy Davis)** - *Scuba Gas Planning: Gas Management For Divers*: Rock Bottom 保留計算、緊急情境下呼吸倍增（雙倍/三倍係數）之保守化建議。 [連結](https://scubatechphilippines.com/scuba_blog/scuba-gas-planning-management-divers/)
 6. **PADI Blog** - *Diving Physics: The Science Behind Your Underwater Adventures*: 絕對壓力（ATA）隨深度之公式與氣體密度換算基礎。 [連結](https://blog.padi.com/diving-physics/)
 7. **TDI/SDI** - *Do we have enough? Handling breathing gas properly*: 氣體需求評估、不同瓶容積下的氣量折算與保留思維。 [連結](https://www.tdisdi.com/tdi-diver-news/do-we-have-enough/)

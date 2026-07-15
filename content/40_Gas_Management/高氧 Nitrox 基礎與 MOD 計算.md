@@ -37,7 +37,7 @@ $$EAD(m) = \left(\frac{FN_2}{0.79} \times \left(\frac{深度}{10}+1\right) - 1\r
 **PO₂ 上限**：計劃工作段 **1.4 ata**；緊急備援上限（Contingency）**1.6 ata**——1.6 同時是減壓停留段的傳統上限（休息狀態、低運動量前提），見 [[減壓停留實務執行與氧氣減壓]] [1][2][3]。
 
 ### 例算
-> EAN32、PO₂ 1.4：MOD = (1.4/0.32 − 1) × 10 = **33.7 米**；Contingency 1.6 → 40 米。
+> EAN32、PO₂ 1.4：MOD = (1.4/0.32 − 1) × 10 = **33.8 米**；Contingency 1.6 → 40 米。
 > 計劃深度 25 米的最佳混氣：FO₂ = 1.4/3.5 = **40%** → 取 EAN36–40 之間的可得混氣，MOD 再回算驗證。
 
 <div style="background: #1e1e24; border: 1px solid #3a3a4a; border-radius: 12px; padding: 20px; margin: 25px 0; color: #f0f0f5; font-family: system-ui, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">

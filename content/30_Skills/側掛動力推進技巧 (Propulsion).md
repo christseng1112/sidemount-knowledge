@@ -88,4 +88,4 @@ tags:
 8. **YouTube (Garry Dallas / Simply Sidemount)** - *Tune up your Fundamental skills*: 側掛基礎技巧（含踢法與轉向）示範（影音來源，僅供補充）。 [連結](https://www.youtube.com/watch?v=hplPRmKzwwI)
 9. **DiveVolk** - *Scuba Finning Techniques: Kick Smarter and Protect the Reef*: 推進技術在保護脆弱環境與維持能見度中的角色。 [連結](https://www.divevolkdiving.com/blogs/diving-knowledge/scuba-finning-techniques-frog-kick-flutter-kick)
 
-> ⚠️ 引用注意：divernet.com 與 tdisdi.com 有反爬蟲機制（403），內容以搜尋引擎索引確認。
+> ⚠️ 引用注意：divernet.com、tdisdi.com 與 scuba.com 有反爬蟲機制（403），內容以搜尋引擎索引確認。
