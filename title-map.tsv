@@ -1,0 +1,79 @@
+﻿# 側掛知識流 zh↔en 標題對照表 (canonical title map)
+# 用途：新增或翻譯筆記時，英文檔名/wikilink 目標一律以本表為準，避免同一篇在不同檔案被譯成不同標題
+#       （2026-07-15 曾因翻譯漂移造成 en/ 78 條 wikilink 斷鏈）。
+# 維護：新增筆記時同步加一列。check-links.ps1 會據此驗證中英對應完整性。
+# 00_MOCs 之 8 個檔案中英同名，不列於此表。
+# 格式：folder <TAB> zh_filename <TAB> en_filename （皆不含 .md）
+10_Concepts	休閒側掛與技術側掛的定位光譜	Recreational and Technical Sidemount Positioning Spectrum
+10_Concepts	側掛潛水起源與歷史	Sidemount Origins & History
+10_Concepts	側掛潛水適合族群與生理考量	Suitable Groups & Physiological Considerations
+10_Concepts	側掛與背掛系統深度對比	Sidemount vs Backmount Systems
+10_Concepts	壓力心理與任務負荷 (Task Loading) 管理	Stress Psychology & Task Loading Management
+10_Concepts	流線型與水中平衡哲學	Streamline & In-Water Balance Philosophy
+10_Concepts	自給自足與獨立性精神	Self-Sufficiency Philosophy
+20_Equipment	Razor 側掛系統調整與配置	Razor Sidemount System Adjustment
+20_Equipment	XDEEP Stealth 2.0 系統調整與配置	XDEEP Stealth 2.0 Configuration
+20_Equipment	主流側掛系統橫向對比 (Katana 2、Nomad、WSX)	Harness Comparison (Katana 2, Nomad, WSX)
+20_Equipment	側掛氣瓶容量選型指南	Cylinder Size Selection Guide
+20_Equipment	側掛背帶與浮力補償裝置 (BCD)	Sidemount Harness & BCD
+20_Equipment	側掛蛙鞋與面鏡選擇	Fins and Mask Selection
+20_Equipment	側掛調節器與低壓高壓管線配置	Sidemount Regulator & Hose Routing
+20_Equipment	側掛配件與口袋系統配置	Accessories and Pocket Configuration
+20_Equipment	氣瓶懸掛系統與硬體配置	Cylinder Rigging & Hardware Setup
+20_Equipment	潛水燈具系統與 Goodman 握把配置	Primary Light and Goodman Handle Configuration
+20_Equipment	潛水電腦與無線氣體整合配置	Dive Computer & Transmitter Configuration
+20_Equipment	鋼瓶與鋁瓶的浮力與配重管理	Steel vs Aluminum Buoyancy Management
+20_Equipment	防寒衣選擇與浮力配平影響	Exposure Suit Selection & Trim Influence
+30_Skills	二級頭收納切換與尋回技巧	Second Stage Stowage, Switching & Retrieval
+30_Skills	側掛下潛程序與懸停控制	Descent Procedure & Hover Control
+30_Skills	側掛入水與出水技巧	Entry & Exit Techniques
+30_Skills	側掛動力推進技巧 (Propulsion)	Sidemount Propulsion Techniques
+30_Skills	單氣瓶側掛配置與平衡技巧	Single Cylinder Sidemount Configuration
+30_Skills	團隊手勢燈光與觸摸溝通	Team Hand Signals, Light & Touch Communication
+30_Skills	氣瓶水中動態管理技巧	In-Water Cylinder Management Techniques
+30_Skills	水中浮力與水平配平 (Trim)	In-Water Buoyancy & Horizontal Trim
+30_Skills	水面訊號浮標 (SMB & DSMB) 部署技巧	DSMB Deployment Techniques
+40_Gas_Management	二氧化碳滯留與呼吸功 (Hypercapnia)	CO2 Retention & Work of Breathing
+40_Gas_Management	側掛氣體切換標準程序	Sidemount Gas Switching Procedures
+40_Gas_Management	呼吸率 (SAC & RMV) 計算指引	Gas Consumption Rate (SAC & RMV) Calculation
+40_Gas_Management	氣體分析與氣瓶標示實務	Gas Analysis & Cylinder Labeling
+40_Gas_Management	氣體計劃與安全保留原則	Gas Planning & Safety Reserve Principles
+40_Gas_Management	氣體調配與高壓充填計算指引	Gas Blending & High Pressure Filling Guide
+40_Gas_Management	氧暴露與氮醉管理 (CNS、OTU、END)	Oxygen Exposure & Nitrogen Narcosis Management
+40_Gas_Management	減壓規劃軟體與梯度因子	Decompression Planning Software & Gradient Factors
+40_Gas_Management	高氧 Nitrox 基礎與 MOD 計算	Nitrox Basics & MOD Calculation
+50_Safety	BCD與浮力失效緊急應變方案	BCD & Buoyancy Failure Emergency Procedures
+50_Safety	上升速率與安全停留標準	Ascent Rate & Safety Stop Standards
+50_Safety	側掛調節器故障應變與漏氣排除	Sidemount Regulator Malfunction & Leak Management
+50_Safety	失散與迷失應變程序	Team Separation & Lost Diver SOP
+50_Safety	失溫預防與應變管理	Hypothermia Prevention & Management
+50_Safety	意識喪失潛水員救援與拖帶	Unconscious Diver Rescue & Towing Procedures
+50_Safety	氣源耗盡 (OOG) 與長管分享程序	Out of Gas (OOG) & Long Hose Sharing Procedure
+50_Safety	氣閥演練 (Valve Drills) 標準步驟	Valve Drills Standard Operating Procedures
+50_Safety	浸泡性肺水腫 (IPE-SIPE) 識別與應變	Immersion Pulmonary Edema (IPE-SIPE) Recognition & Response
+50_Safety	減壓病徵兆識別與氧氣急救	DCS Symptom Recognition & Oxygen First Aid
+50_Safety	潛水事故安全案例分析與人為因素	Dive Accident Case Analysis & Human Factors
+50_Safety	瓶首彈性繩斷裂與失瓶處置	Bungee Failure & Cylinder Dislodgement Procedures
+50_Safety	緊急游泳上升 (CESA) 與最後手段選項	Controlled Emergency Swimming Ascent (CESA) & Last Resort Options
+50_Safety	線纏繞應變與切割工具配置	Line Entanglement & Cutting Tool Configuration
+50_Safety	耳壓平衡與耳部擠壓傷 (Barotrauma)	Ear Equalization & Barotrauma
+60_Advanced	DPV 水下推進器與側掛整合	DPV Scooter & Sidemount Integration
+60_Advanced	Trimix 混合氣與氣體密度規劃	Trimix Gas & Gas Density Planning
+60_Advanced	側掛閉迴路循環呼吸器 (CCR) 整合概念	Sidemount CCR Integration Concepts
+60_Advanced	多氣瓶與減壓瓶掛載配置 (Technical Sidemount)	Multi-Cylinder & Decompression Stage Configuration
+60_Advanced	水下減壓理論模型與生理學比較	Decompression Theory Models & Physiology
+60_Advanced	沉船穿越佈線與捲線器程序	Wreck Penetration Guideline & Reel Procedures
+60_Advanced	減壓停留實務執行與氧氣減壓	Decompression Stop Execution & Oxygen Deco
+60_Advanced	無掛載與單側掛 (No-mount & Stage Dropping) 技巧	No-Mount & Stage Dropping Techniques
+60_Advanced	獨行潛水與極限無掛載裝備配置	Solo Diving & Extreme No-Mount Configuration
+60_Advanced	頂部封閉環境下的側掛線路與操作	Sidemount Guidelines & Operations in Overhead Environments
+70_Resources	二手側掛裝備選購指南	Used Sidemount Gear Buying Guide
+70_Resources	側掛中英術語對照表	Sidemount Glossary & English-Chinese Terms
+70_Resources	側掛常見錯誤與新手FAQ	Sidemount Common Mistakes & Beginner FAQ
+70_Resources	側掛潛水日誌範本	Sidemount Dive Log Template
+70_Resources	側掛潛水系統與證照課程對比	Sidemount Certification Systems & Course Comparison
+70_Resources	側掛裝備旅行打包與航空託運	Sidemount Gear Travel Packing & Airline Baggage Guide
+70_Resources	側掛裝備日常保養與維護指引	Sidemount Gear Maintenance & Care Guide
+70_Resources	台灣側掛潛點適用性指南	Taiwan Sidemount Dive Sites Suitability Guide
+70_Resources	潛水保險與緊急後送規劃	Diving Insurance & Emergency Evacuation Planning
+70_Resources	潛水前檢查清單 (Pre-dive Checklists)	Pre-Dive Checklists
