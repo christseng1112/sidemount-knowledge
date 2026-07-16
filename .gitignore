@@ -11,3 +11,6 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# check-links.ps1 的執行輸出，非原始碼
+link-check-failures.csv
