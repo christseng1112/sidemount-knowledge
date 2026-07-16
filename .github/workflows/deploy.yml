@@ -15,7 +15,18 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # 結構守門：wikilink 解析 + zh↔en title-map 完整性（check-links.ps1 -SkipUrls，秒級）
+  # 擋下任何會造成斷鏈的 push——包括直接在 GitHub 網頁上的編輯與社群 PR
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Structural checks (wikilinks + title map)
+        shell: pwsh
+        run: ./check-links.ps1 -SkipUrls -VaultPath "${{ github.workspace }}/content"
+
   build:
+    needs: validate
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6

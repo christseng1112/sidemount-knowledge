@@ -6,7 +6,7 @@ title: 🌊 Sidemount Diving Knowledge Base
 
 > 🌐 **中文** — [[index|閱讀中文版（原文）→]]
 
-A systematic, modular reference covering the concepts, equipment, skills and safety procedures of sidemount diving — 73 notes across seven themes. Every claim carries an **individually verified citation**, and safety-critical figures are cross-checked against two independent sources.
+A systematic, modular reference covering the concepts, equipment, skills and safety procedures of sidemount diving — 70+ notes across seven themes. Every claim carries an **individually verified citation**, and safety-critical figures are cross-checked against two independent sources.
 
 > This is the English edition, translated from the Traditional Chinese original. Where the two differ, the Chinese edition is authoritative.
 

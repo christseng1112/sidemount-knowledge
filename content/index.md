@@ -6,7 +6,7 @@ title: 🌊 側掛知識流｜Sidemount Diving Knowledge Base
 
 > 🌐 **English** — [[en/00_MOCs/Sidemount_Diving_MOC|Read this knowledge base in English →]]
 
-本站以系統化、模組化的方式，整理側掛潛水（Sidemount Diving）的觀念、裝備、技巧與安全程序，共 73 篇筆記、七大主題，並提供完整英文版。所有內容附**逐條核實過的引用來源**，安全關鍵數值皆經雙獨立來源交叉驗證。
+本站以系統化、模組化的方式，整理側掛潛水（Sidemount Diving）的觀念、裝備、技巧與安全程序，70+ 篇筆記、七大主題，並提供完整英文版。所有內容附**逐條核實過的引用來源**，安全關鍵數值皆經雙獨立來源交叉驗證。
 
 ## 🗺️ 從這裡開始
 

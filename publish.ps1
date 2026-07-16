@@ -24,7 +24,7 @@ foreach ($d in $dirs) {
 Set-Location $repo
 # 一併納入維護工具（check-links.ps1 依賴 title-map.tsv，兩者缺一不可）
 # 註：link-check-failures.csv 為執行輸出，刻意不追蹤
-$tracked = @("content", "quartz.config.yaml", "publish.ps1", "check-links.ps1", "title-map.tsv", "README.md")
+$tracked = @("content", "quartz.config.yaml", "publish.ps1", "check-links.ps1", "title-map.tsv", "README.md", ".github")
 git add $tracked
 if (-not (git status --porcelain $tracked)) {
     Write-Host "No changes to publish." -ForegroundColor Yellow

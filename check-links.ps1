@@ -17,7 +17,7 @@ $bareNames = New-Object System.Collections.Generic.HashSet[string]
 $relPaths  = New-Object System.Collections.Generic.HashSet[string]
 $allFiles  = @()
 foreach ($d in $folders) {
-    foreach ($base in @($d, "en\$d")) {
+    foreach ($base in @($d, "en/$d")) {
         $dir = Join-Path $VaultPath $base
         if (-not (Test-Path $dir)) { continue }
         Get-ChildItem -Path $dir -Filter *.md | ForEach-Object {
@@ -69,8 +69,8 @@ if (-not (Test-Path $mapFile)) {
         if ($p.Count -lt 3) { continue }
         $d, $zh, $en = $p[0], $p[1], $p[2]
         [void]$mapped.Add($zh)
-        if (-not (Test-Path (Join-Path $VaultPath "$d\$zh.md")))    { Write-Host "  X  對照表列出但中文檔不存在: $d/$zh" -ForegroundColor Red; $mapErr++ }
-        if (-not (Test-Path (Join-Path $VaultPath "en\$d\$en.md"))) { Write-Host "  X  對照表列出但英文檔不存在: en/$d/$en" -ForegroundColor Red; $mapErr++ }
+        if (-not (Test-Path (Join-Path $VaultPath "$d/$zh.md")))    { Write-Host "  X  對照表列出但中文檔不存在: $d/$zh" -ForegroundColor Red; $mapErr++ }
+        if (-not (Test-Path (Join-Path $VaultPath "en/$d/$en.md"))) { Write-Host "  X  對照表列出但英文檔不存在: en/$d/$en" -ForegroundColor Red; $mapErr++ }
     }
     # 反向：有筆記漏列
     foreach ($d in ($folders | Where-Object { $_ -ne '00_MOCs' })) {
@@ -142,5 +142,10 @@ if ($SkipUrls) {
 }
 
 Write-Host "`n================================"
-if ($issues -eq 0) { Write-Host "結構檢查通過（wikilink + 中英對照）" -ForegroundColor Green }
-else { Write-Host "結構問題 $issues 項待修" -ForegroundColor Red }
+if ($issues -eq 0) {
+    Write-Host "結構檢查通過（wikilink + 中英對照）" -ForegroundColor Green
+    exit 0
+} else {
+    Write-Host "結構問題 $issues 項待修" -ForegroundColor Red
+    exit 1   # 非零退出讓 CI 擋下部署
+}
