@@ -46,9 +46,9 @@ DPVs do not change your breathing rate—they change **distance**. This shifts g
 | Scenario | Response |
 | :--- | :--- |
 | **Stuck Throttle (Runaway)** | Release the handle; let the tow cord absorb the force. Angle the nose up to decelerate. Cut the power switch. Do not fight the machine. |
-| **Rapid Depth Change** | DPV speed causes ascent/descent rates far exceeding fin swimming. **Monitor ear equalization and computer warnings**. Decelerate during ascent phases (see [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]). |
+| **Rapid Depth Change** | DPV speed causes ascent/descent rates far exceeding fin swimming. **Monitor ear equalization and computer warnings**. Decelerate during ascent phases (see [[en/50_Safety/Ascent Rate & Safety Stop Standards\|Ascent Rate & Safety Stop Standards]]). |
 | **DPV Failure (Abandon)** | A neutrally trimmed DPV can be clipped to the guideline and marked. Fin-swim out. This is another reason to trim the DPV to neutral. |
-| **Buddy Separation** | DPV speeds can instantly extend team spacing. Formation discipline and light signals (see [[en/30_Skills/Team Hand Signals, Light & Touch Communication|Team Hand Signals, Light & Touch Communication]]) must be **stricter than fin-swimming dives**. |
+| **Buddy Separation** | DPV speeds can instantly extend team spacing. Formation discipline and light signals (see [[en/30_Skills/Team Hand Signals, Light & Touch Communication\|Team Hand Signals, Light & Touch Communication]]) must be **stricter than fin-swimming dives**. |
 
 ---
 

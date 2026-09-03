@@ -25,7 +25,7 @@ In open water, a Delayed Surface Marker Buoy (DSMB, commonly referred to as a "m
 | :--- | :--- | :--- |
 | **Buoy Body** | 1.4–1.8 m tall, open-ended or sealed with an overpressure relief valve (OPV). | High enough to be seen in swells; OPV prevents the buoy from bursting as gas expands on ascent [2]. |
 | **Spool** | **Spool preferred over a mechanical Reel**, 30–45 m line. | No ratchets to jam, compact, fits easily in a utility pocket—inherited from the cave diving philosophy of simplicity [1]. |
-| **Connection** | Keep the spool and DSMB detached or connected via quick-release bolt snaps in storage. | For stowage details, see [[en/20_Equipment/Accessories and Pocket Configuration|Accessories and Pocket Configuration]]. |
+| **Connection** | Keep the spool and DSMB detached or connected via quick-release bolt snaps in storage. | For stowage details, see [[en/20_Equipment/Accessories and Pocket Configuration\|Accessories and Pocket Configuration]]. |
 | **Color Coding** | Orange/Red = normal ascent; **Yellow = emergency** (standard team protocol). | Pre-dive briefs must align on color meanings; do not assume standard protocols across different teams [2]. |
 
 ---

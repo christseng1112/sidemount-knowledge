@@ -29,10 +29,10 @@ EANx = 氧比例高於 21% 的氮氧混合氣（EAN32 = 32% O₂）。**用更�
 $$MOD(m) = \left(\frac{PO_2\,limit}{FO_2} - 1\right) \times 10$$
 
 ### 2. 最佳混氣（Best Mix）
-$$FO_2 = \frac{PO_2\,limit}{深度(m)/10 + 1}$$
+$$FO_2 = \frac{PO_2\,limit}{\text{深度 (m)} / 10 + 1}$$
 
 ### 3. EAD（Equivalent Air Depth，等效空氣深度）
-$$EAD(m) = \left(\frac{FN_2}{0.79} \times \left(\frac{深度}{10}+1\right) - 1\right) \times 10$$
+$$EAD(m) = \left(\frac{FN_2}{0.79} \times \left(\frac{\text{深度}}{10}+1\right) - 1\right) \times 10$$
 
 **PO₂ 上限**：計劃工作段 **1.4 ata**；緊急備援上限（Contingency）**1.6 ata**——1.6 同時是減壓停留段的傳統上限（休息狀態、低運動量前提），見 [[減壓停留實務執行與氧氣減壓]] [1][2][3]。
 

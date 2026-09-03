@@ -19,7 +19,7 @@ This article focuses on **guideline procedures**: primary reels, tie-offs, and J
 | :--- | :--- | :--- |
 | **Primary Reel** | 100 m+ | Lay the main guideline from open water into the wreck [1][2]. |
 | **Jump/Gap Spool** | 15–30 m | Bridge gaps between existing lines or jump to side passages [2]. |
-| **Safety Spool** | ~45 m | Dedicated to lost line / lost buddy searches (see [[en/50_Safety/Team Separation & Lost Diver SOP|Team Separation & Lost Diver SOP]]). |
+| **Safety Spool** | ~45 m | Dedicated to lost line / lost buddy searches (see [[en/50_Safety/Team Separation & Lost Diver SOP\|Team Separation & Lost Diver SOP]]). |
 
 *   **The reel diver is always first in the team**: They lay line on entry and recover line on exit—**First in, Last out** [1].
 

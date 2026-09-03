@@ -44,10 +44,10 @@ The core gas switching SOP is covered in [[en/40_Gas_Management/Sidemount Gas Sw
 
 | Scenario | Response |
 | :--- | :--- |
-| **Deco gas failure / lost cylinder** | Switch to back gas or buddy's supply. Continue using the "lost gas" contingency table from your planning software—this table must be pre-printed on your wet slate (see [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]). |
+| **Deco gas failure / lost cylinder** | Switch to back gas or buddy's supply. Continue using the "lost gas" contingency table from your planning software—this table must be pre-printed on your wet slate (see [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles\|Gas Planning & Safety Reserve Principles]]). |
 | **Omitted Decompression (forced early exit)** | Asymptomatic: return to the water within **a few minutes** and complete the obligation (typically at a depth slightly deeper than the missed stop, with added time). Symptomatic: **do not return to the water**; initiate DCI first aid immediately [1]. |
-| **Hypothermia / Shivering** | Shivering = reduced off-gassing efficiency + elevated CNS risk. Thermal budget is part of the decompression plan (see [[en/50_Safety/Hypothermia Prevention & Management|Hypothermia Prevention & Management]]). |
-| **Computer Failure** | Execute decompression using your backup computer or wet slate tables. Dual computers are standard for decompression diving (see [[en/20_Equipment/Dive Computer & Transmitter Configuration|Dive Computer & Wireless Gas Integration]]). |
+| **Hypothermia / Shivering** | Shivering = reduced off-gassing efficiency + elevated CNS risk. Thermal budget is part of the decompression plan (see [[en/50_Safety/Hypothermia Prevention & Management\|Hypothermia Prevention & Management]]). |
+| **Computer Failure** | Execute decompression using your backup computer or wet slate tables. Dual computers are standard for decompression diving (see [[en/20_Equipment/Dive Computer & Transmitter Configuration\|Dive Computer & Wireless Gas Integration]]). |
 
 > 📋 **Assumptions & Limitations**: The depth/gas thresholds cited in this article (EAN50@21m, O₂@6m, PO₂ 1.6, breaks at 20–25/5 min) represent widely adopted industry conventions. **Always follow your training agency's standards and planning software outputs.** Decompression theory carries inherent uncertainty—execution discipline reduces variables but does not guarantee zero DCS.
 

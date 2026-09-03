@@ -38,7 +38,7 @@ $broken = @()
 foreach ($f in $allFiles) {
     $content = Get-Content -Raw -Encoding UTF8 $f.FullName
     foreach ($m in $wikiRe.Matches($content)) {
-        $target = $m.Groups[1].Value.Trim()
+        $target = $m.Groups[1].Value.Trim().TrimEnd('\')
         $totalLinks++
         if ((-not $bareNames.Contains($target)) -and (-not $relPaths.Contains($target))) {
             $broken += [pscustomobject]@{ File = $f.Name; Target = $target }

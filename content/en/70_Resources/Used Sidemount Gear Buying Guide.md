@@ -24,7 +24,7 @@ The used market for sidemount gear is highly active (many transition to it, and 
 ## 🔍 Detailed Inspection Checklist
 
 ### Regulators (Highest Scrutiny)
-*   **No Service Records = Needs Immediate Overhaul**. Factor the overhaul cost (approx. NT$2,500–4,000 / US$100–150 per set) into your offer [1].
+*   **No Service Records = Needs Immediate Overhaul**. Factor the overhaul cost (approx. NT\$2,500–4,000 / US\$100–150 per set) into your offer [1].
 *   **Greenish corrosion or rust on first stages = Hard Pass** (indicates flood history) [1].
 *   Check for: discoloration on the inlet filter, hose cracking/bubbling, mouthpiece tears, and sticking purge buttons.
 *   Standard service interval: Annually or every 100 dives [2].

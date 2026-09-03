@@ -27,7 +27,7 @@ Sidemount diving is frequently conducted in low-visibility, overhead, or tight r
 | **Thumbs Up** | Abort Dive / Ascend | **Non-negotiable.** If anyone signals a thumbs-up, the team aborts. |
 | **Index + Thumb Pistol Shape** | Out & Up—Exit Overhead / Retreat | Emergency exit signal [1]. |
 | **Double-finger Figure-8** | Line Entanglement Warning | Alert buddy that they are entangled [1]. |
-| **Hand Cutt-throat** | Out of Gas (OOG) | Triggers the regulator donation sequence (see [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure|Out of Gas (OOG) & Long Hose Sharing Procedure]]). |
+| **Hand Cutt-throat** | Out of Gas (OOG) | Triggers the regulator donation sequence (see [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure\|Out of Gas (OOG) & Long Hose Sharing Procedure]]). |
 
 ---
 

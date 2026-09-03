@@ -31,7 +31,7 @@ Taking DAN (Divers Alert Network) as an example, membership and dive accident in
 
 A typical DAN dive accident insurance policy covers [1][2]:
 
-*   **Hyperbaric Chamber Treatment**: The primary treatment for DCS/AGE. Single chamber runs can cost US$330–1,000 per hour, and multiple treatments are often required [2].
+*   **Hyperbaric Chamber Treatment**: The primary treatment for DCS/AGE. Single chamber runs can cost US\$330–1,000 per hour, and multiple treatments are often required [2].
 *   **Physician & Inpatient Fees**.
 *   **Emergency Evacuation**: Transportation via ambulance, boat, or air ambulance to the **nearest appropriate medical facility or hyperbaric chamber** [1][2].
 *   **Search & Rescue (SAR)** and accidental death or dismemberment benefits.

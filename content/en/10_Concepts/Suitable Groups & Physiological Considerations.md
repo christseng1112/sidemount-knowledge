@@ -37,7 +37,7 @@ Sidemount is not necessarily a "must-learn" for everyone. However, it is a **hig
 
 | Assessment Metric | Requirement | Rationale |
 | :--- | :--- | :--- |
-| **Shoulder Mobility** | Ability to reach under the armpits and touch the cylinder valves. | Essential prerequisite for valve drills and emergency shut-offs (see [[en/50_Safety/Valve Drills Standard Operating Procedures|Valve Drills Standard Steps]]) [4]. |
+| **Shoulder Mobility** | Ability to reach under the armpits and touch the cylinder valves. | Essential prerequisite for valve drills and emergency shut-offs (see [[en/50_Safety/Valve Drills Standard Operating Procedures\|Valve Drills Standard Steps]]) [4]. |
 | **Core Stability** | Ability to maintain horizontal Trim while micro-adjusting the center of gravity. | Since cylinders sit on the sides, the center of gravity shifts as gas is consumed, requiring core compensation. |
 | **Single-Side Lifting** | Ability to lift a single cylinder (approx. 14–20 kg) with one hand. | Cylinders must still be carried individually on land/boats. |
 | **Willingness to Unlearn** | Commitment to rebuilding foundational habits. | Mid-water buoyancy, propulsion kicks, and gas rotation require rebuilding muscle memory [3]. |

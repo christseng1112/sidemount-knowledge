@@ -20,7 +20,7 @@ The most common sidemount setup is the **Long Hose / Short Hose** configuration 
 | **Hose Length** | 2.1 m (7 ft) | 56–61 cm (22–24 inches) |
 | **Routing** | Hogarthian-style: runs up the chest, wraps counter-clockwise around the neck, enters the mouth from the right [1]. | Short hose runs straight up from the left cylinder to hang directly below the chin. |
 | **Stowage** | When not in use, folded and clipped to the right shoulder D-ring with a bolt snap; excess hose tucked under elastic bands on the cylinder body [1]. | Mounted on a **bungee necklace (Necklace)** worn around the neck. |
-| **Emergency Role**| Donated to an out-of-gas (OOG) buddy (see [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure|Out of Gas (OOG) & Long Hose Sharing Procedure]]). | Diver's personal backup gas source. |
+| **Emergency Role**| Donated to an out-of-gas (OOG) buddy (see [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure\|Out of Gas (OOG) & Long Hose Sharing Procedure]]). | Diver's personal backup gas source. |
 
 > 📌 **Break-away Stowage**: Some divers secure the long-hose bolt snap to the regulator exhaust tee using a small O-ring or thin bungee loop. In an emergency, pulling the second stage breaks this connection, allowing rapid deployment without unclipping [2]. However, this increases the risk of accidental deployment, which is a trade-off.
 
