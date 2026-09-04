@@ -15,6 +15,9 @@ Emergency prevention, rapid valve handling, and structured incident analysis are
 - [[en/50_Safety/Line Entanglement & Cutting Tool Configuration|Line Entanglement & Cutting Tool Configuration]]: Entanglement snag points, cutting tool types (line cutters, shears, knives), and entanglement response SOPs.
 - [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]: Ascent rate benchmarks (bottom vs. shallow zones), safety stop rules, decompression stops, and deep stops controversy.
 
+### Altitude Exposure
+- [[en/50_Safety/Flying After Diving & Altitude Exposure|Flying After Diving & Altitude Exposure]]: The 12 / 18 / >18 hour DAN-UHMS preflight intervals, road passes counting as altitude exposure (Wuling 3,275 m, Dayuling 2,565 m), unpressurised commuter aircraft where cabin altitude equals flight altitude, and the 300 m altitude-diving threshold.
+
 ### In-Water Emergencies & Physiology
 - [[en/50_Safety/Team Separation & Lost Diver SOP|Team Separation & Lost Diver SOP]]: Lost buddy protocols (open vs. overhead water), reference markers, search gas limits, and lost line search patterns.
 - [[en/50_Safety/Controlled Emergency Swimming Ascent (CESA) & Last Resort Options|Controlled Emergency Swimming Ascent (CESA) & Last Resort Options]]: Gas contingency priorities, CESA standard procedures, exhalation rules, and AGE risks.

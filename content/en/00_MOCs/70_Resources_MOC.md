@@ -12,6 +12,9 @@ Reference lists, terminology definitions, pre-dive checks, and training agency b
 - [[en/70_Resources/Sidemount Common Mistakes & Beginner FAQ|Sidemount Common Mistakes & Beginner FAQ]]: Frequently asked questions and common posture/rigging mistakes.
 - [[en/70_Resources/Taiwan Sidemount Dive Sites Suitability Guide|Taiwan Sidemount Dive Sites Suitability Guide]]: Taiwan's primary diving regions, entry types, water temperatures, and left-valve cylinder availability.
 
+### Quick Reference
+- [[en/70_Resources/Safety Numbers Quick Reference|Safety Numbers Quick Reference]]: Every safety-critical number in the vault on one page (PO₂/CNS/OTU, gas density, ascent and stops, sidemount switching differentials, Rock Bottom RMV, first-aid SOP, flying and altitude intervals, unit conversions), each row linked back to its authoritative note.
+
 ### Practical Checklists & Logs
 - [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]]: GUE EDGE checks, bubble checks, and S-Drill procedures.
 - [[en/70_Resources/Sidemount Dive Log Template|Sidemount Dive Log Template]]: Structured log format for recording sidemount configurations, weights, and trim parameters.
