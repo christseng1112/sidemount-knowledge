@@ -71,6 +71,15 @@ When swimming upward to overcome gravity without BCD buoyancy, a common mistake 
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/20_Equipment/Sidemount Harness & BCD|Sidemount Harness & BCD]]
+*   [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs Aluminum Buoyancy Management]]
+*   [[en/30_Skills/In-Water Buoyancy & Horizontal Trim|In-Water Buoyancy & Horizontal Trim]]
+*   [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]
+
+---
+
 ## 📚 References
 
 1. **DAN (Divers Alert Network)** - *Inflator Valve Stuck, Causing Rapid Ascent*: Case report on stuck inflator valves and standard emergency response. [Link](https://dan.org/safety-prevention/diver-safety/case-summaries/inflator-valve-stuck-causing-rapid-ascent/)

@@ -40,14 +40,14 @@ As detailed in [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs 
 
 *   **Step-by-Step Procedure** (using the right-side cylinder as an example):
     1.  **Maintain Horizontal Trim**: Hold your primary light forward with your left hand. Look straight ahead, slightly flare your knees, lock your ankles, and maintain a flat horizontal posture.
-    2.  **Blind Touch**: Reach back with your right hand to locate the lower bolt snap. Grasp the body of the clip with your index finger and thumb. **Never look back**—turning your head twists your spine, which tilts your shoulders and hips, instantly breaking your Trim [8][10].
+    2.  **Blind Touch**: Reach back with your right hand to locate the lower bolt snap. Grasp the body of the clip with your index finger and thumb. **Never look back**—turning your head twists your spine, which tilts your shoulders and hips, instantly breaking your Trim [5][8].
     3.  **Anti-Roll Control**: Press the gate open and unclip the snap from the rear hip D-ring. The moment the clip is released, the right side will feel lighter, causing the body to roll toward the left. **Engage your core, apply minor downward pressure with your left leg, and use abdominal tension to prevent rolling**.
     4.  **Clip Forward**: Slide the cylinder bottom forward, align the bolt snap with the **sliding D-ring** on your waist belt, and clip it in [8].
     5.  **Verify Alignment**: Pull your right elbow inward, brushing your upper arm against the cylinder body to verify that the tank lies parallel to your torso.
-    6.  **Switch Hands & Repeat**: Transfer the primary light to your right hand. Use your left hand to repeat steps 1–5 on the left cylinder [8][10].
+    6.  **Switch Hands & Repeat**: Transfer the primary light to your right hand. Use your left hand to repeat steps 1–5 on the left cylinder [5][8].
 *   **Key Execution Details**:
     *   **Prohibited Actions**: When sliding cylinders forward, **do not look down (causes a head-heavy tilt), do not twist your torso (causes cylinder sway), and do not kick aggressively (increases gas consumption and stirs up silt)**.
-    *   **Roll Mechanics**: During the 2–3 seconds when a cylinder is unclipped and held only by the neck bungee, the tank bottom will flare outward. Tuck the cylinder body close to your ribcage with your upper arm to prevent it from swinging and dragging you offline [8][10].
+    *   **Roll Mechanics**: During the 2–3 seconds when a cylinder is unclipped and held only by the neck bungee, the tank bottom will flare outward. Tuck the cylinder body close to your ribcage with your upper arm to prevent it from swinging and dragging you offline [5][8].
 
 ---
 
@@ -64,17 +64,17 @@ When navigating restrictions where the vertical or horizontal clearance is small
                           in a "Superman" glide, minimizing frontal profile [3].
         ▼
 【No-Mount Technique】    Completely release bungees and lower snaps, holding the cylinders
-                          in your arms or pushing them ahead through a restriction [3][12].
+                          in your arms or pushing them ahead through a restriction [3][7].
 ```
 
 ### 1. The Superman Position (Cylinder Pushing)
 *   **Action**: Unclip the lower bolt snaps of both cylinders. Grasp the cylinder necks/first stages and push both cylinders straight ahead of you [3].
 *   **Physical State**: The cylinders now sit in front of your chest. You fly with arms extended in a low-profile glide. The cylinders remain anchored to the shoulder harness via the neck bungees, preventing loss [3][4].
-*   **Propulsion**: In this position, use compact "modified frog kicks" or "ankle kicks" to move forward slowly, preventing your fins from striking the surrounding walls [11].
+*   **Propulsion**: In this position, use compact "modified frog kicks" or "ankle kicks" to move forward slowly, preventing your fins from striking the surrounding walls [3].
 
 ### 2. The No-Mount Technique (No-Mount / Stage Dropping)
-*   **Action**: In restrictions too low even for the Superman glide, the diver must unhook the neck bungees and lower clips completely, pushing the cylinders ahead through the restriction one by one, or holding them close to the torso while squeezing through [3][12].
-*   **Safety Threshold**: This is an advanced, high-risk exploration skill. Before releasing your cylinders, you must calculate your gas reserves carefully and ensure that low-pressure hoses are protected from scraping. In cave exploration, if a restriction is too tight to pass with two cylinders, explorers may unclip one cylinder and leave it at the entrance (Stage Dropping), exploring further on a single cylinder and retrieving the staged cylinder on the return journey [3][12].
+*   **Action**: In restrictions too low even for the Superman glide, the diver must unhook the neck bungees and lower clips completely, pushing the cylinders ahead through the restriction one by one, or holding them close to the torso while squeezing through [3][7].
+*   **Safety Threshold**: This is an advanced, high-risk exploration skill. Before releasing your cylinders, you must calculate your gas reserves carefully and ensure that low-pressure hoses are protected from scraping. In cave exploration, if a restriction is too tight to pass with two cylinders, explorers may unclip one cylinder and leave it at the entrance (Stage Dropping), exploring further on a single cylinder and retrieving the staged cylinder on the return journey [3][7].
 
 ---
 

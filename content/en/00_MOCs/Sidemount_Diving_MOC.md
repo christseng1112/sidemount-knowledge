@@ -62,7 +62,7 @@ Click the links below to enter each MOC:
 
 This knowledge base is a structured collection of references and **not a peer-reviewed academic journal**. Please note the following guidelines:
 
-1.  **Refined Link Strategy**: References link to specific articles/documents where available. Exception: official manuals or developer homepage (e.g. sidemountbook.com, razorgosidemount.com) serve as base references.
+1.  **Refined Link Strategy**: References link to specific articles/documents where available. Exception: site-level links to book or brand homepages, which are the source's own nature — sidemountbook.com (Rob Neto), deco-for-divers.com (Mark Powell), and razorgosidemount.com. Anti-scraping domains (tdisdi.com, scubadiving.com, divernet.com, indepthmag.com, divegearexpress.com, iantd.com) carry a ⚠️ footnote in the notes citing them; verify manually before formal citation.
 2.  **Safety Disclaimer**: All procedures (valve drills, OOG, deco gas switches, restrictions) are for **refresher reference only** and cannot replace hands-on training from a certified instructor.
 3.  **Unit Conversions**: Metric units are primary (meters, bar, liters, kg), with imperial conversions in parentheses where helpful (1 bar ≈ 14.5 psi, 1 kg ≈ 2.2 lbs, AL80 water capacity ≈ 11.1 L).
 4.  **Annual Safety Value Review**: Safety critical numbers (PO2 limits, CNS clock, ascent rates, gas density, DCS first aid) are reviewed annually against DAN / UHMS / NOAA updates. Next review: **2027-07**.

@@ -57,13 +57,13 @@ Maintaining a perfect Trim does not require aggressive kicking; instead, it reli
 
 ## 📊 Weight Diagnostics & Trim Micro-Adjustments
 
-If you have executed the pelvic tilt but still struggle to stay level, your **Center of Gravity (CoG) and Center of Buoyancy (CoB)** are physically misaligned. Adjust weight positions rather than using fin kicks to compensate [7][13]:
+If you have executed the pelvic tilt but still struggle to stay level, your **Center of Gravity (CoG) and Center of Buoyancy (CoB)** are physically misaligned. Adjust weight positions rather than using fin kicks to compensate [7][8]:
 
 | In-Water Symptom | Physical Cause | Micro-Adjustment Strategy (Razor / XDEEP) |
 | :--- | :--- | :--- |
-| **Foot-heavy (Head-up)** | CoG is shifted too far toward the lower body, creating a backward torque [7]. | 1. Move ballast weights upward (toward the Delta plate or upper harness) [7][13].<br>2. For steel cylinders, slide the tank clamps downward by 2-3 cm (raising the tanks relative to the torso) [10].<br>3. Verify that your legs are relaxed and not pushing downward. |
-| **Head-heavy (Foot-up)** | CoG is shifted too far toward the upper body, creating a forward torque [7]. | 1. Move ballast weights downward (toward the waist belt or crotch strap) [7][13].<br>2. Check if heavy gear (such as canister light batteries) is mounted too high.<br>3. Move cylinder clamps upward toward the valves. |
-| **Lateral Rolling** | Lateral weight distribution is asymmetrical (e.g., single-tank or stage-heavy setups) [7]. | 1. Move weights to the lighter side (e.g., using Wing weight pockets on the opposite side) [14].<br>2. Ensure that bungee and leash lengths are identical on both sides. |
+| **Foot-heavy (Head-up)** | CoG is shifted too far toward the lower body, creating a backward torque [7]. | 1. Move ballast weights upward (toward the Delta plate or upper harness) [7][8].<br>2. For steel cylinders, slide the tank clamps downward by 2-3 cm (raising the tanks relative to the torso) [10].<br>3. Verify that your legs are relaxed and not pushing downward. |
+| **Head-heavy (Foot-up)** | CoG is shifted too far toward the upper body, creating a forward torque [7]. | 1. Move ballast weights downward (toward the waist belt or crotch strap) [7][8].<br>2. Check if heavy gear (such as canister light batteries) is mounted too high.<br>3. Move cylinder clamps upward toward the valves. |
+| **Lateral Rolling** | Lateral weight distribution is asymmetrical (e.g., single-tank or stage-heavy setups) [7]. | 1. Move weights to the lighter side (e.g., using Wing weight pockets on the opposite side) [11].<br>2. Ensure that bungee and leash lengths are identical on both sides. |
 
 ---
 
@@ -73,8 +73,8 @@ Sidemount BCD inflation and venting must be operated with precision to avoid dis
 
 1.  **Incremental Inflation**: Press the inflator button for only **0.5 seconds** at a time. Wait **2 to 3 seconds** to let the gas distribute throughout the bladder and feel the buoyancy shift before adding more. Avoid holding down the inflator button [1][2].
 2.  **Venting in Trim**: Venting sidemount BCDs does not require changing your horizontal posture.
-    *   *Razor System*: The dump valve sits at the lower back. Keep your body horizontal, slightly lift your hips, and pull the dump cord at your lower left hip [2][14].
-    *   *XDEEP System*: The dump valve is positioned at the bottom center. Reach back and down with either hand to pull the central dump cord; air vents cleanly [13].
+    *   *Razor System*: The dump valve sits at the lower back. Keep your body horizontal, slightly lift your hips, and pull the dump cord at your lower left hip [2][11].
+    *   *XDEEP System*: The dump valve is positioned at the bottom center. Reach back and down with either hand to pull the central dump cord; air vents cleanly [12].
 
 ---
 
@@ -211,6 +211,15 @@ function calculateTrimPlanner() {
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/10_Concepts/Streamline & In-Water Balance Philosophy|Streamline & In-Water Balance Philosophy]]
+*   [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs Aluminum Buoyancy Management]]
+*   [[en/20_Equipment/Exposure Suit Selection & Trim Influence|Exposure Suit Selection & Trim Influence]]
+*   [[en/30_Skills/Sidemount Propulsion Techniques|Sidemount Propulsion Techniques]]
+
+---
+
 ## 📚 References
 
 1. **TDI/SDI** - *The "Perfect" Trim*: Mechanics of horizontal balance, pelvic position, and knee/ankle alignment (45–90°); troubleshooting common mistakes. [Link](https://www.tdisdi.com/sdi-diver-news/the-perfect-trim/)
@@ -223,5 +232,7 @@ function calculateTrimPlanner() {
 8. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide* (Official Site): Troubleshooting gear adjustments for head-heavy, foot-heavy, and lateral rolling conditions. [Link](https://www.sidemountbook.com)
 9. **Scuba Tech Philippines (Andy Davis)** - *Ultimate Guide to Sidemount Cylinder Trim*: Utilizing sliding D-rings to offset aluminum cylinder buoyancy changes to maintain trim. [Link](https://scubatechphilippines.com/scuba_blog/ultimate-guide-sidemount-cylinder-trim/)
 10. **ScubaBoard** - *Critique my Sidemount Trim and configuration*: Community experience regarding weighting adjustments and gear height tuning for foot-heavy/head-up issues (community source for reference). [Link](https://scubaboard.com/community/threads/critique-my-sidemount-trim-and-configuration.530489/)
+11. **GoSidemount (Razor official product page)** - *Razor 4 BAT Wing*: Position of the main bladder inflator and the dump / manual exhaust valve, and left-right placement of the wing weight pocket. [Link](https://razorgosidemount.com/razor-4-bat-wing/)
+12. **XDEEP (official manual PDF)** - *STEALTH 2.0 User Manual*: Position of the bottom-centre dump valve pull cord and single-handed venting. [Link](https://www.xdeep.eu/files/manuals/xdeep_stealth_manual_en.pdf)
 
 > ⚠️ Note on Citations: Sources [1], [3], and [5] utilize anti-scraping mechanisms (403); contents verified via search engine index.

@@ -70,6 +70,15 @@ tags:
 
 ---
 
+## 🔗 延伸閱讀
+
+*   [[側掛背帶與浮力補償裝置 (BCD)]]
+*   [[鋼瓶與鋁瓶的浮力與配重管理]]
+*   [[水中浮力與水平配平 (Trim)]]
+*   [[上升速率與安全停留標準]]
+
+---
+
 ## 📚 參考文獻與引用來源
 
 1. **DAN (Divers Alert Network)** - *Inflator Valve Stuck, Causing Rapid Ascent*（案例分析）: 充氣閥卡死導致失控上升的真實案例、隨充隨排與 LPI 斷開處置。 [連結](https://dan.org/safety-prevention/diver-safety/case-summaries/inflator-valve-stuck-causing-rapid-ascent/)

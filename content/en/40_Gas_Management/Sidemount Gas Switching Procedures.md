@@ -71,6 +71,15 @@ During technical decompression diving where high-oxygen mixtures (e.g., Nitrox 5
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]
+*   [[en/30_Skills/Second Stage Stowage, Switching & Retrieval|Second Stage Stowage, Switching & Retrieval]]
+*   [[en/40_Gas_Management/Nitrox Basics & MOD Calculation|Nitrox Basics & MOD Calculation]]
+*   [[en/20_Equipment/Dive Computer & Transmitter Configuration|Dive Computer & Transmitter Configuration]]
+
+---
+
 ## 📚 References
 
 1. **Scuba Tech Philippines (Andy Davis)** - *Sidemount Diving: A Detailed Guide*: Trim mechanics under dual-cylinder rotation, switching intervals, and safety redundancy calculations. [Link](https://scubatechphilippines.com/scuba_blog/sidemount-diving-techniques/)

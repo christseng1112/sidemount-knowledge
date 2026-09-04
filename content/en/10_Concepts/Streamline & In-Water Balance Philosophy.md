@@ -85,6 +85,15 @@ To keep cylinders parallel to the body and maintain a streamlined profile throug
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/30_Skills/In-Water Buoyancy & Horizontal Trim|In-Water Buoyancy & Horizontal Trim]]
+*   [[en/30_Skills/Sidemount Propulsion Techniques|Sidemount Propulsion Techniques]]
+*   [[en/20_Equipment/Accessories and Pocket Configuration|Accessories and Pocket Configuration]]
+*   [[en/20_Equipment/Cylinder Rigging & Hardware Setup|Cylinder Rigging & Hardware Setup]]
+
+---
+
 ## 📚 References
 
 1. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide* (Official Site): Comparison of drag and cross-sectional area across different diving configurations. [Link](https://www.sidemountbook.com)

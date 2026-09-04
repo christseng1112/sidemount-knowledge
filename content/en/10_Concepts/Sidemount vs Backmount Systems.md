@@ -92,6 +92,15 @@ There is no single perfect system; there are only the most suitable tools for sp
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/10_Concepts/Sidemount Origins & History|Sidemount Origins & History]]
+*   [[en/10_Concepts/Recreational and Technical Sidemount Positioning Spectrum|Recreational and Technical Sidemount Positioning Spectrum]]
+*   [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]]
+*   [[en/50_Safety/Valve Drills Standard Operating Procedures|Valve Drills Standard Operating Procedures]]
+
+---
+
 ## 📚 References
 
 1. **TDI/SDI** - *Sidemount Diving in a Technical World*: Comparison of sidemount and backmount redundancy—how independent cylinders preserve gas during catastrophic single-side failures. [Link](https://www.tdisdi.com/tdi-diver-news/sidemount-diving-in-a-technical-world/)

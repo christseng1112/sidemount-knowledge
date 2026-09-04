@@ -1,7 +1,7 @@
-﻿# check-links.ps1 — 側掛知識流健檢（wikilink / 中英對照 / 外部連結）
+﻿# check-links.ps1 — 側掛知識流健檢（wikilink / 中英對照 / 引用完整性 / 外部連結）
 # 用法：
 #   .\check-links.ps1              完整健檢（含外部 URL，需數分鐘）
-#   .\check-links.ps1 -SkipUrls    只跑結構檢查（wikilink + 對照表），數秒完成
+#   .\check-links.ps1 -SkipUrls    只跑結構檢查（wikilink + 對照表 + 引用），數秒完成
 # 建議：編輯筆記後跑 -SkipUrls；每季或潛旅前跑完整版。
 param(
     [string]$VaultPath = "C:\Users\chris.tseng\OneDrive - Bora Group\桌面\側掛知識流",
@@ -31,7 +31,7 @@ foreach ($d in $folders) {
 Write-Host "掃描 $($allFiles.Count) 篇筆記`n"
 
 # ---------- 1. wikilink 解析檢查 ----------
-Write-Host "[1/3] wikilink 解析..."
+Write-Host "[1/4] wikilink 解析..."
 $wikiRe = [regex]'\[\[([^\]\|#]+)'
 $totalLinks = 0
 $broken = @()
@@ -56,7 +56,7 @@ if ($broken.Count -eq 0) {
 }
 
 # ---------- 2. 中英對照表一致性 ----------
-Write-Host "`n[2/3] 中英對照表 (title-map.tsv)..."
+Write-Host "`n[2/4] 中英對照表 (title-map.tsv)..."
 $mapFile = Join-Path $PSScriptRoot 'title-map.tsv'
 if (-not (Test-Path $mapFile)) {
     Write-Host "  !  找不到 title-map.tsv，略過" -ForegroundColor Yellow
@@ -85,11 +85,78 @@ if (-not (Test-Path $mapFile)) {
     $issues += $mapErr
 }
 
-# ---------- 3. 外部連結健康 ----------
+# ---------- 3. 引用完整性 ----------
+# 存在理由：2026-07-13 引用文章級化壓縮了參考清單，內文 [n] 標記未同步重編，
+# 造成 20 篇（中英各 10）的 [10]–[23] 指向不存在的條目，潛伏近兩個月未被發現——
+# 因為前兩項檢查只看 wikilink 與檔案對應，看不到引用編號。此段補上該缺口。
+Write-Host "`n[3/4] 引用完整性..."
+# 注意：中文標題為「## 📚 參考文獻與引用來源」，行尾不是「參考文獻」，故不可加 $ 錨點
+$refHdrRe  = [regex]'(?m)^##\s+.*(?:參考文獻|References)'
+$refItemRe = [regex]'(?m)^\s*(\d+)\.\s+\*\*'
+$citeRe    = [regex]'\[(\d{1,2})\]'
+$fenceRe   = [regex]'(?s)```.*?```'
+$scriptRe  = [regex]'(?is)<script\b.*?</script>'
+
+$refCounts = @{}          # "資料夾/檔名" 或 "en/資料夾/檔名" -> 參考條目數
+$citeErr = 0
+foreach ($f in $allFiles) {
+    $content = Get-Content -Raw -Encoding UTF8 $f.FullName
+    $h = $refHdrRe.Match($content)
+    if (-not $h.Success) { continue }   # MOC、術語表、日誌範本無參考段落，略過
+
+    # 內文剔除程式碼區塊與 <script>，避免陣列索引誤判為引用標記
+    $body = $scriptRe.Replace($fenceRe.Replace($content.Substring(0, $h.Index), ''), '')
+    $refs = $content.Substring($h.Index)
+
+    $nums = @{}
+    foreach ($m in $refItemRe.Matches($refs)) { $nums[[int]$m.Groups[1].Value] = $true }
+    $maxRef = 0
+    if ($nums.Count -gt 0) { $maxRef = ($nums.Keys | Measure-Object -Maximum).Maximum }
+
+    $dangling = @{}
+    foreach ($m in $citeRe.Matches($body)) {
+        $n = [int]$m.Groups[1].Value
+        if (-not $nums.ContainsKey($n)) { $dangling[$n] = $true }
+    }
+    if ($dangling.Count -gt 0) {
+        $list = ($dangling.Keys | Sort-Object) -join ','
+        Write-Host "  X  $($f.Name)：內文引用 [$list] 不在參考清單（清單 1-$maxRef）" -ForegroundColor Red
+        $citeErr += $dangling.Count
+    }
+
+    $parent = $f.Directory.Name
+    $grand  = if ($f.Directory.Parent) { $f.Directory.Parent.Name } else { '' }
+    $key = if ($grand -eq 'en') { "en/$parent/$($f.BaseName)" } else { "$parent/$($f.BaseName)" }
+    $refCounts[$key] = $nums.Count
+}
+
+# 中英參考清單條目數須一致：英文版曾刪掉社群/影音來源卻未重編號，
+# 使英文內文的 [n] 指到錯誤來源（2026-09-04 修復 3 篇）。
+if (Test-Path $mapFile) {
+    foreach ($line in (Get-Content -Encoding UTF8 $mapFile)) {
+        if ($line -match '^\s*#' -or $line.Trim() -eq '') { continue }
+        $p = $line -split "`t"
+        if ($p.Count -lt 3) { continue }
+        $d, $zh, $en = $p[0], $p[1], $p[2]
+        $kz = "$d/$zh"; $ke = "en/$d/$en"
+        if ($refCounts.ContainsKey($kz) -and $refCounts.ContainsKey($ke) -and
+            $refCounts[$kz] -ne $refCounts[$ke]) {
+            Write-Host ("  X  中英參考數不符（zh {0} / en {1}）: {2}/{3}" -f $refCounts[$kz], $refCounts[$ke], $d, $zh) -ForegroundColor Red
+            $citeErr++
+        }
+    }
+}
+
+if ($citeErr -eq 0) {
+    Write-Host "  OK 引用編號全數對應、中英參考清單等長（$($refCounts.Count) 篇有參考段落）" -ForegroundColor Green
+}
+$issues += $citeErr
+
+# ---------- 4. 外部連結健康 ----------
 if ($SkipUrls) {
-    Write-Host "`n[3/3] 外部連結檢查已略過 (-SkipUrls)"
+    Write-Host "`n[4/4] 外部連結檢查已略過 (-SkipUrls)"
 } else {
-    Write-Host "`n[3/3] 外部連結 (需數分鐘)..."
+    Write-Host "`n[4/4] 外部連結 (需數分鐘)..."
     # 已知反爬蟲網域：403 屬預期行為（筆記內已加「以搜尋索引確認」註記）
     $whitelist403 = @('tdisdi.com','divegearexpress.com','dtmag.com','scubadiving.com',
                       'diverightinscuba.com','divernet.com','uhms.org','indepthmag.com',
@@ -143,7 +210,7 @@ if ($SkipUrls) {
 
 Write-Host "`n================================"
 if ($issues -eq 0) {
-    Write-Host "結構檢查通過（wikilink + 中英對照）" -ForegroundColor Green
+    Write-Host "結構檢查通過（wikilink + 中英對照 + 引用完整性）" -ForegroundColor Green
     exit 0
 } else {
     Write-Host "結構問題 $issues 項待修" -ForegroundColor Red

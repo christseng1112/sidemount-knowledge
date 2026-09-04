@@ -36,7 +36,7 @@ to buddy; obtain OK [3]. prep for blind touch [2].     close right valve; purge 
                                                                  ▼
 Step 5: Final Flow Check <── Step 4: Left Valve Shutdown (Standby) ◄┘
 Verify SPGs, reset computers,   Switch back to right regulator; close left valve;
-signal OK to buddy [8][9].      purge left to verify; re-open fully counter-clockwise.
+signal OK to buddy [2].      purge left to verify; re-open fully counter-clockwise.
 ```
 
 ### Step 1: Signal Buddy
@@ -50,17 +50,17 @@ Take a breath to stabilize neutral buoyancy, bring your hands in front of your c
 2.  **Locate Handwheel**: Reach back with your right hand to locate the right cylinder first stage and valve handwheel [2].
 3.  **Shut Down**: Rotate the handwheel **clockwise** rapidly and continuously until it stops, closing the valve completely.
 4.  **Isolate & Verify (Breathe Down)**: Grasp the right primary second stage you just spat out, and press the purge button (or take a breath). Verify that **all residual gas clears and no further gas flows**. This confirms the right valve is completely shut [4][5].
-5.  **Re-Open**: Rotate the handwheel **counter-clockwise** until it is fully open. **Modern technical diving standards mandate opening the valve completely without backing off the wheel** (current standard for GUE and most technical agencies) [4][5][8].
+5.  **Re-Open**: Rotate the handwheel **counter-clockwise** until it is fully open. **Modern technical diving standards mandate opening the valve completely without backing off the wheel** (current standard for GUE and most technical agencies) [1][4][5].
 
 ### Step 4: Left Valve Shutdown (Standby Cylinder)
 1.  **Switch Back**: Spit out the left regulator, return it to its neck bungee, insert the right primary regulator (long hose), and resume breathing.
 2.  **Locate Handwheel**: Reach back with your left hand to locate the left cylinder valve handwheel [2].
 3.  **Shut Down**: Rotate the handwheel **clockwise** until it is completely closed.
 4.  **Isolate & Verify**: Press the purge button on the left necklace regulator, verifying that all residual gas clears and no further flow occurs [2][4].
-5.  **Re-Open**: Rotate the handwheel **counter-clockwise** until it is fully open, **maintaining the fully open, no-turnback standard** [4][8].
+5.  **Re-Open**: Rotate the handwheel **counter-clockwise** until it is fully open, **maintaining the fully open, no-turnback standard** [4][5].
 
 ### Step 5: Final Flow Check
-Verify that both valves are fully open. Read the pressure gauges (SPGs) on both sides to confirm gas pressure, signal "OK" to your buddy, and conclude the drill [8][9].
+Verify that both valves are fully open. Read the pressure gauges (SPGs) on both sides to confirm gas pressure, signal "OK" to your buddy, and conclude the drill [2].
 
 ---
 
@@ -93,14 +93,14 @@ flowchart TD
 
 ## ⚙ "Fully Open, No Turnback" — Modern Standard vs. Outdated Practice
 
-> ⚠️ **Important Correction**: Older training manuals taught divers to "open the valve completely, then turn it back 1/4 turn." **This is an obsolete practice and is no longer recommended**. Current training standards for GUE, TDI, and other modern technical agencies mandate: **open the valve completely until it stops, and leave it there** [4][5][8].
+> ⚠️ **Important Correction**: Older training manuals taught divers to "open the valve completely, then turn it back 1/4 turn." **This is an obsolete practice and is no longer recommended**. Current training standards for GUE, TDI, and other modern technical agencies mandate: **open the valve completely until it stops, and leave it there** [1][4][5].
 
 The two historical justifications for backing off the handwheel have been disproven by modern equipment and accident analyses:
 
-1.  **"High-Pressure Lock" is no longer an issue**: Older valve designs could jam when opened under high pressure. **Modern DIN and Pro valve threads and seats are engineered not to seize**, eliminating the need for backing off the wheel [5][8].
+1.  **"High-Pressure Lock" is no longer an issue**: Older valve designs could jam when opened under high pressure. **Modern DIN and Pro valve threads and seats are engineered not to seize**, eliminating the need for backing off the wheel [5].
 2.  **Backing off creates fatal ambiguity (Core Safety Reason)**:
     *   If a valve is "fully open (turned until it stops)," a checker trying to turn it will find it locked, confirming it is open.
-    *   However, if the valve was backed off 1/4 to 1/2 turn, the handwheel has **free play in both directions**. A checker cannot easily distinguish if the valve is "fully open and backed off" or "fully closed and cracked open slightly." If the checker misinterprets the play and shuts the valve down to a cracked-open state, the diver faces a **partially open valve**—which flows gas at the surface but restricts flow at depth under demand, a silent and fatal hazard [5][8].
+    *   However, if the valve was backed off 1/4 to 1/2 turn, the handwheel has **free play in both directions**. A checker cannot easily distinguish if the valve is "fully open and backed off" or "fully closed and cracked open slightly." If the checker misinterprets the play and shuts the valve down to a cracked-open state, the diver faces a **partially open valve**—which flows gas at the surface but restricts flow at depth under demand, a silent and fatal hazard [5].
     *   Therefore, the modern consensus is: **open fully until it stops**. This ensures that "no movement = fully open" is the only interpretation.
 
 > 📌 **Coordinated Protocol**: Since valves are opened fully until they stop, conducting a **Flow Check** and bubble check during your pre-dive routine is essential (see [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]]). Confirming that the handwheel is turned counter-clockwise until it stops verifies that the valve is open.

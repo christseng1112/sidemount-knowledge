@@ -74,6 +74,15 @@ If your harness cannot accommodate a counter-weight pocket, use the following bo
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/30_Skills/In-Water Buoyancy & Horizontal Trim|In-Water Buoyancy & Horizontal Trim]]
+*   [[en/20_Equipment/Steel vs Aluminum Buoyancy Management|Steel vs Aluminum Buoyancy Management]]
+*   [[en/20_Equipment/Cylinder Size Selection Guide|Cylinder Size Selection Guide]]
+*   [[en/20_Equipment/Sidemount Regulator & Hose Routing|Sidemount Regulator & Hose Routing]]
+
+---
+
 ## 📚 References
 
 1. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide* (Official Site): Mechanical analysis of rolling torque caused by asymmetrical ballast in single-cylinder configurations. [Link](https://www.sidemountbook.com)
@@ -85,5 +94,6 @@ If your harness cannot accommodate a counter-weight pocket, use the following bo
 7. **GoSidemount (Razor Official eLearning)** - *Side Mount Open Water Diver*: Gear simplification and trim lessons for single aluminum cylinder setups in tropical environments. [Link](https://razorgosidemount.com/elearning/side-mount-open-water-diver/)
 8. **YouTube (Garry Dallas / Simply Sidemount)** - *Tune up your Fundamental skills*: Video demonstration of horizontal swimming, core trim adjustments, and sliding D-ring operations (video source for reference). [Link](https://www.youtube.com/watch?v=hplPRmKzwwI)
 9. **Dive Gear Express** - *BC Inflator Rubber Hoses*: Sizing guidelines for 30–38 cm (12–15 inch) standard sidemount LPI hoses and 15 cm (6-inch) axial 5th port configurations. [Link](https://www.divegearexpress.com/bc-inflator-rubber-hose)
+10. **Scuba Tech Philippines (Andy Davis)** - *Sidemount Diving: A Detailed Guide*: In-water technique for pushing the cylinder bottom clip forward / shifting the sliding D-ring as an aluminium cylinder goes positive late in the dive. [Link](https://scubatechphilippines.com/scuba_blog/sidemount-diving-techniques/)
 
 > ⚠️ Note on Citations: Source [9] from divegearexpress.com employs anti-scraping mechanisms (403); contents verified via search engine index.

@@ -55,7 +55,7 @@
 
 本知識庫旨在系統化整理，**非經同儕審查之學術文獻**。引用時請注意以下限制：
 
-1.  **連結已全面文章級化（2026-07-13）**：全庫參考文獻均連至具體文章/文件頁面。既知例外：(a) **Sidemount Book**（Rob Neto 書籍官網）與 **razorgosidemount.com 官方站**之品牌理念引用為站級連結，屬來源本質；(b) 反爬蟲網域（tdisdi.com、scubadiving.com、divernet.com、indepthmag.com、divegearexpress.com 等）之文章 URL 以搜尋引擎索引確認並於各篇文末加 ⚠️ 註記，正式引用前請人工複核。
+1.  **連結已全面文章級化（2026-07-13）**：全庫參考文獻均連至具體文章/文件頁面。既知例外：(a) **書籍／品牌官網之站級連結**屬來源本質——**Sidemount Book**（Rob Neto 書籍官網）、**deco-for-divers.com**（Mark Powell《Deco for Divers》書籍官網）與 **razorgosidemount.com 官方站**；(b) 反爬蟲網域（tdisdi.com、scubadiving.com、divernet.com、indepthmag.com、divegearexpress.com 等）之文章 URL 以搜尋引擎索引確認並於各篇文末加 ⚠️ 註記，正式引用前請人工複核。
 2.  **來源權威性分級**：部分佐證為 **Reddit、YouTube、Scribd** 等社群/影音內容，僅供補充，**不可作為生命安全主張之主要依據**；安全關鍵內容請以機構訓練手冊與教科書為準。
 3.  **骨幹參考書**：文中反覆引用之「Sidemount Book」係指 **Rob Neto《Sidemount Diving: The Almost Comprehensive Guide》**（sidemountbook.com）。Razor 系統官方資料統一以 **razorgosidemount.com**（Steve Bogaerts / HP Hartmann）為準。
 4.  **安全免責**：所有程序（氣閥演練、共氣、減壓氣體切換、限制空間穿越等）**僅供已受相應認證訓練者複習參考，不可替代實體課程**。實際操作請依您所屬機構之現行標準與教練指導。
@@ -63,7 +63,7 @@
 6.  **安全數值年度複審**：安全關鍵數值（PO₂ 門檻、CNS 氧限、上升速率、氣體密度上限、DCI 急救 SOP）每年對照 DAN / UHMS / NOAA 最新版複審一次；下次複審日期見下方常設欄位，複審後更新日期並於 changelog 記錄修訂內容。
 
 > 📅 **下次安全數值複審：2027-07**（複審項目：PO₂ 1.4/1.6 門檻、CNS 氧限（含 2025 NOAA 修訂後續）、上升速率 9–10 m/min、氣體密度 5.2/6.2 g/L 上限、DCI 急救 SOP——對照 DAN、UHMS、NOAA 現行版）
-6.  **計算之假設與限制**：所有氣量/浮力/減壓計算均含簡化假設（固定 RMV、線性浮力、理想氣體近似等），各計算頁以「假設與限制」框標註，**結果須與潛水電腦/規劃軟體交叉驗證**。
+7.  **計算之假設與限制**：所有氣量/浮力/減壓計算均含簡化假設（固定 RMV、線性浮力、理想氣體近似等），各計算頁以「假設與限制」框標註，**結果須與潛水電腦/規劃軟體交叉驗證**。
 
 > 📜 **更新紀錄**：全庫的審訂、增補與修正歷程（含安全數值修訂留痕）已移至 [[Changelog|📜 知識庫更新紀錄]]。
 

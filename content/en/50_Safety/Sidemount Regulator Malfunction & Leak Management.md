@@ -73,7 +73,16 @@ Diving in cold water (below 10°C / 50°F) causes gas to undergo rapid pressure 
 2.  **Breathe and Purge Gently**: Avoid purging your regulators aggressively, as sudden high flow rates cause rapid temperature drops that trigger freeze-ups [8][9].
 
 ### 🚨 In-Water Management
-If a first stage freezes open and triggers a free-flow, **shut down the valve immediately, switch to the other regulator, and abort the dive** [8]. Keep the frozen valve closed during your ascent; do not try to cycle it open and closed, as ice requires time to melt in ambient water and cycling will waste gas [8][10].
+If a first stage freezes open and triggers a free-flow, **shut down the valve immediately, switch to the other regulator, and abort the dive** [8]. Keep the frozen valve closed during your ascent; do not try to cycle it open and closed, as ice requires time to melt in ambient water and cycling will waste gas [7][8].
+
+---
+
+## 🔗 Related Notes
+
+*   [[en/50_Safety/Valve Drills Standard Operating Procedures|Valve Drills Standard Operating Procedures]]
+*   [[en/20_Equipment/Sidemount Regulator & Hose Routing|Sidemount Regulator & Hose Routing]]
+*   [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure|Out of Gas (OOG) & Long Hose Sharing Procedure]]
+*   [[en/10_Concepts/Self-Sufficiency Philosophy|Self-Sufficiency Philosophy]]
 
 ---
 

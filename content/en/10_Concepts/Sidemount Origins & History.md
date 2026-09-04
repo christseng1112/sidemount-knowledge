@@ -64,6 +64,15 @@ timeline
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/10_Concepts/Sidemount vs Backmount Systems|Sidemount vs Backmount Systems]]
+*   [[en/10_Concepts/Self-Sufficiency Philosophy|Self-Sufficiency Philosophy]]
+*   [[en/20_Equipment/Razor Sidemount System Adjustment|Razor Sidemount System Adjustment]]
+*   [[en/60_Advanced/Sidemount Guidelines & Operations in Overhead Environments|Sidemount Guidelines & Operations in Overhead Environments]]
+
+---
+
 ## 📚 References
 
 1. **Wikipedia** - *Sidemount diving* (History Section): Overview of sidemount evolution from British sump diving to commercial standardized courses. [Link](https://en.wikipedia.org/wiki/Sidemount_diving)

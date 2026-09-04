@@ -78,8 +78,8 @@ Sidemount utilizes a standardized, highly streamlined method for mounting backup
 
 When diving the **[[en/20_Equipment/Razor Sidemount System Adjustment|Razor 4.0]]** system, utilize its dedicated accessory components:
 
-*   **Razor Utility Pouch**: An extremely flat pocket featuring internal elastic organizers. It attaches flat to the lower back harness via triangular buckles, providing excellent protection against impacts and loss in tight restrictions [2][10].
-*   **Shoulder Backup Light Mounts**: The Razor system includes dedicated Snoopy loops to lock backup torches tight against the shoulder harness, exemplifying minimalist streamlining [10].
+*   **Razor Utility Pouch**: An extremely flat pocket featuring internal elastic organizers. It attaches flat to the lower back harness via triangular buckles, providing excellent protection against impacts and loss in tight restrictions [2][7].
+*   **Shoulder Backup Light Mounts**: The Razor system includes dedicated Snoopy loops to lock backup torches tight against the shoulder harness, exemplifying minimalist streamlining [7].
 
 ---
 

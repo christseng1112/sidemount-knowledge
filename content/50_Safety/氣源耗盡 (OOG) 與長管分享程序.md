@@ -82,6 +82,15 @@ flowchart TD
 
 ---
 
+## 🔗 延伸閱讀
+
+*   [[氣體計劃與安全保留原則]]
+*   [[側掛調節器與低壓高壓管線配置]]
+*   [[上升速率與安全停留標準]]
+*   [[潛水前檢查清單 (Pre-dive Checklists)]]
+
+---
+
 ## 📚 參考文獻與引用來源
 
 1. **DAN (Divers Alert Network), Alert Diver** - *Avoiding Panic After Regulator Failure*: 分析水下缺氣恐慌的行為模式（本能扯調節器/面鏡、直衝水面）與打斷恐慌迴圈的處置訓練。 [連結](https://dan.org/alert-diver/article/avoiding-panic-after-regulator-failure/)

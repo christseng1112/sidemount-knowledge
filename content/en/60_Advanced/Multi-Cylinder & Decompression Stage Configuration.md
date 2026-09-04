@@ -26,7 +26,7 @@ Additional cylinders for technical sidemount (typically AL40 or AL80 aluminum cy
 
 ## 📐 Multi-Cylinder Clipping Positions & Left-Side Priority
 
-When carrying 3 or 4 cylinders, hardware placement follows strict geometric logic [3][8]:
+When carrying 3 or 4 cylinders, hardware placement follows strict geometric logic [3][4]:
 
 ```
 【Technical Sidemount Cross-Section (Top View)】
@@ -39,14 +39,14 @@ When carrying 3 or 4 cylinders, hardware placement follows strict geometric logi
 ```
 
 ### 1. Left-Side Priority Principle
-*   **Right Side Clear**: The right primary cylinder carries the 2.1m long hose. To ensure the long hose can be deployed **instantly and without obstruction** during an OOG emergency, the **right side must remain as clear as possible** [3][8][9].
-*   **Left-Side Loading**: All Stage and Deco cylinders should be mounted on the **left side** first. A diver can carry 1–2 additional cylinders on the left, keeping the right side reserved for the long hose and canister light battery [3][8][9].
+*   **Right Side Clear**: The right primary cylinder carries the 2.1m long hose. To ensure the long hose can be deployed **instantly and without obstruction** during an OOG emergency, the **right side must remain as clear as possible** [3][4].
+*   **Left-Side Loading**: All Stage and Deco cylinders should be mounted on the **left side** first. A diver can carry 1–2 additional cylinders on the left, keeping the right side reserved for the long hose and canister light battery [3][4].
 
 ### 2. Clipping Order SOP (Top Clip First)
-When mounting additional cylinders in the water, follow this sequence to prevent accidental cylinder loss [8][6]:
+When mounting additional cylinders in the water, follow this sequence to prevent accidental cylinder loss [4][6]:
 *   **Mounting: Top Clip First**.
     1.  Hold the cylinder by the neck and clip the Top clip into the chest D-ring. The cylinder is now secured to the harness.
-    2.  Then adjust the bottom and clip the Bottom clip into the waist D-ring or butt plate rail [8][6].
+    2.  Then adjust the bottom and clip the Bottom clip into the waist D-ring or butt plate rail [4][6].
 *   **Removing / Jettisoning: Bottom Clip First**.
     1.  Release the Bottom clip at the waist first, pushing the cylinder forward.
     2.  Then release the Top clip at the chest to complete the removal.
@@ -60,7 +60,7 @@ When two cylinders are mounted simultaneously on the left side (e.g., a 12L stag
 1.  **Inner Layer (closest to body)**: The **left primary cylinder**.
 2.  **Middle Layer**: The **stage cylinder**. Top clip on the left chest D-ring; Bottom clip on the rear waist D-ring [3][6].
 3.  **Outer Layer**: The **deco cylinder**. Top clip on the same left chest D-ring; Bottom clip attaches to **a dedicated leash/D-ring on the stage cylinder's bottom clamp**, creating a parallel layered angle.
-4.  **Physical Balance Effect**: When both Stage/Deco cylinders are aluminum and become positively buoyant as gas is consumed, the layered bolt snap tension causes the two cylinders to press inward against each other, preventing them from splaying outward (the "peacock tail" effect) and maintaining extreme streamlining [6][10].
+4.  **Physical Balance Effect**: When both Stage/Deco cylinders are aluminum and become positively buoyant as gas is consumed, the layered bolt snap tension causes the two cylinders to press inward against each other, preventing them from splaying outward (the "peacock tail" effect) and maintaining extreme streamlining [5][6].
 
 ---
 
@@ -68,9 +68,18 @@ When two cylinders are mounted simultaneously on the left side (e.g., a 12L stag
 
 Additional cylinders dramatically alter the diver's **lateral roll moment** and center of buoyancy:
 
-1.  **Aluminum Cylinder Buoyancy Swing**: Two full AL80 stage cylinders are slightly negative underwater (approx. −0.7 kg × 2 = −1.4 kg). When emptied, they generate significant positive buoyancy (approx. +1.9 kg × 2 = +3.8 kg), pulling the diver's left side upward [10].
+1.  **Aluminum Cylinder Buoyancy Swing**: Two full AL80 stage cylinders are slightly negative underwater (approx. −0.7 kg × 2 = −1.4 kg). When emptied, they generate significant positive buoyancy (approx. +1.9 kg × 2 = +3.8 kg), pulling the diver's left side upward [5].
 2.  **Ballast Compensation**: If the dive plan requires two left-side stages, shift **1–2 kg of lead ballast to the right side** during pre-dive setup to counteract late-dive left-side buoyancy.
-3.  **Sliding D-ring Coordination**: Sliding D-ring adjustments must be more precise in multi-cylinder configurations. Move stage bottom clips slowly to prevent multiple cylinders from colliding across the chest [9][10].
+3.  **Sliding D-ring Coordination**: Sliding D-ring adjustments must be more precise in multi-cylinder configurations. Move stage bottom clips slowly to prevent multiple cylinders from colliding across the chest [4][5].
+
+---
+
+## 🔗 Related Notes
+
+*   [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]]
+*   [[en/60_Advanced/Decompression Stop Execution & Oxygen Deco|Decompression Stop Execution & Oxygen Deco]]
+*   [[en/40_Gas_Management/Oxygen Exposure & Nitrogen Narcosis Management|Oxygen Exposure & Nitrogen Narcosis Management]]
+*   [[en/30_Skills/In-Water Cylinder Management Techniques|In-Water Cylinder Management Techniques]]
 
 ---
 
@@ -79,7 +88,9 @@ Additional cylinders dramatically alter the diver's **lateral roll moment** and 
 1. **TDI/SDI** - *Rigging Stage Bottles… How to carry extra scuba tanks… and why*: Aluminum cylinder rigging specifications, clamp positioning, and webbing techniques. [Link](https://www.tdisdi.com/sdi-diver-news/rigging-stage-bottles-how-to-carry-extra-scuba-tanks-and-why/)
 2. **SSI Blog** - *Deco Diving 101 – Stage Bottle Rigging*: No metal-to-metal safety principles and rigging walkthroughs. [Link](https://www.divessi.com/en/blog/stage-bottle-rigging-7377.html)
 3. **Audrey Cudel Technical** - *Technical Sidemount*: 3–4 cylinder configurations, trim interactions, and gas management training. [Link](https://audreycudel.com/technical-sidemount)
-4. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*: Multi-cylinder buoyancy center-of-gravity shift modeling. [Link](https://www.sidemountbook.com)
-5. **Dive Rite** - *Sidemount Rigging Kit*: Deco cylinder strap and hardware component specifications. [Link](https://diverite.com/products/nomad-sidemount/sidemount-rigging-kit/)
+4. **ScubaBoard** - *Staging Regs For Sidemount*: Technical community discussion of deco cylinder clipping order and the in-water unclipping procedure (community source, supplementary only). [Link](https://scubaboard.com/community/threads/staging-regs-for-sidemount.525851/)
+5. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*: Multi-cylinder buoyancy center-of-gravity shift modeling. [Link](https://www.sidemountbook.com)
+6. **YouTube (Garry Dallas / Simply Sidemount)** - *Garry Dallas (Simply Sidemount) channel*: Demonstration of left-side cylinder layering, interlocking bolt snaps, and preventing outward splay (video source, supplementary only). [Link](https://www.youtube.com/@Garry_Dallas)
+7. **Dive Rite** - *Sidemount Rigging Kit*: Deco cylinder strap and hardware component specifications. [Link](https://diverite.com/products/nomad-sidemount/sidemount-rigging-kit/)
 
 > ⚠️ Note on Citations: Source [1] from tdisdi.com employs anti-scraping mechanisms (403); contents verified via search engine index.

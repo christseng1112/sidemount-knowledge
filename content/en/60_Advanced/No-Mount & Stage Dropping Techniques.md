@@ -79,7 +79,7 @@ On long-range explorations, divers may detach carried stage cylinders and secure
 
 After dropping a stage cylinder, the diver's body transitions instantly from symmetrical loading to asymmetrical loading.
 *   The pulling force from the dropped side disappears. The diver must release any compensatory ballast from the opposite side, or engage core muscles to maintain horizontal trim.
-*   For detailed asymmetric trim correction techniques, refer to [[en/30_Skills/Single Cylinder Sidemount Configuration|Single Cylinder Sidemount Configuration]].
+*   For detailed asymmetric trim correction techniques, refer to [[en/30_Skills/Single Cylinder Sidemount Configuration|Single Cylinder Sidemount Configuration]] [6][7].
 
 ---
 
@@ -91,3 +91,4 @@ After dropping a stage cylinder, the diver's body transitions instantly from sym
 4. **NSS-CDS** - *NSS-CDS Standards and Procedures* (PDF): Stage diving standards for guideline-attached cylinder storage, marking, and gas management. [Link](https://nsscds.org/wp-content/uploads/2022/11/Standards221127.pdf)
 5. **DiveVolk** - *Cave Diving Safety: Line Techniques, Emergency Protocols*: Zero-visibility cylinder retrieval and retreat safety practices. [Link](https://www.divevolkdiving.com/blogs/diving-knowledge/cave-diving-safety-line-techniques-emergency-protocols)
 6. **Audrey Cudel Technical** - *Technical Sidemount*: Stage donning/doffing, valve orientation, and retrieval procedure training. [Link](https://audreycudel.com/technical-sidemount)
+7. **YouTube (Garry Dallas / Simply Sidemount)** - *Garry Dallas (Simply Sidemount) channel*: Demonstrations of restriction cylinder pushing and staged cylinder drops (video source, supplementary only). [Link](https://www.youtube.com/@Garry_Dallas)

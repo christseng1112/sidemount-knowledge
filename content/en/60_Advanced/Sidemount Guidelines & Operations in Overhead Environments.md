@@ -72,6 +72,15 @@ When silt-out reduces visibility to zero or primary lights fail completely, visu
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/60_Advanced/Wreck Penetration Guideline & Reel Procedures|Wreck Penetration Guideline & Reel Procedures]]
+*   [[en/60_Advanced/No-Mount & Stage Dropping Techniques|No-Mount & Stage Dropping Techniques]]
+*   [[en/50_Safety/Team Separation & Lost Diver SOP|Team Separation & Lost Diver SOP]]
+*   [[en/30_Skills/Sidemount Propulsion Techniques|Sidemount Propulsion Techniques]]
+
+---
+
 ## 📚 References
 
 1. **NSS-CDS** - *NSS-CDS Standards and Procedures* (PDF): Primary/secondary tie-off standards and cave guideline training requirements. [Link](https://nsscds.org/wp-content/uploads/2022/11/Standards221127.pdf)

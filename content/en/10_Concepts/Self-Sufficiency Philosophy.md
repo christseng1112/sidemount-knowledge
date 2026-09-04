@@ -60,6 +60,15 @@ Self-sufficiency does not come easily; it is accompanied by higher **task loadin
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]
+*   [[en/50_Safety/Sidemount Regulator Malfunction & Leak Management|Sidemount Regulator Malfunction & Leak Management]]
+*   [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure|Out of Gas (OOG) & Long Hose Sharing Procedure]]
+*   [[en/60_Advanced/Solo Diving & Extreme No-Mount Configuration|Solo Diving & Extreme No-Mount Configuration]]
+
+---
+
 ## 📚 References
 
 1. **TDI/SDI** - *Solo Diving*: Psychological traits, equipment redundancy, and self-rescue logic of self-sufficient divers—positioning sidemount as a redundant solo configuration. [Link](https://www.tdisdi.com/sdi-diver-news/sdi-solo-diving/)

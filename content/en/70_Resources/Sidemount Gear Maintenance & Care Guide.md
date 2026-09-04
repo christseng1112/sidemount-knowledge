@@ -68,6 +68,15 @@ Regularly inspect the following high-wear areas [3][5]:
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/70_Resources/Used Sidemount Gear Buying Guide|Used Sidemount Gear Buying Guide]]
+*   [[en/70_Resources/Sidemount Gear Travel Packing & Airline Baggage Guide|Sidemount Gear Travel Packing & Airline Baggage Guide]]
+*   [[en/20_Equipment/Sidemount Regulator & Hose Routing|Sidemount Regulator & Hose Routing]]
+*   [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]]
+
+---
+
 ## 📚 References
 
 1. **Scuba Tech Philippines** - *Sidemount Cylinder Boltsnaps: Gear Setup Tips*: Bolt snap materials, sizes, and seizure prevention. [Link](https://scubatechphilippines.com/scuba_blog/choosing-sidemount-cylinder-boltsnaps/)

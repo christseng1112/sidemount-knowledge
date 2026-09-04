@@ -57,13 +57,13 @@ tags:
 
 ## 📊 水中 Trim 異常的配重診斷與微調
 
-如果您已經做好了骨盆前推，但依然無法維持水平，說明您的**重心（CoG）與浮心（CoB）存在物理偏差**。此時必須調整配重塊位置，而非使用蛙鞋拍動來補償 [7][13]：
+如果您已經做好了骨盆前推，但依然無法維持水平，說明您的**重心（CoG）與浮心（CoB）存在物理偏差**。此時必須調整配重塊位置，而非使用蛙鞋拍動來補償 [7][8]：
 
 | 水中症狀 | 物理成因 | 實務微調策略 (以 Razor / XDEEP 為例) |
 | :--- | :--- | :--- |
-| **腳沉 (Foot-heavy / Head-up)** | 重心（CoG）偏向身體下半身，產生向後的轉矩 [7]。 | 1. 將身上的配重塊往上移動（移向 Delta 肩板或背帶上方） [7][13]。<br>2. 如果使用鋼瓶，可將氣瓶夾向下移動 2-3 cm（將氣瓶整體上提） [10]。<br>3. 檢查雙腿是否完全放鬆沒有出力。 |
-| **頭沉 (Head-heavy / Foot-up)** | 重心（CoG）偏向身體上半身，產生向前的轉矩 [7]。 | 1. 將身上配重下移（移向腰帶或胯帶） [7][13]。<br>2. 檢查手電筒電池罐等重物是否過於靠上。<br>3. 氣瓶夾位置往瓶閥方向上移。 |
-| **左右傾斜 (Lateral Rolling)** | 左右重心不對稱（如掛載單氣瓶或重型 Stage） [7]。 | 1. 將配重移向較輕的一側（例如將配重裝在 Razor 的 Wing weight pocket 另一側） [14]。<br>2. 確保雙側氣瓶的繩圈長度完全對稱。 |
+| **腳沉 (Foot-heavy / Head-up)** | 重心（CoG）偏向身體下半身，產生向後的轉矩 [7]。 | 1. 將身上的配重塊往上移動（移向 Delta 肩板或背帶上方） [7][8]。<br>2. 如果使用鋼瓶，可將氣瓶夾向下移動 2-3 cm（將氣瓶整體上提） [10]。<br>3. 檢查雙腿是否完全放鬆沒有出力。 |
+| **頭沉 (Head-heavy / Foot-up)** | 重心（CoG）偏向身體上半身，產生向前的轉矩 [7]。 | 1. 將身上配重下移（移向腰帶或胯帶） [7][8]。<br>2. 檢查手電筒電池罐等重物是否過於靠上。<br>3. 氣瓶夾位置往瓶閥方向上移。 |
+| **左右傾斜 (Lateral Rolling)** | 左右重心不對稱（如掛載單氣瓶或重型 Stage） [7]。 | 1. 將配重移向較輕的一側（例如將配重裝在 Razor 的 Wing weight pocket 另一側） [11]。<br>2. 確保雙側氣瓶的繩圈長度完全對稱。 |
 
 ---
 
@@ -73,8 +73,8 @@ tags:
 
 1.  **分次微量充排氣 (Incremental Inflation)**：每次充氣只需按壓充氣閥 **0.5秒**。充氣後需等待 **2 - 3秒**，讓氣體在氣囊內鋪平並使身體產生浮力回饋，再評估是否需要追加，切忌連續長按充氣閥 [1][2]。
 2.  **維持 Trim 狀態排氣**：側掛排氣不需要改變身體水平姿勢。
-    *   *Razor 系統*：排氣閥位於背部下方。排氣時，只需一隻手向後拉動左下方的排氣拉繩，同時身體保持水平，或臀部微翹即可 [2][14]。
-    *   *XDEEP 系統*：排氣閥位於底部中央。只需單手向後下方拉動中央拉繩，氣體會順暢排出 [13]。
+    *   *Razor 系統*：排氣閥位於背部下方。排氣時，只需一隻手向後拉動左下方的排氣拉繩，同時身體保持水平，或臀部微翹即可 [2][11]。
+    *   *XDEEP 系統*：排氣閥位於底部中央。只需單手向後下方拉動中央拉繩，氣體會順暢排出 [12]。
 
 ---
 
@@ -212,6 +212,15 @@ function calculateTrimPlanner() {
 
 ---
 
+## 🔗 延伸閱讀
+
+*   [[流線型與水中平衡哲學]]
+*   [[鋼瓶與鋁瓶的浮力與配重管理]]
+*   [[防寒衣選擇與浮力配平影響]]
+*   [[側掛動力推進技巧 (Propulsion)]]
+
+---
+
 ## 📚 參考文獻與引用來源
 
 1. **TDI/SDI** - *The "Perfect" Trim*: 骨盆、核心張力與膝踝角度（45–90°）對水平配平的力學作用與常見錯誤。 [連結](https://www.tdisdi.com/sdi-diver-news/the-perfect-trim/)
@@ -224,5 +233,7 @@ function calculateTrimPlanner() {
 8. **Sidemount Book (Rob Neto)** - *Sidemount Diving: The Almost Comprehensive Guide*（書籍官網）: 頭沉、腳沉、側滾等姿態的裝備微調對照。 [連結](https://www.sidemountbook.com)
 9. **Scuba Tech Philippines (Andy Davis)** - *Ultimate Guide to Sidemount Cylinder Trim*: 滑動 D 環補償鋁瓶浮力變化以維持後期 Trim 的方法。 [連結](https://scubatechphilippines.com/scuba_blog/ultimate-guide-sidemount-cylinder-trim/)
 10. **ScubaBoard** - *Critique my Sidemount Trim and configuration*: 腳下沉/頭上仰問題的配重與裝備高度微調社群經驗（社群來源，僅供補充）。 [連結](https://scubaboard.com/community/threads/critique-my-sidemount-trim-and-configuration.530489/)
+11. **GoSidemount (Razor 官方產品頁)** - *Razor 4 BAT Wing*: 主氣囊之充氣閥與洩壓／手動排氣閥位置、Wing 配重口袋之左右配置。 [連結](https://razorgosidemount.com/razor-4-bat-wing/)
+12. **XDEEP（官方手冊 PDF）** - *STEALTH 2.0 User Manual*: 底部中央排氣閥拉繩位置與單手排氣操作。 [連結](https://www.xdeep.eu/files/manuals/xdeep_stealth_manual_en.pdf)
 
 > ⚠️ 引用注意：tdisdi.com 與 scubadiving.com 有反爬蟲機制（403），內容以搜尋引擎索引確認。

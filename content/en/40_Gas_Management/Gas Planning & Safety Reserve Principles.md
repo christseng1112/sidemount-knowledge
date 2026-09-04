@@ -190,6 +190,15 @@ If you carry different cylinder sizes (e.g., left: 12L steel, right: 11.1L AL80)
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/40_Gas_Management/Gas Consumption Rate (SAC & RMV) Calculation|Gas Consumption Rate (SAC & RMV) Calculation]]
+*   [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]]
+*   [[en/50_Safety/Out of Gas (OOG) & Long Hose Sharing Procedure|Out of Gas (OOG) & Long Hose Sharing Procedure]]
+*   [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]
+
+---
+
 ## 📚 References
 
 1. **Sidemount Book (Rob Neto)** - *Sidemount Gas Management*: Redundancy models for independent cylinder systems, pressure switch intervals, and backup gas calculations. [Link](https://sidemountbook.com/articles/sidemount-gas-management/)

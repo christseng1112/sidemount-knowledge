@@ -129,6 +129,15 @@ Razor 4 官方使用**一條連續的 6ft Side Mount Bungee**（橫越背部、�
 
 ---
 
+## 🔗 延伸閱讀
+
+*   [[側掛背帶與浮力補償裝置 (BCD)]]
+*   [[XDEEP Stealth 2.0 系統調整與配置]]
+*   [[主流側掛系統橫向對比 (Katana 2、Nomad、WSX)]]
+*   [[水中浮力與水平配平 (Trim)]]
+
+---
+
 ## 📚 參考文獻與引用來源
 
 1. **GoSidemount (Razor 官方)** - *Manual for the Razor 4 Harness*（官方手冊產品頁）: Steve Bogaerts 官方安裝調整說明書，包含 Delta Plate 定位、Bungee Tri-glide 調整與配重設定。 [連結](https://razorgosidemount.com/product/manual-for-the-razor-4-harness/)

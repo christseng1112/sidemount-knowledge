@@ -81,6 +81,15 @@ flowchart TD
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]
+*   [[en/20_Equipment/Sidemount Regulator & Hose Routing|Sidemount Regulator & Hose Routing]]
+*   [[en/50_Safety/Ascent Rate & Safety Stop Standards|Ascent Rate & Safety Stop Standards]]
+*   [[en/70_Resources/Pre-Dive Checklists|Pre-Dive Checklists]]
+
+---
+
 ## 📚 References
 
 1. **DAN (Divers Alert Network)** - *Avoiding Panic After Regulator Failure*: Analysis of panic behavior underwater (regulator/mask ripping, rapid ascents) and how to manage the panic loop. [Link](https://dan.org/alert-diver/article/avoiding-panic-after-regulator-failure/)

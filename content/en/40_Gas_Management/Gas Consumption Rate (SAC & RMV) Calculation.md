@@ -153,7 +153,16 @@ When planning emergency gas reserves (Rock Bottom), **you must never use your ba
 | **Normal Swimming** | **12 - 15 L/min** | Open water sightseeing, zero task loading. |
 | **Light Work / Tech Diving** | **15 - 20 L/min** | Carrying cameras, managing lights, light current, guideline operations. |
 | **Heavy Work / Strong Flow** | **20 - 25 L/min** | Heavy swimming against current, cold-water drysuit diving [8]. |
-| **Emergency / Panic** | **30 - 45 L/min** | **Rock Bottom calculation standard**. Buddy gas-sharing ascents, catastrophic gas loss, and panic conditions [1][8][9]. |
+| **Emergency / Panic** | **30 - 45 L/min** | **Rock Bottom calculation standard**. Buddy gas-sharing ascents, catastrophic gas loss, and panic conditions [1][5][8]. |
+
+---
+
+## 🔗 Related Notes
+
+*   [[en/40_Gas_Management/Gas Planning & Safety Reserve Principles|Gas Planning & Safety Reserve Principles]]
+*   [[en/40_Gas_Management/Sidemount Gas Switching Procedures|Sidemount Gas Switching Procedures]]
+*   [[en/40_Gas_Management/CO2 Retention & Work of Breathing|CO2 Retention & Work of Breathing]]
+*   [[en/20_Equipment/Dive Computer & Transmitter Configuration|Dive Computer & Transmitter Configuration]]
 
 ---
 

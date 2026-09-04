@@ -27,44 +27,44 @@ The frog kick is the most fundamental and efficient kicking technique in technic
 *   **Execution Steps**:
     1.  **Ready**: Maintain a horizontal Trim, double legs together, thighs flat and parallel with the spine.
     2.  **Spread**: Cinch the hamstrings to raise your calves (knees bent 90 degrees), flaring the knees slightly to shoulder-width. Flex the ankles upward so the flat face of the fins sits parallel to the bottom [7][8].
-    3.  **Thrust**: Rotate your ankles outward to face the flat side of the fins backward, engage thighs and calves, and sweep the feet back and down in an arc, squeezing them together [7][10].
-    4.  **Glide**: Once the feet meet, **immediately point your toes and lock your legs straight** to minimize frontal drag, gliding forward on momentum for 2–3 seconds. This glide is key to low gas consumption [7][11].
+    3.  **Thrust**: Rotate your ankles outward to face the flat side of the fins backward, engage thighs and calves, and sweep the feet back and down in an arc, squeezing them together [3][7].
+    4.  **Glide**: Once the feet meet, **immediately point your toes and lock your legs straight** to minimize frontal drag, gliding forward on momentum for 2–3 seconds. This glide is key to low gas consumption [4][7].
 
 ---
 
 ## 🔄 2. The Modified Frog Kick — Confined Spaces
 
-When entering narrow caves, wreck corridors, or diving in tight team files, the wide sweep of a standard frog kick can strike surrounding walls. Divers must utilize the modified frog kick [13][14].
+When entering narrow caves, wreck corridors, or diving in tight team files, the wide sweep of a standard frog kick can strike surrounding walls. Divers must utilize the modified frog kick [2][5].
 
 *   **Execution Steps**:
     *   Keep your thighs locked stationary (flat and parallel with the spine), keeping your knees close together.
-    *   **Bend only at the knees and rotate your ankles slightly** to make small, compact "scoops" with the fins [7][13].
-*   **Physical Effect**: Minimizes frontal area and thrust width, providing gentle, highly controlled propulsion that allows you to maneuver through tight restrictions without making contact with the walls [14][23].
+    *   **Bend only at the knees and rotate your ankles slightly** to make small, compact "scoops" with the fins [5][7].
+*   **Physical Effect**: Minimizes frontal area and thrust width, providing gentle, highly controlled propulsion that allows you to maneuver through tight restrictions without making contact with the walls [1][5].
 
 ---
 
 ## 🔙 3. The Backwards Kick — Position Control & Retreating
 
-The backwards kick is one of the most challenging but critical safety and positioning skills in sidemount. It enables the diver to move backward smoothly without turning around [15][17].
+The backwards kick is one of the most challenging but critical safety and positioning skills in sidemount. It enables the diver to move backward smoothly without turning around [6][7].
 
 *   **Execution Steps**:
     1.  **Initial State**: Double legs together, knees straight, ankles relaxed.
     2.  **Preparation**: Flex ankles upward to bring the flat face of the fins to 90 degrees relative to the shins, facing forward.
-    3.  **Scoop Thrust**: Bend your knees slightly and flare your shins outward. Use your calf and ankle muscles to **scoop/pull the fins forward and inward**, pushing water thrust forward [17][18].
-    4.  **Recovery**: Relax the knees and ankles, straightening your legs back together to glide backward, then repeat [18][19].
-*   **Physical Effect**: Generates forward thrust, moving the diver backward. This skill allows you to maintain a safe distance from reefs, walls, or guidelines without using your hands [15][17].
+    3.  **Scoop Thrust**: Bend your knees slightly and flare your shins outward. Use your calf and ankle muscles to **scoop/pull the fins forward and inward**, pushing water thrust forward [6][7].
+    4.  **Recovery**: Relax the knees and ankles, straightening your legs back together to glide backward, then repeat [6].
+*   **Physical Effect**: Generates forward thrust, moving the diver backward. This skill allows you to maintain a safe distance from reefs, walls, or guidelines without using your hands [6][7].
 
 ---
 
 ## 🛸 4. The Helicopter Turn — Stationary 360° Rotation
 
-The helicopter turn allows the diver to spin 360 degrees on the spot without moving forward or backward [11][20].
+The helicopter turn allows the diver to spin 360 degrees on the spot without moving forward or backward [6][7].
 
 *   **Execution Steps** (for a **clockwise turn**):
     *   **Left Leg**: Execute the first half of a standard frog kick (rotate ankle outward and sweep back).
-    *   **Right Leg**: Execute the scoop phase of a backwards kick (pull fin forward and inward) [11][20].
+    *   **Right Leg**: Execute the scoop phase of a backwards kick (pull fin forward and inward) [6][7].
     *   Coordinate both legs—one pushing back and one pulling forward—causing the body to rotate clockwise on the spot, pivoting around the center of gravity at the abdomen.
-*   **Physical Effect**: Allows you to turn around and exit a dead-end restriction or change directions while holding reels or lights, without using your hands [21][22].
+*   **Physical Effect**: Allows you to turn around and exit a dead-end restriction or change directions while holding reels or lights, without using your hands [1][7].
 
 ---
 
@@ -72,7 +72,16 @@ The helicopter turn allows the diver to spin 360 degrees on the spot without mov
 
 A common mistake for beginners is allowing the torso to sway or snake up and down as they kick.
 *   **Physical Mechanism**: According to Newton's third law, the reaction force generated by kicks will translate into body sway if the core is not locked.
-*   **Control Key**: Keep the **muscles from your lower back up to your shoulders locked tight like a rigid board** during kicks. This directs the reaction force entirely into linear forward momentum. Keep only the knees, calves, and ankles flexible, while the torso remains absolutely stable and horizontal [9][20][23].
+*   **Control Key**: Keep the **muscles from your lower back up to your shoulders locked tight like a rigid board** during kicks. This directs the reaction force entirely into linear forward momentum. Keep only the knees, calves, and ankles flexible, while the torso remains absolutely stable and horizontal [8][9].
+
+---
+
+## 🔗 Related Notes
+
+*   [[en/30_Skills/In-Water Buoyancy & Horizontal Trim|In-Water Buoyancy & Horizontal Trim]]
+*   [[en/10_Concepts/Streamline & In-Water Balance Philosophy|Streamline & In-Water Balance Philosophy]]
+*   [[en/60_Advanced/Sidemount Guidelines & Operations in Overhead Environments|Sidemount Guidelines & Operations in Overhead Environments]]
+*   [[en/20_Equipment/Fins and Mask Selection|Fins and Mask Selection]]
 
 ---
 

@@ -125,6 +125,15 @@ These two systems represent the classic schools of sidemount design, with contra
 
 ---
 
+## 🔗 Related Notes
+
+*   [[en/20_Equipment/Sidemount Harness & BCD|Sidemount Harness & BCD]]
+*   [[en/20_Equipment/XDEEP Stealth 2.0 Configuration|XDEEP Stealth 2.0 Configuration]]
+*   [[en/20_Equipment/Harness Comparison (Katana 2, Nomad, WSX)|Harness Comparison (Katana 2, Nomad, WSX)]]
+*   [[en/30_Skills/In-Water Buoyancy & Horizontal Trim|In-Water Buoyancy & Horizontal Trim]]
+
+---
+
 ## 📚 References
 
 1. **GoSidemount (Razor Official)** - *Manual for the Razor 4 Harness* (Manual Page): Steve Bogaerts' installation and fit manual, detailing Delta plate positioning, bungee adjustment, and ballast setup. [Link](https://razorgosidemount.com/product/manual-for-the-razor-4-harness/)

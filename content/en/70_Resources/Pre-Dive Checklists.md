@@ -19,8 +19,8 @@ GUE EDGE is widely recognized in technical diving as a highly structured team ch
 
 ### 📧 E – Equipment
 *   **Cylinder Attachment**: Verify that the left and right lower cylinder bolt snaps are securely clipped to your waist D-rings (or sliding D-rings). Ensure that the neck bungees are looped securely around the valve handwheels [4].
-*   **Accessories & Pockets**: Ensure that your backup mask and line markers are stowed inside your butt pocket with the zippers closed. Cutting tools (shears and line cutters) must be mounted on the chest harness or waist belt where they can be **accessed single-handedly by either hand** [9][10].
-*   **Backup Lights**: Confirm that the two backup lights mounted on your shoulder harness run flush, point downward, and have their bolt snaps clipped off [10].
+*   **Accessories & Pockets**: Ensure that your backup mask and line markers are stowed inside your butt pocket with the zippers closed. Cutting tools (shears and line cutters) must be mounted on the chest harness or waist belt where they can be **accessed single-handedly by either hand** [4].
+*   **Backup Lights**: Confirm that the two backup lights mounted on your shoulder harness run flush, point downward, and have their bolt snaps clipped off [4].
 
 ### 🗺️ D – Dive Plan
 *   Confirm the dive time limit, maximum target depth, and decompression schedule.
@@ -38,16 +38,16 @@ GUE EDGE is widely recognized in technical diving as a highly structured team ch
 
 ## 🚨 2. In-Water Safety Drills: S-Drill & Bubble Check
 
-The S-Drill (Safety Drill) and Bubble Check are conducted **immediately after entering the water at a shallow depth of 3 to 5 meters**, where buoyancy can be established away from currents and surge [10][12].
+The S-Drill (Safety Drill) and Bubble Check are conducted **immediately after entering the water at a shallow depth of 3 to 5 meters**, where buoyancy can be established away from currents and surge [7][8].
 
 ### 🟢 Step 1: The Bubble Check
 1.  The team establishes a stable horizontal trim at 3 meters.
 2.  Each diver slowly performs a 360-degree rotation.
 3.  Teammates inspect the **left and right first stages, valve handwheels, low-pressure and high-pressure hose connections, SPG spool joints, and BCD bladder seams**.
-4.  Verify that no bubbles are escaping. If any leak is detected, abort the dive immediately and return to the surface [10][12][15].
+4.  Verify that no bubbles are escaping. If any leak is detected, abort the dive immediately and return to the surface [8].
 
 ### 🔵 Step 2: Gas Sharing Safety Drill (S-Drill)
-The S-Drill simulates an OOG emergency to build muscle memory for deploying the 2.1-meter long hose [8][12]:
+The S-Drill simulates an OOG emergency to build muscle memory for deploying the 2.1-meter long hose [6][8]:
 
 ```
 1. Buddy signals "OOG" ──> 2. Donor deploys long hose ──> 3. Donor switches to backup ──> 4. Clear and extend 2.1m hose
@@ -56,9 +56,9 @@ The S-Drill simulates an OOG emergency to build muscle memory for deploying the 
 
 1.  Your buddy signals "OOG" by sweeping a hand across their neck.
 2.  You deliver the right-side long hose regulator directly into your buddy's mouth with your right hand. Your buddy begins breathing.
-3.  You immediately duck your chin, locate the backup regulator on your necklace, purge it, and resume breathing [12].
-4.  With your right hand, reach behind your neck to release the 2.1-meter long hose fully. Extend it to ensure **the hose runs free and is not caught on your light cord, camera, or BCD inflator** [4][16].
-5.  Once your buddy is breathing comfortably and the hose is verified clear, conclude the drill. Recover the long hose, wrap it around your neck, stow the excess loop, switch back to the primary regulator, and signal "OK" [12].
+3.  You immediately duck your chin, locate the backup regulator on your necklace, purge it, and resume breathing [6].
+4.  With your right hand, reach behind your neck to release the 2.1-meter long hose fully. Extend it to ensure **the hose runs free and is not caught on your light cord, camera, or BCD inflator** [4][6].
+5.  Once your buddy is breathing comfortably and the hose is verified clear, conclude the drill. Recover the long hose, wrap it around your neck, stow the excess loop, switch back to the primary regulator, and signal "OK" [6].
 
 ---
 
@@ -84,3 +84,5 @@ As you stand on the swim platform or boat edge, review these five items to preve
 6. **GUE** - *General Training Standards, Policies, and Procedures*: Standard protocols for S-Drills, long hose deployment, and regulator recovery. [Link to PDF](https://www.gue.com/files/Standards_and_Procedures/GUE-Standards-v10.1.pdf)
 
 > ⚠️ Note on Citations: Source [3] and [5] from tdisdi.com employ anti-scraping mechanisms (403); contents verified via search engine index.
+7. **ScubaBoard** - *Valve Drill - When to do it?*: Community discussion of flow-check timing and incidents caused by entering the water with a closed valve (community source, supplementary only). [Link](https://scubaboard.com/community/threads/valve-drill-when-to-do-it.230255/)
+8. **ScubaBoard** - *Bubble Check Problem*: Practical exchange on the shallow-water 360° bubble check and preventing HP O-ring leaks (community source, supplementary only). [Link](https://scubaboard.com/community/threads/bubble-check-problem.179504/)
